@@ -138,10 +138,10 @@
       "source": "https://jpeckenpaugh.github.io/threat-sweep/"
     },
     "vibe-tic-tac-toe": {
-      "video": "previews/vibe-tic-tac-toe.webm",
-      "poster": "thumbnails/vibe-tic-tac-toe.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://v-ttt.livive.net/demos/latest/demo.webm",
+      "poster": "https://v-ttt.livive.net/demos/latest/gallery/swords.png",
+      "mode": "demo",
+      "duration_ms": 31640,
       "width": 640,
       "height": 400,
       "bytes": 109114,
@@ -149,12 +149,28 @@
       "source": "https://v-ttt.livive.net/",
       "gallery": [
         {
-          "label": "Title Screen (v-ttt.livive.net)",
-          "src": "https://v-ttt.livive.net/docs/screenshot-title.png"
+          "label": "Title Screen",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/title.png"
         },
         {
-          "label": "3×3 Board & Hover Preview",
-          "src": "https://v-ttt.livive.net/docs/screenshot-game.png"
+          "label": "How to Play & Trilogy Backstory",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/about.png"
+        },
+        {
+          "label": "Options & 6 Emoji Piece Themes",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/options.png"
+        },
+        {
+          "label": "Swords & Shields Win + Confetti",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/swords.png"
+        },
+        {
+          "label": "Cats & Dogs Theme + Hover Preview",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/cats.png"
+        },
+        {
+          "label": "Persistent Leaderboard",
+          "src": "https://v-ttt.livive.net/demos/latest/gallery/leaderboard.png"
         },
         {
           "label": "The $0.15 OpenCode / DeepSeek Receipt",
