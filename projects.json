@@ -60,9 +60,9 @@
       "key": "chk-livive-net",
       "repo": "chk-livive-net",
       "display_title": "Classic Checkers & AI Arena",
-      "tagline": "English Draughts with in-browser WebLLM AI, persona banter, and a spectator arena",
-      "short_description": "A zero-dependency, client-side Checkers (English Draughts) game with on-device WebLLM AI opponents, an alpha-beta Minimax engine, AI vs AI spectator arena, and pass-and-play.",
-      "long_description": "A modern, zero-dependency, client-side implementation of English Draughts (Checkers) featuring on-device WebLLM AI (Llama 3.2, SmolLM2) running in the browser via WebGPU, persona banter streaming, an AI vs AI Spectator Arena, offline Minimax AI, and a full rules engine. It offers four modes: Player vs Minimax, Player vs LLM AI, AI vs AI Arena, and local Pass & Play. The dual-session LLM architecture separates tactical move selection from personality banter, backed by a robust JSON move parser with corrective retries and heuristic fallbacks. It enforces strict English Draughts rules (mandatory captures, multi-jump locks, immediate crowning, 40-move draw) and includes a built-in prompt/engine debugger plus a preload hardware staging screen. A Godot 4 3D Web edition is also hosted under /godot/.",
+      "tagline": "English Draughts meets in-browser neural intelligence: play instant Minimax, challenge WebGPU LLM personas with live banter, or switch to 3D Godot.",
+      "short_description": "Play English Draughts against instant alpha-beta Minimax, challenge in-browser WebGPU LLM personas with streaming banter, spectate AI vs. AI Arena matches, or launch the 3D Godot 4 client.",
+      "long_description": "Classic 8×8 English Draughts (mandatory jump captures, multi-jump chains, and king crowning) paired with both classical search and client-side WebGPU large language models. Jump straight into an instant game against Alpha-Beta Minimax (Depth 2/4/6), load a local WebLLM model to face 6 trash-talking AI personas streaming live commentary, pit any two controllers against each other in the AI vs. AI Spectator Arena, or switch to the 3D Godot 4 WebGL board.",
       "tags": [
         "checkers",
         "draughts",
@@ -90,26 +90,44 @@
       "notes": "Custom domain chk.livive.net from CNAME; GitHub Pages also serves at jpeckenpaugh.github.io/chk-livive-net/. 100 tests via node --test. package.json name is 'godot-checkers'. MIT licensed per README/package.json.",
       "demos": [
         {
-          "label": "Play",
+          "label": "Play 2D Arena",
           "url": "https://chk.livive.net/"
+        },
+        {
+          "label": "Play 3D Godot",
+          "url": "https://chk.livive.net/godot/"
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-11T17:17:55Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 360,
       "live_final_url": "https://chk.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "♟️ 1. Pick Your Match Mode",
+          "body": "Choose Play vs. Minimax for an instant zero-download game (Easy/Medium/Hard), Play vs. WebLLM AI for in-character WebGPU LLM opponents, AI vs. AI Arena to spectate automated matchups, or 2-Player Local Pass & Play."
+        },
+        {
+          "title": "👑 2. Mandatory Jumps & King Crowning",
+          "body": "Click any piece to highlight legal diagonals (green dots). In standard English Draughts, captures are mandatory—if a jump is available, you must take it and continue any multi-jump chain! Reach the far rank to crown a King."
+        },
+        {
+          "title": "🧠 3. Live Banter, Prompt Inspector & 3D Mode",
+          "body": "Watch in-character taunts stream in the Arena Live Banter feed, click Debug or LLM in the top bar to inspect raw prompts and WebGPU token throughput, or click Play 3D to switch to the Godot 4 3D board."
+        }
+      ]
     },
     {
       "key": "EuchreGame",
       "repo": "EuchreGame",
       "display_title": "EuchreGame",
-      "tagline": "Headless Python Euchre engine with AI data factory and browser sandbox",
-      "short_description": "A headless Python Euchre card game engine with deterministic simulation, AI/ML-friendly state export, a synthetic training-data factory, and a Pyodide browser sandbox.",
-      "long_description": "EuchreGame is a deterministic, headless Python package for simulating partnership Euchre with AI/ML-friendly state export. It builds a 24-card deck with seeded shuffling, runs a stateful engine covering round-one order-up and round-two trump calling, dealer pickup/discard, trick play with left/right bower handling, and legal move generation with effective-suit follow rules. State is JSON-friendly via to_dict/from_dict, and masked per-player views support hidden-information workflows. Beyond the engine, the repo includes a local Data Factory for generating, validating, benchmarking, and reviewing synthetic Euchre decision data for student-model distillation, backed by a FastAPI dashboard over JSONL artifacts. A browser-based sandbox under html/ runs the Python engine through Pyodide (with optional local Gemma/WebLLM AI play) and supports god-view or masked player views.",
+      "tagline": "Deterministic 24-card Python Euchre engine running client-side in Pyodide with God-View vs. Masked-Seat state inspection and an LLM data factory.",
+      "short_description": "Play or step through 4-player partnership Euchre in your browser via Pyodide, toggle between God View and masked AI seat perspectives, or distill synthetic LLM trajectories.",
+      "long_description": "EuchreGame pairs a strict, deterministic Python partnership Euchre engine (full 24-card deck, Round 1 upcard ordering,dealer discard, Round 2 suit calling, Left/Right Bower trump hierarchy, and 10-point partnership scoring) with an in-browser Pyodide sandbox and an offline synthetic data factory. Step trick-by-trick or auto-play seeded hands, switch between God View and single-player masked views to see the exact JSON observation sent to AI agents, or connect a local browser Gemma model.",
       "tags": [
         "card-game",
         "euchre",
@@ -132,7 +150,7 @@
       "live_url": "https://jpeckenpaugh.github.io/EuchreGame/",
       "demos": [
         {
-          "label": "Play",
+          "label": "Play Sandbox",
           "url": "https://jpeckenpaugh.github.io/EuchreGame/"
         }
       ],
@@ -143,13 +161,27 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/EuchreGame/ (HTTP 200), serving the Pyodide browser sandbox; previously repo-only. The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-15T05:47:04Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 162,
       "live_final_url": "https://jpeckenpaugh.github.io/EuchreGame/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🃏 1. Seeded Pyodide Match & Step Controls",
+          "body": "Enter any numeric seed (e.g., 42) and click New Match. Click Next Move to step through Round 1/Round 2 trump bidding and trick play one decision at a time, or click Auto Play (Slow/Normal/Fast) to watch hands unfold."
+        },
+        {
+          "title": "👁️ 2. God View vs. Masked Seat Views",
+          "body": "Use the View dropdown to toggle between God View (all 4 seats' cards revealed) and Player 0–3 (opponent hands hidden) while inspecting the live Match State JSON and Legal Actions panels below the table."
+        },
+        {
+          "title": "🏭 3. In-Browser Gemma & Synthetic Data Factory",
+          "body": "Switch Play Mode from Random to Local Gemma AI to test client-side LLM card play, or run the repository's Python factory/ pipeline to distill validated teacher trajectories into JSONL training sets."
+        }
+      ]
     },
     {
       "key": "game-pending",
@@ -188,7 +220,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T04:58:33.897Z",
+      "updated_at": "2026-10-17T06:05:39.750Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -219,9 +251,9 @@
         "lokarta-v4"
       ],
       "display_title": "Lokarta",
-      "tagline": "Come Into The Light — a retro 2D roguelike dungeon crawler in the browser",
-      "short_description": "A zero-backend, client-side 2D roguelike RPG with a real-time 10 Hz tick, dynamic light-and-darkness line-of-sight, and four playable vocations, evolved across four repositories from a Python terminal prototype to a native browser game.",
-      "long_description": "Lokarta: Come Into The Light is a retro-inspired, grid-based 2D roguelike RPG. The project exists as four iterations of the same game: the original lokarta is a local-first Python terminal proof of concept for a BBS-style ASCII RPG (fixed 100x30 screen, JSON-driven content packs, single-key input, engine/UI separation); lokarta-v2 is a browser edition built with TypeScript and Vite, rendered on an HTML5 2D Canvas with a companion FastAPI + SQLite backend for dungeon layout, loot seeding, and character state; lokarta-v3 rebuilds the game as a zero-backend, client-side application using native web standards (ES modules, Web Workers, Canvas 2D, Web Audio API, IndexedDB) with four vocations, a five-tier tower ascent, and a Havenreach town hub; lokarta-v4 is the most complete engine, adding a Dawnreach Isle overworld, an island quest chain, NPC actors, expanded sprite direction sets, and more Web Worker RPC handlers and data catalogs. Gameplay pillars include a light-versus-darkness mechanic where pitch-black chambers are only revealed within a torch or spell light radius, frictionless walkover auto-loot, a roguelike Fate Grant draft on level-up, and multi-modal inputs (tap, hold/charge, double-tap).",
+      "tagline": "Gothic 2D roguelike tower ascent with 4 vocations, Fate Grant card drafting, and a 10 Hz Web Worker simulation engine.",
+      "short_description": "Zero-backend 2D roguelike RPG running at 60 FPS with a 10 Hz Web Worker simulation tick, 4 vocations, Fate Grant card drafting, and Havenreach town progression.",
+      "long_description": "Explore Dawnreach Isle, regroup in Havenreach Town, and ascend procedural multi-floor towers in a zero-backend Gothic roguelike RPG. Choose from 4 distinct vocations (Magician, Archer, Fighter, Paladin), draft 2 of 5 Fate Grant spells, weapons, and relics on every level-up, recruit companions after clearing towers, and hot-swap active party control on the fly while a dedicated 10 Hz Web Worker simulation engine drives combat and AI.",
       "tags": [
         "ascii",
         "browser-game",
@@ -250,16 +282,8 @@
       "live_url": "https://lk.livive.net/",
       "demos": [
         {
-          "label": "Play v4 (latest)",
+          "label": "Play",
           "url": "https://lk.livive.net/"
-        },
-        {
-          "label": "Play v3",
-          "url": "https://jpeckenpaugh.github.io/lokarta-v3/"
-        },
-        {
-          "label": "Play v2",
-          "url": "https://jpeckenpaugh.github.io/lokarta-v2/"
         }
       ],
       "repo_url": "https://github.com/jpeckenpaugh/lokarta-v4",
@@ -269,21 +293,35 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-15T18:10:26Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 248,
       "live_final_url": "https://lk.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🕯️ 1. Choose Vocation & Draft Fate Grants",
+          "body": "Start a new save slot, pick Magician, Archer, Fighter, or Paladin, and draft 2 of 5 offered spells, weapons, and relics in the Fate Grant modal at Level 1 and every Level-Up."
+        },
+        {
+          "title": "⚔️ 2. Controls & 10 Action Slots",
+          "body": "Use Arrow Keys to navigate Dawnreach Isle, Havenreach, and Tower floors. Press keys 1–9, 0 and Q/W/E/R to fire spells, swing weapons, and trigger relics (supporting Tap, Hold/Charge, and Double-Tap). Walk over loot to auto-collect."
+        },
+        {
+          "title": "🛡️ 3. Companion Recruitment & Party Hot-Swap",
+          "body": "Clear tower boss floors to unlock new vocations into your active party. Press A or S anytime to switch which hero you control directly while your companions fight autonomously alongside you."
+        }
+      ]
     },
     {
       "key": "rl-livive-net",
       "repo": "rl-livive-net",
       "display_title": "LunarLander Policy Lab",
-      "tagline": "Playable LunarLander arcade with trained RL policy pilots in the browser",
-      "short_description": "A browser-based LunarLander game and reinforcement-learning policy lab. Race against trained PPO pilots, or pilot solo, in a Pyodide-powered arcade cabinet, with an optional terminal launcher for local play.",
-      "long_description": "LunarLander Policy Lab is a playable LunarLander environment POC with a selectable trained-policy controller. The static browser page runs the Python environment in Pyodide 0.23.4 and renders on a JavaScript canvas inside an arcade-cabinet UI, offering Solo Flight and Tournament modes plus a 4 AI Simulations mode. A Stable-Baselines3 policy runs as a small ONNX actor via ONNX Runtime Web's WASM CPU backend, with Human Pilot, AI Pilot, and Autopilot with Override choices, and optional Sensor Fault and Thruster Fault controls. The project includes a deliberately small Gymnasium compatibility shim (not the full package) supporting gymnasium.make(\"LunarLander-v2\"), using PyPyBox2D for pure-Python physics. A terminal launcher supports local play and environment work using numpy and pygame, and a local exporter reproduces the ONNX model from the published Hugging Face PPO checkpoint.",
+      "tagline": "9 trained ONNX policies and Pyodide physics inside a retro vector cabinet—fly solo, co-pilot with live softmax sparklines, or enter the 4-Pilot Cup.",
+      "short_description": "Fly LunarLander-v2 yourself, co-pilot alongside a Stable-Baselines3 PPO policy with live softmax sparklines, or race 4 AI pilots across 10 seeded tournament rounds.",
+      "long_description": "LunarLander Policy Lab brings Gymnasium's classic LunarLander-v2 physics and 9 trained reinforcement-learning checkpoints (PPO, DQN, Dueling DDQN, n-step DQN, Actor-Critic) into a retro vector arcade cabinet powered by Pyodide and ONNX Runtime Web. Fly manually, share the controls in Co-Piloting mode where human thruster input seamlessly overrides the neural pilot on the fly, inspect live action-probability bars and confidence sparklines, or pit 4 pilots against each other in a 10-round tournament with custom House Rules hazards.",
       "tags": [
         "browser-game",
         "gymnasium",
@@ -320,21 +358,35 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-15T17:51:37Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 250,
       "live_final_url": "https://lunar.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🚀 1. Solo Flight, Co-Piloting & AI Pilot",
+          "body": "Click INSERT COIN / START → SINGLE PLAYER. Choose Human Pilot (Arrow Keys / WASD to rotate and fire main thrusters), Co-Piloting (AI flies until you hold any key to override), or AI Pilot to watch any of the 9 neural models land."
+        },
+        {
+          "title": "📊 2. Live Policy Inspector & Softmax Sparklines",
+          "body": "During AI or Co-Pilot flight, watch the bottom-left Policy Inspector panel display real-time COAST / LEFT / BURN / RIGHT softmax probabilities, chosen action logits, and a rolling confidence sparkline."
+        },
+        {
+          "title": "🏆 3. 4-Pilot Tournament & House Rules Hazards",
+          "body": "Select MULTIPLAYER to launch 1v1 Versus, 2v2 Co-Op Doubles, or the 4-Pilot Cup across 10 seeded rounds—and toggle House Rules hazards like Sensor Fault, Thruster Fault, Wind Gusts, and High Gravity."
+        }
+      ]
     },
     {
       "key": "mines-livive-net",
       "repo": "mines-livive-net",
       "display_title": "Minesweeper RL Arcade",
-      "tagline": "Retro arcade cabinet where you race reinforcement-learning policies on 8x8 Minesweeper",
-      "short_description": "An in-browser retro arcade cabinet running ONNX-exported reinforcement-learning policies on a deterministic 8x8 Minesweeper engine. Play a seeded board, watch the AI reason with a live action mask and confidence heatmap, race a checkpoint on the same seed, or run the whole nine-model library in CONCURRENT mode.",
-      "long_description": "Minesweeper RL Arcade is an in-browser retro arcade cabinet built around a deterministic 8x8 Minesweeper engine and a library of ONNX-exported reinforcement-learning policies. It has five modes: PLAY, where you clear a seeded board with a guaranteed-safe first click; AI, where a selected checkpoint plays the same seed with live confidence, per-cell distributions, and a legal-action mask; RACE, a side-by-side human-vs-policy comparison on an identical seed; CONCURRENT, where every checkpoint in the library steps through one board in lockstep with a CLEARED/DETONATED/STUCK scoreboard and points-sorted leaderboard; and MODELS, a details panel for each manifest checkpoint (family, method, architecture, training recipe, file size, and fixed-seed evaluation). The v2 library ships nine documented checkpoints across four families — a uniform baseline, solver-imitation behaviour clones, REINFORCE policy-gradient models, and kernel/single-conv ablations — evaluated from 0% to 61.4% win rate. The app is a static ES-module bundle that fetches models/manifest.json and runs inference through the pinned onnxruntime-web CDN; the engine, featurization, and action-mask contract stay frozen so scores remain comparable across checkpoints. It deploys to GitHub Pages from main at mines.livive.net, guarded by a smoke workflow that asserts the app, the manifest, and every model file are served live.",
+      "tagline": "Human intuition vs. 9 ONNX neural policies on deterministic 8×8 Minesweeper boards with live confidence heatmaps and 9-model lockstep races.",
+      "short_description": "Retro arcade cabinet where you play deterministic 8×8 Minesweeper seeds, inspect live ONNX probability heatmaps, race an RL policy side-by-side, or watch all 9 checkpoints compete simultaneously.",
+      "long_description": "MINES.livive.net turns 8×8 (10-mine) Minesweeper into an interactive reinforcement-learning laboratory. Every board is generated from a shareable deterministic seed (?seed=42) with a guaranteed first-click safe opening. Play manually, step through any of 9 trained ONNX neural checkpoints while inspecting live P(reveal) cyan heatmaps and action masks, race an AI side-by-side on the exact same seed, or watch all 9 checkpoints run concurrently in lockstep.",
       "tags": [
         "arcade-cabinet",
         "browser-game",
@@ -357,7 +409,7 @@
       "live_url": "https://mines.livive.net/",
       "demos": [
         {
-          "label": "Play the arcade",
+          "label": "Play",
           "url": "https://mines.livive.net/"
         }
       ],
@@ -374,7 +426,21 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-16T01:40:10Z"
+      "updated_at": "2026-10-17T06:05:39.755Z",
+      "how_to_play": [
+        {
+          "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
+          "body": "In PLAY mode, click any cell to open a guaranteed safe flood-fill and toggle Flag Mode to mark mines. Switch to RACE mode to play the exact same deterministic seed side-by-side against a live ONNX neural policy!"
+        },
+        {
+          "title": "🔥 2. AI Mode & Live P(reveal) Heatmaps",
+          "body": "Select any checkpoint (M0 Baseline through M8 Best Policy) in the AI tab and click STEP or PLAY. Toggle HEATMAP ON and MASK ON to visualize the network's exact action probabilities and top-5 ranked candidate moves."
+        },
+        {
+          "title": "⚡ 3. CONCURRENT 9-Model Lockstep Arena",
+          "body": "Open the CONCURRENT tab and click START ALL to watch all 9 neural checkpoints (DQN, PPO, ConvResNet, and Teacher-Distilled policies) solve the exact same board simultaneously."
+        }
+      ]
     },
     {
       "key": "p2p-ttt",
@@ -416,7 +482,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-17T04:58:33.905Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -442,9 +508,9 @@
       "key": "threat-sweep",
       "repo": "threat-sweep",
       "display_title": "Threat Sweep",
-      "tagline": "Mobile-first cyber-security puzzle: scan a compromised grid for threats",
-      "short_description": "A mobile-first mine-clearing style puzzle where you play a Security Operator scanning a compromised system for viruses, hackers, rogue AI, malware, and bugs across five missions.",
-      "long_description": "Threat Sweep is a mobile-first cyber-security puzzle game that turns mine-clearing tension into a security-operator fantasy: instead of bombs you scan a compromised grid for viruses, hackers, software bugs, rogue AI bots, and malware, each with its own icon and scan-time behavior. The recommended experience is a standalone static browser edition with a Worker-owned game engine and IndexedDB local saves for sound preference, progression, results, and one resumable mission; it needs no API port. The original React single-page app backed by FastAPI and SQLite remains included as a fallback/reference runtime. Both editions offer a portrait dark command-center presentation, touch-friendly tactical controls, scan/clear/mark actions, nearby-threat signals, scoring, results and attempt history, five seeded missions with progressive unlocking (Signal Breach to Blackout Protocol), and brief Web Audio feedback for scan, mark, clear, warning, success, and failure events.",
+      "tagline": "Probe the signal and isolate the threat—an offline-capable tactical cyber-security grid puzzle with 5 dynamic threat behaviors.",
+      "short_description": "Tactical cyber-security deduction puzzle with Scan/Clear/Mark tools, 5 active threat behaviors (Virus, Hacker, Bug, Bot, Malware), and Web Worker authority.",
+      "long_description": "Threat Sweep reimagines grid deduction as a tactical cyber-defense console. Instead of passive mines, each compromised sector houses one of 5 active threat archetypes—Viruses that boost adjacent signal readings, Hackers that redact nearby telemetry, Software Bugs that corrupt readouts, Rogue AI Bots that relocate when cornered, and Malware that spreads if left unquarantined. Switch between SCAN, CLEAR, and MARK tools across a progressive multi-operation campaign running 100% client-side via a Web Worker authority and IndexedDB storage.",
       "tags": [
         "browser-game",
         "cybersecurity",
@@ -480,13 +546,27 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-09-08T15:55:20Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 66,
       "live_final_url": "https://jpeckenpaugh.github.io/threat-sweep/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📡 1. SCAN to Probe Signal Strength",
+          "body": "Select the ⌁ SCAN tool in the bottom dock and tap any sector to consume a scan charge and reveal adjacent threat signal strength without risking a breach."
+        },
+        {
+          "title": "🚩 2. MARK & Isolate Dynamic Threats",
+          "body": "Switch to ⚑ MARK to quarantine suspected threat nodes (Virus, Hacker, Bug, Bot, or Malware). Isolating threats prevents Malware spread and unlocks clean telemetry around quarantined sectors."
+        },
+        {
+          "title": "✅ 3. CLEAR Safe Sectors to Secure the Node",
+          "body": "Switch to ＋ CLEAR and tap verified safe sectors until all clean nodes are secured to complete the operation and unlock the next mission in the campaign queue."
+        }
+      ]
     },
     {
       "key": "vibe-tic-tac-toe",
@@ -523,7 +603,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-17T04:58:33.905Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1420,7 +1500,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-17T04:58:33.905Z",
+      "updated_at": "2026-10-17T06:05:39.755Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,

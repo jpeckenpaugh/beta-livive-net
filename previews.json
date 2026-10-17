@@ -2,15 +2,41 @@
   "generated_at": "2026-10-16T04:35:22.164Z",
   "previews": {
     "lokarta": {
-      "video": "previews/lokarta.webm",
-      "poster": "thumbnails/lokarta.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/06-tower-combat-and-hud.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 120576,
       "captured_at": "2026-10-16T02:01:35.747Z",
-      "source": "https://lk.livive.net/"
+      "source": "https://lk.livive.net/",
+      "gallery": [
+        {
+          "label": "Title Screen — Come Into The Light",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/01-title-screen.png"
+        },
+        {
+          "label": "Survival Guide & Action Controls",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/02-survival-guide.png"
+        },
+        {
+          "label": "Choose Your Vocation (Magician, Archer, Fighter, Paladin)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/03-choose-vocation.png"
+        },
+        {
+          "label": "Fate Grant Roguelike Card Draft (Pick 2 of 5)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/04-fate-grant-draft.png"
+        },
+        {
+          "label": "Havenreach Dock & Dawnreach Isle Overworld",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/05-havenreach-and-overworld.png"
+        },
+        {
+          "label": "Active Hero HUD, Loadout & Combat Log",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/gallery/06-tower-combat-and-hud.png"
+        }
+      ]
     },
     "aom": {
       "video": "previews/aom.webm",
@@ -24,15 +50,41 @@
       "source": "https://aom.livive.net/"
     },
     "chk-livive-net": {
-      "video": "previews/chk-livive-net.webm",
-      "poster": "thumbnails/chk-livive-net.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/04-midgame-minimax-battle.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 134118,
       "captured_at": "2026-10-16T02:01:45.456Z",
-      "source": "https://chk.livive.net/"
+      "source": "https://chk.livive.net/",
+      "gallery": [
+        {
+          "label": "Title Screen & Match Mode Selection",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/01-title-minimax-setup.png"
+        },
+        {
+          "label": "AI vs. AI Spectator Arena Matchup Builder",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/02-arena-matchup-setup.png"
+        },
+        {
+          "label": "8×8 Board with 1–32 Draughts Notation",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/03-board-and-opening.png"
+        },
+        {
+          "label": "Legal Move Highlights & Live Banter Feed",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/04-midgame-minimax-battle.png"
+        },
+        {
+          "label": "In-Browser WebGPU LLM & Model Manager",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/05-webgpu-llm-manager.png"
+        },
+        {
+          "label": "AI vs. AI Arena Spectator Mode",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/gallery/06-ai-arena-spectator.png"
+        }
+      ]
     },
     "game-pending": {
       "video": "https://gp.livive.net/demos/latest/demo.webm",
@@ -83,37 +135,115 @@
       ]
     },
     "EuchreGame": {
-      "video": "previews/EuchreGame.webm",
-      "poster": "thumbnails/EuchreGame.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/03-trump-called-trick-play.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 147082,
       "captured_at": "2026-10-16T02:01:47.147Z",
-      "source": "https://jpeckenpaugh.github.io/EuchreGame/"
+      "source": "https://jpeckenpaugh.github.io/EuchreGame/",
+      "gallery": [
+        {
+          "label": "Pyodide Browser Sandbox & Match Controls",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/01-pyodide-ready-god-view.png"
+        },
+        {
+          "label": "Seeded Deal & Round 1 Upcard Bidding",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/02-bidding-and-upcard.png"
+        },
+        {
+          "label": "4-Seat Table — Trump Ordered & Trick Play (God View)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/03-trump-called-trick-play.png"
+        },
+        {
+          "label": "Information-Set Masking — North Seat Perspective",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/04-masked-seat-view.png"
+        },
+        {
+          "label": "Fast Auto-Play Trick Resolution & Scoring",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/05-fast-autoplay-tricks.png"
+        },
+        {
+          "label": "Live JSON State Export & Legal Action Inspector",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/EuchreGame/main/demos/latest/gallery/06-hand-scoring-and-log.png"
+        }
+      ]
     },
     "rl-livive-net": {
-      "video": "previews/rl-livive-net.webm",
-      "poster": "thumbnails/rl-livive-net.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/05-ai-pilot-policy-inspector.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 113050,
       "captured_at": "2026-10-16T02:01:50.431Z",
-      "source": "https://lunar.livive.net/"
+      "source": "https://lunar.livive.net/",
+      "gallery": [
+        {
+          "label": "Tournament Edition Vector Cabinet & Boot Sequence",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/01-attract-cabinet.png"
+        },
+        {
+          "label": "Cabinet Manual & Controls Overview",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/02-cabinet-manual.png"
+        },
+        {
+          "label": "Solo Flight Mode Selector (Human, Co-Pilot, AI Pilot)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/03-solo-mode-select.png"
+        },
+        {
+          "label": "Choose Your Pilot — 9 Trained ONNX RL Checkpoints",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/04-choose-pilot.png"
+        },
+        {
+          "label": "Live Flight with Policy Inspector & Softmax Sparkline",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/05-ai-pilot-policy-inspector.png"
+        },
+        {
+          "label": "Landing Zone Approach & Flight Telemetry",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rl-livive-net/main/demos/latest/gallery/06-lunar-touchdown-telemetry.png"
+        }
+      ]
     },
     "mines-livive-net": {
-      "video": "previews/mines-livive-net.webm",
-      "poster": "thumbnails/mines-livive-net.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/02-ai-heatmap-step.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 141699,
       "captured_at": "2026-10-16T02:01:51.603Z",
-      "source": "https://mines.livive.net/"
+      "source": "https://mines.livive.net/",
+      "gallery": [
+        {
+          "label": "PLAY Cabinet — Deterministic 8×8 Seed",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/01-play-cabinet.png"
+        },
+        {
+          "label": "AI Inspector — Live Cyan P(reveal) Heatmap & Top Moves",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/02-ai-heatmap-step.png"
+        },
+        {
+          "label": "AI Autoplay — Stepping ONNX Policy Inference",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/03-ai-autoplay.png"
+        },
+        {
+          "label": "RACE Mode — Human vs. ONNX Policy Side-by-Side",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/04-human-vs-ai-race.png"
+        },
+        {
+          "label": "CONCURRENT Mode — All 9 Checkpoints Racing in Lockstep",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/05-concurrent-9-models.png"
+        },
+        {
+          "label": "MODELS Tab — Checkpoint Architecture & Win-Rate Cards",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/mines-livive-net/main/demos/latest/gallery/06-model-checkpoints.png"
+        }
+      ]
     },
     "p2p-ttt": {
       "video": "https://p2p-ttt.livive.net/demos/latest/demo.webm",
@@ -153,15 +283,41 @@
       ]
     },
     "threat-sweep": {
-      "video": "previews/threat-sweep.webm",
-      "poster": "thumbnails/threat-sweep.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/04-marking-threats.png",
+      "mode": "demo",
+      "duration_ms": 30500,
       "width": 640,
       "height": 400,
       "bytes": 116654,
       "captured_at": "2026-10-16T02:01:54.956Z",
-      "source": "https://jpeckenpaugh.github.io/threat-sweep/"
+      "source": "https://jpeckenpaugh.github.io/threat-sweep/",
+      "gallery": [
+        {
+          "label": "Campaign Mission Queue & Operation Briefing",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/01-mission-queue.png"
+        },
+        {
+          "label": "Active Operation Console — Signal Breach",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/02-operation-start-scan-mode.png"
+        },
+        {
+          "label": "Probing Sector Telemetry in SCAN Mode",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/03-scanning-sectors.png"
+        },
+        {
+          "label": "Quarantining Compromised Nodes in MARK Mode",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/04-marking-threats.png"
+        },
+        {
+          "label": "Securing Verified Sectors in CLEAR Mode",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/05-clearing-grid.png"
+        },
+        {
+          "label": "Operation Debrief & Campaign Progression",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/threat-sweep/main/demos/latest/gallery/06-operation-results.png"
+        }
+      ]
     },
     "vibe-tic-tac-toe": {
       "video": "https://v-ttt.livive.net/demos/latest/demo.webm",
