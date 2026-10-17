@@ -188,7 +188,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T02:49:11.990Z",
+      "updated_at": "2026-10-17T03:15:32.606Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -381,8 +381,8 @@
       "repo": "p2p-ttt",
       "display_title": "Peer-to-peer Tic-Tac-Toe",
       "tagline": "\"Look Ma, No Backend!\" — Serverless peer-to-peer Tic-Tac-Toe over WebRTC DataChannels and in-browser WASM SQLite (Act III of the Tic-Tac-Toe Trilogy).",
-      "short_description": "A local-first, static-web Tic-Tac-Toe proof of concept where two browsers connect directly over WebRTC after exchanging ordinary invitation and reply links, with no backend, accounts, or signaling service.",
-      "long_description": "Act III of the Tic-Tac-Toe Architecture Trilogy eliminates the backend server entirely. Two browsers pair by exchanging copy-pasted or QR invitation/reply deep links, stream live moves directly peer-to-peer over WebRTC DataChannels, and persist full replayable match histories inside each browser's local WebAssembly SQLite (sql.js) database.",
+      "short_description": "\"Look Ma, No Backend!\" — Play live browser-to-browser Tic-Tac-Toe over WebRTC DataChannels with QR/link pairing and persistent OPFS WASM SQLite.",
+      "long_description": "Act III of the Tic-Tac-Toe Architecture Trilogy eliminates the backend server entirely. Two browsers pair by exchanging Deflate-compressed URL hashes or scanning full-screen QR codes, stream live moves directly peer-to-peer over WebRTC DataChannels with zero relay server, and persist full replayable match histories inside each browser's local WebAssembly SQLite (sql.js) database backed by the Origin Private File System (OPFS).",
       "tags": [
         "browser-game",
         "local-first",
@@ -402,7 +402,7 @@
         "Python"
       ],
       "category": "Games",
-      "live_url": "https://jpeckenpaugh.github.io/p2p-ttt/",
+      "live_url": "https://p2p-ttt.livive.net/",
       "repo_url": "https://github.com/jpeckenpaugh/p2p-ttt",
       "has_live_demo": true,
       "featured": true,
@@ -412,17 +412,31 @@
       "demos": [
         {
           "label": "Play",
-          "url": "https://jpeckenpaugh.github.io/p2p-ttt/"
+          "url": "https://p2p-ttt.livive.net/"
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-09-07T22:47:22Z",
+      "updated_at": "2026-10-17T03:15:32.613Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 149,
       "live_final_url": "https://jpeckenpaugh.github.io/p2p-ttt/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📲 1. Create Invite & QR Code (Host)",
+          "body": "Click Play X or Play O. Your browser creates a local SQLite series, gathers WebRTC ICE candidates, and compresses the SDP Offer into a full-screen QR code and shareable #z... link."
+        },
+        {
+          "title": "🤝 2. Scan or Paste Reply (Friend → Host)",
+          "body": "Your friend scans the QR code (or opens the link in a second browser) to generate a Reply QR code and link. Scan or paste that reply back into the Host tab to open a direct P2P WebRTC DataChannel."
+        },
+        {
+          "title": "🗄️ 3. Live P2P Series & OPFS SQLite History",
+          "body": "Play live with zero server in the middle! Click Rematch? after any game to alternate starting turns across the series, or click any match under Completed matches to inspect the local WASM SQLite move log."
+        }
+      ]
     },
     {
       "key": "threat-sweep",
@@ -509,7 +523,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-17T02:49:11.995Z",
+      "updated_at": "2026-10-17T03:15:32.613Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",

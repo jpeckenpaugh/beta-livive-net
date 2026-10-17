@@ -116,15 +116,41 @@
       "source": "https://mines.livive.net/"
     },
     "p2p-ttt": {
-      "video": "previews/p2p-ttt.webm",
-      "poster": "thumbnails/p2p-ttt.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
+      "video": "https://p2p-ttt.livive.net/demos/latest/demo.webm",
+      "poster": "https://p2p-ttt.livive.net/demos/latest/gallery/04-live-p2p-match.png",
+      "mode": "demo",
+      "duration_ms": 30800,
       "width": 640,
       "height": 400,
       "bytes": 124647,
       "captured_at": "2026-10-16T02:01:52.086Z",
-      "source": "https://jpeckenpaugh.github.io/p2p-ttt/"
+      "source": "https://p2p-ttt.livive.net/",
+      "gallery": [
+        {
+          "label": "Dual-Browser Side-by-Side Workspace",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/01-side-by-side-start.png"
+        },
+        {
+          "label": "Host WebRTC Offer & Full-Screen QR Invite",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/02-host-qr-invite.png"
+        },
+        {
+          "label": "Friend WebRTC Answer & Reply QR Code",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/03-guest-reply-qr.png"
+        },
+        {
+          "label": "Live P2P Match Over WebRTC DataChannel",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/04-live-p2p-match.png"
+        },
+        {
+          "label": "Match 1 Victory & Mutual Rematch Prompt",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/05-match1-win-and-rematch.png"
+        },
+        {
+          "label": "Persistent OPFS WASM SQLite Match History",
+          "src": "https://p2p-ttt.livive.net/demos/latest/gallery/06-opfs-sqlite-history.png"
+        }
+      ]
     },
     "threat-sweep": {
       "video": "previews/threat-sweep.webm",
