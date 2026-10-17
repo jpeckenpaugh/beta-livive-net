@@ -188,7 +188,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T02:17:59.322Z",
+      "updated_at": "2026-10-17T02:37:59.144Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -380,9 +380,9 @@
       "key": "p2p-ttt",
       "repo": "p2p-ttt",
       "display_title": "Peer-to-peer Tic-Tac-Toe",
-      "tagline": "Serverless browser Tic-Tac-Toe played directly between two peers",
+      "tagline": "\"Look Ma, No Backend!\" — Serverless peer-to-peer Tic-Tac-Toe over WebRTC DataChannels and in-browser WASM SQLite (Act III of the Tic-Tac-Toe Trilogy).",
       "short_description": "A local-first, static-web Tic-Tac-Toe proof of concept where two browsers connect directly over WebRTC after exchanging ordinary invitation and reply links, with no backend, accounts, or signaling service.",
-      "long_description": "p2p-ttt is a proof of concept for a local-first, peer-to-peer browser game. Two people start and play Tic-Tac-Toe without an application backend, account system, signaling service, or shared database. A host opens the static site, picks X or O, and shares an invitation link (or QR code); the friend opens it and returns a reply link; the two browsers then establish a direct WebRTC data-channel connection for live play. Each browser runs its own durable local workspace backed by a Web Worker, using sql.js (SQLite compiled to WebAssembly) to persist series, matches, ordered moves, outcomes, and replay history. QR codes are generated with qrcode-generator and scanned with jsQR via the camera. The project is documented with concept, architecture, plan, devops, backlog, and design specs, and includes a small Python static server for local development.",
+      "long_description": "Act III of the Tic-Tac-Toe Architecture Trilogy eliminates the backend server entirely. Two browsers pair by exchanging copy-pasted or QR invitation/reply deep links, stream live moves directly peer-to-peer over WebRTC DataChannels, and persist full replayable match histories inside each browser's local WebAssembly SQLite (sql.js) database.",
       "tags": [
         "browser-game",
         "local-first",
@@ -478,9 +478,9 @@
       "key": "vibe-tic-tac-toe",
       "repo": "vibe-tic-tac-toe",
       "display_title": "Vibe Tic-Tac-Toe",
-      "tagline": "Two-player tic-tac-toe in plain HTML, CSS, and JavaScript",
-      "short_description": "A single-page two-player tic-tac-toe game built with plain HTML, CSS, and JavaScript, with themes, sound, and a persistent leaderboard.",
-      "long_description": "A simple single-page tic-tac-toe game built with plain HTML, CSS, and JavaScript and no frameworks or build tools. Two players take turns placing X or O on a 3x3 grid, trying to line up three in a row; if the board fills with no winner it is a draw. It includes a title screen with Start Game, Leaderboard, Options, and About, a responsive layout, a local-storage persistent leaderboard tracking X wins, O wins, and draws, win-line highlighting, hover move preview, a game-over overlay, confetti on a win, sound effects, and an options menu for piece themes (Classic, Cats & Dogs, Stars & Moon), symbol colors, and a sound toggle. The game is a static site and can be opened directly or served with the included run.sh, which starts a Python HTTP server on port 8080. The project was built in a single OpenCode coding session using DeepSeek V4 Flash.",
+      "tagline": "The Most Vanilla Game of Tic-Tac-Toe You Will Ever Play! (Built in 33 minutes for $0.15 of AI tokens.)",
+      "short_description": "The Most Vanilla Game of Tic-Tac-Toe You Will Ever Play—built in 33 minutes for $0.15 of DeepSeek V4 Flash tokens as Act I of the Tic-Tac-Toe Architecture Trilogy.",
+      "long_description": "Yes, it is 3×3 local pass-and-play Tic-Tac-Toe—so if you click Play Live alone at your desk, your right hand is playing against your left hand (and if both hands are paying attention, it will end in a draw). Built in a single 33-minute OpenCode session for $0.15 of DeepSeek V4 Flash tokens—complete with 6 emoji piece themes, custom hex colors, Web Audio synth bleeps, and a 60-piece confetti burst—it serves as the pure client-side control group alongside two sibling architecture experiments: Fast TTT (played entirely over curl + ASCII with zero HTML/JS) and P2P TTT (serverless browser-to-browser WebRTC + in-browser WASM SQLite).",
       "tags": [
         "browser-game",
         "javascript",
@@ -495,11 +495,11 @@
         "Python"
       ],
       "category": "Games",
-      "live_url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/",
+      "live_url": "https://v-ttt.livive.net/",
       "demos": [
         {
           "label": "Play",
-          "url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/"
+          "url": "https://v-ttt.livive.net/"
         }
       ],
       "repo_url": "https://github.com/jpeckenpaugh/vibe-tic-tac-toe",
@@ -509,13 +509,27 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-08-18T22:00:01Z",
+      "updated_at": "2026-10-17T02:37:59.149Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 59,
       "live_final_url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🕹️ How to Play (Right Hand vs. Left Hand)",
+          "body": "Click Start Game for 2-player local pass-and-play. Hover any square to preview your mark and line up 3 in a row to trigger the pulsing win-line highlight, Web Audio fanfare, and 60-piece confetti celebration."
+        },
+        {
+          "title": "🎨 Customize the Vibe",
+          "body": "Open Options on the title screen to swap between 6 piece themes (Classic X/O, 🐱 Cats & Dogs, ⚔️ Swords & Shields, 🍕 Pizza & Burger, ⭐ Stars & Moon, ❤️ Hearts), custom hex colors, and persistent localStorage Leaderboard stats."
+        },
+        {
+          "title": "🧪 Act I of the Tic-Tac-Toe Trilogy",
+          "body": "Holding the game rules constant isolates three radically different software architectures: Act I (Vibe TTT: $0.15 client-side DOM baseline), Act II (Fast TTT: zero-frontend curl + ASCII server), and Act III (P2P TTT: zero-backend WebRTC + WASM SQLite)."
+        }
+      ]
     },
     {
       "key": "rag-poc",
@@ -1361,9 +1375,9 @@
       "key": "fast-ttt",
       "repo": "fast-ttt",
       "display_title": "fast-ttt",
-      "tagline": "ASCII tic-tac-toe over HTTP, played with curl to teach client/server",
+      "tagline": "\"Look Ma, No Browser!\" — Two-player ASCII Tic-Tac-Toe played entirely over curl and plain-text HTTP (Act II of the Tic-Tac-Toe Trilogy).",
       "short_description": "A text-based tic-tac-toe game served by FastAPI that responds in pure plain text, playable by two players using curl or a browser.",
-      "long_description": "fast-ttt is a minimal teaching tool that demonstrates client/server principles using a game of tic-tac-toe. Two players interact over plain HTTP with curl or a web browser, and the FastAPI server replies with ASCII boards and text only — no HTML, JavaScript, CSS, or JSON (the sole exception being FastAPI's auto-generated Swagger UI at /docs). It supports creating games, viewing boards, playing numbered moves, random auto-moves, per-game move history, and home-page statistics, with winning lines highlighted. Game state is persisted in SQLite via SQLAlchemy, and moves commit atomically across board, turn, status, and history. Docs (OVERVIEW.md and FAST-API.md) are served by the app itself to explain how clients and servers communicate.",
+      "long_description": "Act II of the Tic-Tac-Toe Architecture Trilogy strips away HTML, CSS, JavaScript, and even JSON to teach raw client-server fundamentals. Two players (or scripts) compete entirely via curl requests against a FastAPI + SQLite backend that responds with plain-text ASCII boards and atomic move histories.",
       "tags": [
         "cli",
         "game",

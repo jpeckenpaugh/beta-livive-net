@@ -146,7 +146,21 @@
       "height": 400,
       "bytes": 109114,
       "captured_at": "2026-10-16T02:01:56.138Z",
-      "source": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/"
+      "source": "https://v-ttt.livive.net/",
+      "gallery": [
+        {
+          "label": "Title Screen (v-ttt.livive.net)",
+          "src": "https://v-ttt.livive.net/docs/screenshot-title.png"
+        },
+        {
+          "label": "3×3 Board & Hover Preview",
+          "src": "https://v-ttt.livive.net/docs/screenshot-game.png"
+        },
+        {
+          "label": "The $0.15 OpenCode / DeepSeek Receipt",
+          "src": "https://v-ttt.livive.net/docs/open-code-deep-seek-token-usage-cost-overview.png"
+        }
+      ]
     },
     "rag-poc": {
       "video": "previews/rag-poc.webm",
