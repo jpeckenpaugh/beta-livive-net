@@ -155,9 +155,9 @@
       "key": "game-pending",
       "repo": "game-pending",
       "display_title": "Game Pending",
-      "tagline": "Vanilla JS Canvas side-scroller gaming prototype built to be extended by AI/ML tooling",
-      "short_description": "A small HTML5 Canvas side-scroller built with vanilla JavaScript and ES modules, featuring black-and-white line art, optional color themes, power-ups, and a Customize menu.",
-      "long_description": "Game Pending is a browser-based side-scroller built with vanilla JavaScript and ES modules on an HTML5 Canvas, with no build step or runtime package dependency. It defaults to a black-and-white line-art Classic presentation with optional color themes applied to the sky, terrain, opponents, gear, weapons, attacks, and drone. Gameplay includes multi-area levels with platforms, underground cave routes, ladders, and left/right wrap portals, plus power-ups such as Boots (mid-air jumps and rocket glide), Shield (hit-blocking and kinetic discharge), Drone strikes, Specs auto-aim, and Radar. A Customize menu adjusts the game name, tagline, starting level, target FPS, weapon (Gun, Club, Wand), opponent behavior, spawning, and world generation, along with template presets, color themes, drone styles, player and opponent head/face options, and starting power-up levels. The project is described as a prototype designed to be extended via AI/ML tooling, and ships a Docker/nginx setup plus OpenCode integration for development.",
+      "tagline": "Clear every enemy wave before your ammo runs dry—or hit 'G' to unleash unlimited sandbox power-ups.",
+      "short_description": "Fast-paced arcade arena platformer with stackable power-ups, rocket-gliding boots, homing missile drones, and instant theme customization.",
+      "long_description": "Battle across multi-tiered arenas with upper platforms, underground caves, and wrap-around teleport portals where every shot costs ammo. Draft stackable power-ups between waves—or press 'G' mid-game to auto-grant and reroll unlimited tiers of Rocket Glide Boots, Kinetic Shields, and Homing Drones. Remix the entire visual theme (Classic line art, Robot, Arcade, Emoji, Farm) and weapon loadout directly in your browser.",
       "tags": [
         "canvas",
         "game",
@@ -188,13 +188,27 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T01:30:50.343Z",
+      "updated_at": "2026-10-17T02:11:22.754Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 162,
       "live_final_url": "https://jpeckenpaugh.github.io/game-pending/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🎯 The Objective",
+          "body": "Defeat every enemy in the arena to clear the wave (+4 Ammo & draft 1 of 3 Power-Ups). Every weapon attack costs 1 Ammo—collect green drops or stomp enemies from above to conserve shots."
+        },
+        {
+          "title": "🕹️ Controls",
+          "body": "A/D or Arrows to move · X to Jump (hold X after apex with Boots Lv. 6+ to Rocket Glide) · W/S to aim & climb ladders · Space to fire (Gun, Club, Wand) · Z to Dash · H for in-game Help."
+        },
+        {
+          "title": "⚡ 'G' Key Sandbox Mode",
+          "body": "Press G anytime while playing to open the Power-Up Picker on demand. Keep pressing G inside the picker to auto-grant and reroll unlimited Tier-10 power-ups immediately!"
+        }
+      ]
     },
     {
       "key": "lokarta",

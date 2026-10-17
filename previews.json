@@ -47,37 +47,37 @@
       "gallery": [
         {
           "src": "https://gp.livive.net/demos/latest/gallery/title.png",
-          "label": "Title screen",
+          "label": "Title Screen",
           "alt": "Game Pending title screen in the original black-and-white style"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/options.png",
-          "label": "Customize and options",
+          "label": "Customize Loadout & Themes",
           "alt": "Customize screen with Robot template, Arcade colors, Wand, and starting power-ups"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/choose-power.png",
-          "label": "Choose Power",
+          "label": "Power-Up Draft ('G' Sandbox)",
           "alt": "Choose Power screen with three power-up cards over a sunset arena"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/original.png",
-          "label": "Original · Classic / Classic",
+          "label": "Classic Line-Art Mode",
           "alt": "Classic black-and-white stick-figure gameplay in the original style"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/emoji.png",
-          "label": "Emoji · Emoji Color / Pastel",
+          "label": "Emoji Color Theme",
           "alt": "Emoji Color character jumping through a pastel arena"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/farm.png",
-          "label": "Farm · Farm / Natural",
+          "label": "Farm Theme",
           "alt": "Farm character preset moving across a naturally colored arena"
         },
         {
           "src": "https://gp.livive.net/demos/latest/gallery/robot.png",
-          "label": "Robot · Robot / Arcade",
+          "label": "Robot & Arcade Theme",
           "alt": "Robot character in the Arcade palette with active power-ups"
         }
       ]
