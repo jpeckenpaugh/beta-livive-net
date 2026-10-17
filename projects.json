@@ -188,7 +188,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T03:15:32.606Z",
+      "updated_at": "2026-10-17T04:58:33.897Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -416,7 +416,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-17T03:15:32.613Z",
+      "updated_at": "2026-10-17T04:58:33.905Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -523,7 +523,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-17T03:15:32.613Z",
+      "updated_at": "2026-10-17T04:58:33.905Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1390,8 +1390,8 @@
       "repo": "fast-ttt",
       "display_title": "fast-ttt",
       "tagline": "\"Look Ma, No Browser!\" — Two-player ASCII Tic-Tac-Toe played entirely over curl and plain-text HTTP (Act II of the Tic-Tac-Toe Trilogy).",
-      "short_description": "A text-based tic-tac-toe game served by FastAPI that responds in pure plain text, playable by two players using curl or a browser.",
-      "long_description": "Act II of the Tic-Tac-Toe Architecture Trilogy strips away HTML, CSS, JavaScript, and even JSON to teach raw client-server fundamentals. Two players (or scripts) compete entirely via curl requests against a FastAPI + SQLite backend that responds with plain-text ASCII boards and atomic move histories.",
+      "short_description": "\"Look Ma, No Browser!\" — Play two-player ASCII Tic-Tac-Toe over curl and plain-text HTTP backed by FastAPI, SQLAlchemy, and SQLite.",
+      "long_description": "Act II of the Tic-Tac-Toe Architecture Trilogy strips away HTML, CSS, JavaScript, and even JSON to teach raw client-server fundamentals. Two players (or scripts) compete entirely via curl requests against a FastAPI + SQLAlchemy + SQLite backend that responds with plain-text ASCII boards, atomic move validation, and highlighted winning lines.",
       "tags": [
         "cli",
         "game",
@@ -1420,13 +1420,27 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-08-18T20:31:40Z",
+      "updated_at": "2026-10-17T04:58:33.905Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
       "live_latency_ms": null,
       "live_final_url": null,
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🚀 1. Boot the Server (./install.sh && ./run.sh)",
+          "body": "Clone fast-ttt and run ./install.sh && ./run.sh. Uvicorn boots on http://localhost:8000 and automatically creates the relational SQLite database (src/data.db)."
+        },
+        {
+          "title": "💻 2. Play From Two Terminals Over curl",
+          "body": "Run curl http://localhost:8000/games/new to start a match, then alternate moves with curl http://localhost:8000/games/1/player/X/move/5 (or let the server pick a move via /games/1/auto)."
+        },
+        {
+          "title": "🛡️ 3. Atomic SQLite State & Plain-Text Errors",
+          "body": "Every request returns pure text/plain ASCII grids. Out-of-turn or occupied-square moves return HTTP 409 Conflict with the current board and error message; completed games highlight the winning line ([X]|[X]|[X])."
+        }
+      ]
     },
     {
       "key": "python_classes",

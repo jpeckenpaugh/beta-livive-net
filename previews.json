@@ -401,6 +401,39 @@
       "bytes": 851026,
       "captured_at": "2026-10-16T04:35:22.138Z",
       "source": "https://tech.livive.net/"
+    },
+    "fast-ttt": {
+      "mode": "demo",
+      "duration_ms": 30800,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/05-ascii-victory-highlight.png",
+      "source": "https://github.com/jpeckenpaugh/fast-ttt",
+      "gallery": [
+        {
+          "label": "Split-Terminal curl Clients & FastAPI Server",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/01-create-game-and-board.png"
+        },
+        {
+          "label": "Opening Moves Over Plain-Text HTTP",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/02-opening-moves.png"
+        },
+        {
+          "label": "Server-Authoritative Validation (HTTP 409 Wrong Turn)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/03-http-409-validation.png"
+        },
+        {
+          "label": "Mid-Game ASCII Board Synchronization",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/04-midgame-battle.png"
+        },
+        {
+          "label": "Diagonal Victory Highlight ([X] at 3, 5, 7)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/05-ascii-victory-highlight.png"
+        },
+        {
+          "label": "SQLite Move History (/games/1/moves) & Server Stats",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/06-move-history-and-stats.png"
+        }
+      ]
     }
   }
 }
