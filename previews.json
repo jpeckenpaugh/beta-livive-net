@@ -678,15 +678,41 @@
       "source": "https://jpeckenpaugh.github.io/vid-factory/"
     },
     "tech-livive-net": {
-      "video": "previews/tech-livive-net.webm",
-      "poster": "previews/tech-livive-net.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/02-hardware-schematic-power-path.png",
       "mode": "demo",
       "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 851026,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1645590,
       "captured_at": "2026-10-16T04:35:22.138Z",
-      "source": "https://tech.livive.net/"
+      "source": "https://tech.livive.net/",
+      "gallery": [
+        {
+          "label": "Publication Index & Dynamic Category Filtering",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/01-publication-index-and-chips.png"
+        },
+        {
+          "label": "Hardware Architecture: Dual-SoC Battery & Power Path",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/02-hardware-schematic-power-path.png"
+        },
+        {
+          "label": "Silicon Interconnects: CM5 Differential Lanes & DPI Timing",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/03-high-speed-bus-routing.png"
+        },
+        {
+          "label": "Editorial Masthead: Multi-Agent AI Personas & Beats",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/04-ai-persona-masthead.png"
+        },
+        {
+          "label": "Persona Architecture: Beats, Traits & Bench Toolkits",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/05-persona-dossier-and-toolkit.png"
+        },
+        {
+          "label": "Zero-Build Philosophy: Primary Sources & Static Architecture",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/gallery/06-sources-and-static-philosophy.png"
+        }
+      ]
     },
     "snow-cuad": {
       "mode": "demo",
