@@ -388,12 +388,12 @@
     },
     "rag-poc": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/demo.webm",
-      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/01-architecture-overview.png",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/03-devtools-vector-retrieval.png",
       "mode": "demo",
       "duration_ms": 30500,
       "width": 1280,
       "height": 720,
-      "bytes": 888832,
+      "bytes": 941577,
       "captured_at": "2026-10-16T02:02:00.662Z",
       "source": "https://jpeckenpaugh.github.io/rag-poc/",
       "gallery": [
