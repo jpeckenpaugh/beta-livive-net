@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T07:52:21.361Z",
+      "updated_at": "2026-10-18T07:55:25.176Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T07:52:21.361Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T07:52:21.361Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -724,7 +724,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -998,7 +998,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1058,7 +1058,7 @@
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1119,7 +1119,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
       "thumb": "thumbnails/nexttext.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1343,7 +1343,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:52:21.362Z",
+      "live_checked_at": "2026-10-18T07:55:25.177Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1410,7 +1410,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:52:21.362Z",
+      "live_checked_at": "2026-10-18T07:55:25.177Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1584,7 +1584,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1687,7 +1687,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T07:52:21.361Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1988,7 +1988,7 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2065,7 +2065,7 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2095,9 +2095,9 @@
       "key": "robot-motion-studio",
       "repo": "robot-motion-studio",
       "display_title": "Robot Motion Studio",
-      "tagline": "Design, simulate, and export PWM servo motion sequences for Arduino robots",
-      "short_description": "A web app for designing and managing PWM servo motor control sequences for Arduino-based robots, with configuration, reusable poses, a timeline editor, a Canvas simulator, and structured JSON export.",
-      "long_description": "Robot Motion Studio (Robot Servo Sequence Designer) is a local, single-user multi-robot motion designer for PWM servo robots. Users configure servo motors (PWM pin, angle limits, neutral angle, pulse calibration), create reusable poses, author ordered/timed motion sequences through a visual timeline editor (add/reorder/edit/duplicate steps, play/pause/scrub, per-step speed and easing), inspect resolved motion in a preview, watch it in a dependency-free browser Canvas simulator, and export robot-scoped JSON (schema_version 2) for Arduino firmware or other robot-control software. Motion timing supports easing curves, finite/forever sequence repeat, and contiguous step-group loops. A fresh database seeds a door-durability-tester rig (shoulder/elbow/wrist/gripper servos) plus demo robots: PickPlaceArm (6-DOF arm), QuadTrotter (quadruped), BipedWalker (biped), and GimbalCam (pan/tilt). The original edition pairs a FastAPI + SQLite backend with a static Bootstrap 5 SPA (no build toolchain); a browser-only edition replaces the backend with sql.js WebAssembly SQLite running in a Web Worker and OPFS persistence, making it fully static for GitHub Pages. It is a proof-of-concept and does not communicate with physical Arduino hardware or perform real-time control.",
+      "tagline": "Design, simulate, and export PWM servo motion sequences for Arduino robots with forward kinematics and easing curves.",
+      "short_description": "A browser-based motion choreography studio for PWM servo robots with forward kinematics simulation, timeline easing curves, and Arduino firmware export.",
+      "long_description": "Robot Motion Studio is a local-first multi-robot motion designer and forward kinematics simulation studio for PWM servo robotics. Built entirely in browser-side WebAssembly SQLite (sql.js + OPFS) with zero server dependencies, it enables roboticists to calibrate servo microsecond pulse widths, author reusable joint angle poses, and choreograph multi-step motion sequences through a visual timeline editor. The platform features cubic easing interpolation (ease-in, ease-out, ease-in-out), step-group repeat loops, and continuous sequence replay. A real-time 2D Canvas kinematics simulator models articulated arm chains and interactive environmental coupling (such as wall, door latch, and frame geometry for durability testing rigs). It supports multiple kinematic configurations—from 4-DOF durability testing arms and 6-DOF pick-and-place manipulators to quadruped walkers and pan-tilt gimbals—and exports deterministic Schema Version 2 JSON payloads directly compatible with Arduino firmware and PWM servo driver shields.",
       "tags": [
         "arduino",
         "motion-sequencing",
@@ -2130,13 +2130,27 @@
         }
       ],
       "thumb": "thumbnails/robot-motion-studio.webp",
-      "updated_at": "2026-09-08T08:38:27Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 71,
       "live_final_url": "https://jpeckenpaugh.github.io/robot-motion-studio/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🦾 1. Multi-Robot Kinematic Architectures",
+          "body": "Switch effortlessly between seeded robotic architectures in the top navigation—including DoorDurabilityRig, the 6-DOF PickPlaceArm, QuadTrotter quadruped, and BipedWalker. Calibrate PWM pins, minimum/maximum physical angle limits, and neutral pulse widths (544µs–2400µs)."
+        },
+        {
+          "title": "⏱️ 2. Visual Timeline & Trajectory Interpolation",
+          "body": "Choreograph complex motion sequences by sequencing reusable joint poses. Adjust movement durations, hold periods, and angular velocity (deg/s), applying cubic easing curves (linear, ease-in, ease-out, ease-in-out) with finite or infinite repeat loop groups."
+        },
+        {
+          "title": "🕹️ 3. Interactive 2D Canvas Simulator & Firmware Export",
+          "body": "Simulate and scrub motion trajectories in real time with forward kinematics and interactive environmental geometry. Inspect resolved keyframe telemetry and download Schema Version 2 JSON payloads ready for embedded Arduino firmware control."
+        }
+      ]
     },
     {
       "key": "vid-factory",
@@ -2238,7 +2252,7 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-18T07:52:21.362Z",
+      "updated_at": "2026-10-18T07:55:25.177Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2305,7 +2319,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3129,7 +3143,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3189,7 +3203,7 @@
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3250,7 +3264,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
           "thumb": "thumbnails/nexttext.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3707,7 +3721,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4102,7 +4116,7 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4179,7 +4193,7 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4209,9 +4223,9 @@
           "key": "robot-motion-studio",
           "repo": "robot-motion-studio",
           "display_title": "Robot Motion Studio",
-          "tagline": "Design, simulate, and export PWM servo motion sequences for Arduino robots",
-          "short_description": "A web app for designing and managing PWM servo motor control sequences for Arduino-based robots, with configuration, reusable poses, a timeline editor, a Canvas simulator, and structured JSON export.",
-          "long_description": "Robot Motion Studio (Robot Servo Sequence Designer) is a local, single-user multi-robot motion designer for PWM servo robots. Users configure servo motors (PWM pin, angle limits, neutral angle, pulse calibration), create reusable poses, author ordered/timed motion sequences through a visual timeline editor (add/reorder/edit/duplicate steps, play/pause/scrub, per-step speed and easing), inspect resolved motion in a preview, watch it in a dependency-free browser Canvas simulator, and export robot-scoped JSON (schema_version 2) for Arduino firmware or other robot-control software. Motion timing supports easing curves, finite/forever sequence repeat, and contiguous step-group loops. A fresh database seeds a door-durability-tester rig (shoulder/elbow/wrist/gripper servos) plus demo robots: PickPlaceArm (6-DOF arm), QuadTrotter (quadruped), BipedWalker (biped), and GimbalCam (pan/tilt). The original edition pairs a FastAPI + SQLite backend with a static Bootstrap 5 SPA (no build toolchain); a browser-only edition replaces the backend with sql.js WebAssembly SQLite running in a Web Worker and OPFS persistence, making it fully static for GitHub Pages. It is a proof-of-concept and does not communicate with physical Arduino hardware or perform real-time control.",
+          "tagline": "Design, simulate, and export PWM servo motion sequences for Arduino robots with forward kinematics and easing curves.",
+          "short_description": "A browser-based motion choreography studio for PWM servo robots with forward kinematics simulation, timeline easing curves, and Arduino firmware export.",
+          "long_description": "Robot Motion Studio is a local-first multi-robot motion designer and forward kinematics simulation studio for PWM servo robotics. Built entirely in browser-side WebAssembly SQLite (sql.js + OPFS) with zero server dependencies, it enables roboticists to calibrate servo microsecond pulse widths, author reusable joint angle poses, and choreograph multi-step motion sequences through a visual timeline editor. The platform features cubic easing interpolation (ease-in, ease-out, ease-in-out), step-group repeat loops, and continuous sequence replay. A real-time 2D Canvas kinematics simulator models articulated arm chains and interactive environmental coupling (such as wall, door latch, and frame geometry for durability testing rigs). It supports multiple kinematic configurations—from 4-DOF durability testing arms and 6-DOF pick-and-place manipulators to quadruped walkers and pan-tilt gimbals—and exports deterministic Schema Version 2 JSON payloads directly compatible with Arduino firmware and PWM servo driver shields.",
           "tags": [
             "arduino",
             "motion-sequencing",
@@ -4244,13 +4258,27 @@
             }
           ],
           "thumb": "thumbnails/robot-motion-studio.webp",
-          "updated_at": "2026-09-08T08:38:27Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 71,
           "live_final_url": "https://jpeckenpaugh.github.io/robot-motion-studio/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🦾 1. Multi-Robot Kinematic Architectures",
+              "body": "Switch effortlessly between seeded robotic architectures in the top navigation—including DoorDurabilityRig, the 6-DOF PickPlaceArm, QuadTrotter quadruped, and BipedWalker. Calibrate PWM pins, minimum/maximum physical angle limits, and neutral pulse widths (544µs–2400µs)."
+            },
+            {
+              "title": "⏱️ 2. Visual Timeline & Trajectory Interpolation",
+              "body": "Choreograph complex motion sequences by sequencing reusable joint poses. Adjust movement durations, hold periods, and angular velocity (deg/s), applying cubic easing curves (linear, ease-in, ease-out, ease-in-out) with finite or infinite repeat loop groups."
+            },
+            {
+              "title": "🕹️ 3. Interactive 2D Canvas Simulator & Firmware Export",
+              "body": "Simulate and scrub motion trajectories in real time with forward kinematics and interactive environmental geometry. Inspect resolved keyframe telemetry and download Schema Version 2 JSON payloads ready for embedded Arduino firmware control."
+            }
+          ]
         },
         {
           "key": "vid-factory",
@@ -4352,7 +4380,7 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-18T07:52:21.362Z",
+          "updated_at": "2026-10-18T07:55:25.177Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",

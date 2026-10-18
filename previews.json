@@ -760,15 +760,41 @@
       ]
     },
     "robot-motion-studio": {
-      "video": "previews/robot-motion-studio.webm",
-      "poster": "previews/robot-motion-studio.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/01-canvas-simulator-door-cycle.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 922933,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1095051,
       "captured_at": "2026-10-16T04:34:43.917Z",
-      "source": "https://jpeckenpaugh.github.io/robot-motion-studio/"
+      "source": "https://jpeckenpaugh.github.io/robot-motion-studio/",
+      "gallery": [
+        {
+          "label": "Forward Kinematics Simulator & Door Rig Interaction",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/01-canvas-simulator-door-cycle.png"
+        },
+        {
+          "label": "Visual Timeline Choreography & Easing Curves",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/02-timeline-trajectory-editor.png"
+        },
+        {
+          "label": "Reusable Pose Authoring & Joint Angle Scrubbers",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/03-joint-pose-scrubbers.png"
+        },
+        {
+          "label": "6-DOF Articulated Arm Configuration (PickPlaceArm)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/04-pick-place-6dof-kinematics.png"
+        },
+        {
+          "label": "Deterministic Motion Interpolation & Keyframe Telemetry",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/05-motion-document-preview.png"
+        },
+        {
+          "label": "Schema v2 JSON & Arduino Firmware Export",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/robot-motion-studio/main/demos/latest/gallery/06-schema2-arduino-export.png"
+        }
+      ]
     },
     "vid-factory": {
       "video": "previews/vid-factory.webm",
