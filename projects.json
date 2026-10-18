@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -724,7 +724,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -998,7 +998,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1024,9 +1024,9 @@
       "key": "vibe-hindi-language-tutor",
       "repo": "vibe-hindi-language-tutor",
       "display_title": "English · Hindi & Kannada Language Tutor",
-      "tagline": "Client-side flashcards, quizzes, and glossary for Hindi and Kannada vocabulary",
-      "short_description": "A single-page, dependency-free language tutor for learning English-to-Hindi and English-to-Kannada vocabulary, with flashcards, quizzes, a searchable glossary, audio pronunciation, and progress tracking.",
-      "long_description": "A single-page, client-side language tutor for learning English/Hindi/Kannada vocabulary, built with no build tools and no dependencies — just HTML, CSS, and vanilla JavaScript. It covers two target languages: English to Hindi (Devanagari) or English to Kannada, selectable on the title screen or via a header dropdown. The curriculum spans 35 lessons and 700 words (20 per lesson), each with a phonetic transliteration. Learners get audio pronunciation via the Web Speech API using the correct voice per language (hi-IN / kn-IN), flip-to-reveal flashcards, per-lesson multiple-choice quizzes with instant feedback, a searchable glossary, and a dashboard with quiz score history, daily streaks, and per-word mastery tracked separately per language. Progress, language choice, and student name persist in localStorage, and the responsive layout adapts to any screen size. The README notably documents that the project was built entirely by three short-lived DeepSeek V4 Flash coding agents in OpenCode, with agent session screenshots included as evidence.",
+      "tagline": "Dual-track vocabulary tutor for Hindi (Devanagari) & Kannada scripts with audio synthesis, quizzes, and streak tracking.",
+      "short_description": "A dependency-free single-page language tutor across 35 lessons and 700 essential vocabulary words in Devanagari and Kannada scripts with audio pronunciation.",
+      "long_description": "English · Hindi & Kannada Language Tutor is a zero-dependency, client-side language learning platform covering two major Indic scripts: Hindi (Devanagari) and Kannada. Featuring 35 comprehensive thematic lessons and 700 vocabulary terms per language, learners can practice with flip-to-reveal flashcards, audio pronunciation synthesized via Web Speech API (hi-IN and kn-IN), Latin phonetic transliteration breakdowns, multiple-choice quizzes with instant validation, a real-time searchable bilingual glossary, and an adaptive learner dashboard tracking streaks, historical scores, and individual word mastery.",
       "tags": [
         "flashcards",
         "hindi",
@@ -1053,18 +1053,36 @@
       "notes": "GitHub Pages live demo returns HTTP 200. README describes project as v0.3, a work in progress. No license or homepage metadata found; built entirely by coding agents as a demonstration of agentic 'vibe coding'.",
       "demos": [
         {
-          "label": "Play",
+          "label": "Start Learning Hindi & Kannada",
           "url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/"
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-08-19T07:06:38Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 56,
       "live_final_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🎴 1. Dual-Script Flashcards & Audio Pronunciation",
+          "body": "Toggle between Hindi (Devanagari) and Kannada (ಕನ್ನಡ) on any card. Flip cards to view authentic Indic typography alongside phonetic Romanization, and trigger native Web Speech API audio."
+        },
+        {
+          "title": "🎯 2. Instant Multiple-Choice Quiz Evaluation",
+          "body": "Test recall against four distractor options per prompt. Receive immediate green/rose answer feedback, monitor the dynamic score progress bar, and review completion score summaries."
+        },
+        {
+          "title": "🔍 3. Searchable Bilingual Glossary & Pronunciation Index",
+          "body": "Search across all 700 vocabulary words in real time with instant filtering by English, Hindi, or Kannada terms, including phonetic guides and pronunciation triggers."
+        },
+        {
+          "title": "📊 4. Learner Dashboard & Topic Mastery Grid",
+          "body": "Monitor day streaks, all-time quiz scores, average performance trends, and an interactive 20-word lesson mastery matrix with localized retention tracking in localStorage."
+        }
+      ]
     },
     {
       "key": "nexttext",
@@ -1307,7 +1325,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:23:18.498Z",
+      "live_checked_at": "2026-10-18T07:25:37.254Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1374,7 +1392,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:23:18.498Z",
+      "live_checked_at": "2026-10-18T07:25:37.254Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1548,7 +1566,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1651,7 +1669,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.253Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1952,7 +1970,7 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-18T07:23:18.499Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2029,7 +2047,7 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2202,7 +2220,7 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-18T07:23:18.498Z",
+      "updated_at": "2026-10-18T07:25:37.254Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2269,7 +2287,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T07:23:18.498Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3093,7 +3111,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-18T07:23:18.498Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3119,9 +3137,9 @@
           "key": "vibe-hindi-language-tutor",
           "repo": "vibe-hindi-language-tutor",
           "display_title": "English · Hindi & Kannada Language Tutor",
-          "tagline": "Client-side flashcards, quizzes, and glossary for Hindi and Kannada vocabulary",
-          "short_description": "A single-page, dependency-free language tutor for learning English-to-Hindi and English-to-Kannada vocabulary, with flashcards, quizzes, a searchable glossary, audio pronunciation, and progress tracking.",
-          "long_description": "A single-page, client-side language tutor for learning English/Hindi/Kannada vocabulary, built with no build tools and no dependencies — just HTML, CSS, and vanilla JavaScript. It covers two target languages: English to Hindi (Devanagari) or English to Kannada, selectable on the title screen or via a header dropdown. The curriculum spans 35 lessons and 700 words (20 per lesson), each with a phonetic transliteration. Learners get audio pronunciation via the Web Speech API using the correct voice per language (hi-IN / kn-IN), flip-to-reveal flashcards, per-lesson multiple-choice quizzes with instant feedback, a searchable glossary, and a dashboard with quiz score history, daily streaks, and per-word mastery tracked separately per language. Progress, language choice, and student name persist in localStorage, and the responsive layout adapts to any screen size. The README notably documents that the project was built entirely by three short-lived DeepSeek V4 Flash coding agents in OpenCode, with agent session screenshots included as evidence.",
+          "tagline": "Dual-track vocabulary tutor for Hindi (Devanagari) & Kannada scripts with audio synthesis, quizzes, and streak tracking.",
+          "short_description": "A dependency-free single-page language tutor across 35 lessons and 700 essential vocabulary words in Devanagari and Kannada scripts with audio pronunciation.",
+          "long_description": "English · Hindi & Kannada Language Tutor is a zero-dependency, client-side language learning platform covering two major Indic scripts: Hindi (Devanagari) and Kannada. Featuring 35 comprehensive thematic lessons and 700 vocabulary terms per language, learners can practice with flip-to-reveal flashcards, audio pronunciation synthesized via Web Speech API (hi-IN and kn-IN), Latin phonetic transliteration breakdowns, multiple-choice quizzes with instant validation, a real-time searchable bilingual glossary, and an adaptive learner dashboard tracking streaks, historical scores, and individual word mastery.",
           "tags": [
             "flashcards",
             "hindi",
@@ -3148,18 +3166,36 @@
           "notes": "GitHub Pages live demo returns HTTP 200. README describes project as v0.3, a work in progress. No license or homepage metadata found; built entirely by coding agents as a demonstration of agentic 'vibe coding'.",
           "demos": [
             {
-              "label": "Play",
+              "label": "Start Learning Hindi & Kannada",
               "url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/"
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-08-19T07:06:38Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 56,
           "live_final_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🎴 1. Dual-Script Flashcards & Audio Pronunciation",
+              "body": "Toggle between Hindi (Devanagari) and Kannada (ಕನ್ನಡ) on any card. Flip cards to view authentic Indic typography alongside phonetic Romanization, and trigger native Web Speech API audio."
+            },
+            {
+              "title": "🎯 2. Instant Multiple-Choice Quiz Evaluation",
+              "body": "Test recall against four distractor options per prompt. Receive immediate green/rose answer feedback, monitor the dynamic score progress bar, and review completion score summaries."
+            },
+            {
+              "title": "🔍 3. Searchable Bilingual Glossary & Pronunciation Index",
+              "body": "Search across all 700 vocabulary words in real time with instant filtering by English, Hindi, or Kannada terms, including phonetic guides and pronunciation triggers."
+            },
+            {
+              "title": "📊 4. Learner Dashboard & Topic Mastery Grid",
+              "body": "Monitor day streaks, all-time quiz scores, average performance trends, and an interactive 20-word lesson mastery matrix with localized retention tracking in localStorage."
+            }
+          ]
         },
         {
           "key": "nexttext",
@@ -3635,7 +3671,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T07:23:18.498Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4030,7 +4066,7 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-18T07:23:18.499Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4107,7 +4143,7 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-18T07:23:18.498Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4280,7 +4316,7 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-18T07:23:18.498Z",
+          "updated_at": "2026-10-18T07:25:37.254Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",

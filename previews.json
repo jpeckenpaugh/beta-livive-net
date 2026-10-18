@@ -483,15 +483,41 @@
       ]
     },
     "vibe-hindi-language-tutor": {
-      "video": "previews/vibe-hindi-language-tutor.webm",
-      "poster": "thumbnails/vibe-hindi-language-tutor.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 116965,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/01_flashcard_hindi_devanagari.png",
+      "mode": "demo",
+      "duration_ms": 30000,
+      "width": 1280,
+      "height": 720,
+      "bytes": 806364,
       "captured_at": "2026-10-16T02:02:09.374Z",
-      "source": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/"
+      "source": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
+      "gallery": [
+        {
+          "label": "Flashcards: Hindi Devanagari Script & Audio Pronunciation",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/01_flashcard_hindi_devanagari.png"
+        },
+        {
+          "label": "Language Switch: Kannada Complex Conjuncts & Ligatures",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/02_flashcard_kannada_script.png"
+        },
+        {
+          "label": "Multiple-Choice Quiz: Question Drill & Real-Time Feedback",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/03_quiz_active_evaluation.png"
+        },
+        {
+          "label": "Quiz Completion: Scored Evaluation & Performance Report",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/04_quiz_result_mastery.png"
+        },
+        {
+          "label": "Searchable Glossary: Filtered Vocabulary & Phonetic Matrix",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/05_searchable_glossary.png"
+        },
+        {
+          "label": "Learner Dashboard: Daily Streaks, Chart & Word Mastery Grid",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vibe-hindi-language-tutor/main/demos/latest/gallery/06_learner_dashboard_matrix.png"
+        }
+      ]
     },
     "nexttext": {
       "video": "previews/nexttext.webm",
