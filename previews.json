@@ -1076,6 +1076,39 @@
           "src": "https://raw.githubusercontent.com/jpeckenpaugh/fast-ttt/main/demos/latest/gallery/06-move-history-and-stats.png"
         }
       ]
+    },
+    "wasm-livive-net": {
+      "mode": "demo",
+      "duration_ms": 30000,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/01-hero-and-overview.png",
+      "source": "https://github.com/jpeckenpaugh/wasm-livive-net",
+      "gallery": [
+        {
+          "label": "Hero & Research-Verified Architecture",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/01-hero-and-overview.png"
+        },
+        {
+          "label": "Foundations: What WASM Is & What It Isn't",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/02-foundations-what-it-is.png"
+        },
+        {
+          "label": "Architectural Matrix: WASM vs. Node.js & Alternatives",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/03-architectural-matrix.png"
+        },
+        {
+          "label": "Verified Project Showcase (Pyodide, Pygbag, sql.js, ONNX)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/04-project-showcase.png"
+        },
+        {
+          "label": "Binary Footprint & Payload Trade-off Audits",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/05-binary-footprint-tradeoffs.png"
+        },
+        {
+          "label": "Interactive Live Benchmark: WASM vs. V8 JavaScript",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/06-live-benchmark-demo.png"
+        }
+      ]
     }
   }
 }
