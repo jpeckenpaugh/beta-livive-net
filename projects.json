@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T08:06:56.673Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -679,7 +679,7 @@
         }
       ],
       "thumb": "thumbnails/rag-poc.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -738,7 +738,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1012,7 +1012,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1072,7 +1072,7 @@
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1133,7 +1133,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
       "thumb": "thumbnails/nexttext.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1357,7 +1357,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T08:06:56.677Z",
+      "live_checked_at": "2026-10-18T08:33:54.037Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1424,7 +1424,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T08:06:56.677Z",
+      "live_checked_at": "2026-10-18T08:33:54.037Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1598,7 +1598,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1701,7 +1701,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1763,9 +1763,9 @@
       "key": "c3pa-explorer",
       "repo": "c3pa-explorer",
       "display_title": "C3PA Explorer",
-      "tagline": "In-browser explorer for the C3PA privacy-policy dataset",
-      "short_description": "A proof-of-concept web app for exploring the C3PA Dataset (400 expert-annotated CCPA/CPRA privacy policies) at both the source level (verbatim annotator spans) and the deterministically re-extracted derived level.",
-      "long_description": "C3PA Explorer is a proof-of-concept web app for exploring the C3PA Dataset (400 expert-annotated privacy policies, CCPA/CPRA) at both the source level (verbatim annotator spans) and the derived level (deterministically re-extracted text units). It ships two runtimes sharing one SPA and SQLite schema: a FastAPI edition with a Python backend over a normalized SQLite database, and a browser edition running entirely in-browser on sql.js (SQLite compiled to WebAssembly) against a prebuilt, signed snapshot. The derived layer is produced by backend/extract.py, a fully deterministic rule-based pipeline (no trained models) that drops chrome, extracts leaf text blocks, merges lead-ins with lists, splits sentences with abbreviation/URL/email guards, classifies units as sentence or typed fragment, and performs 3-tier annotation re-alignment. A dashboard shows corpus stats and label distributions; documents can be browsed and searched, document detail has Source/Sentences/Fragments tabs with clickable alignment provenance, and a unit explorer supports filtering and exporting timestamped ZIP archives with partition files and meta.json. The browser edition auto-loads a signed snapshot (verified against envelope and db hashes in builds.json) and runs queries in a Web Worker with no server or network calls after download; a nav modal can switch to a FastAPI backend. Snapshots can be rebuilt on Google Colab via the included notebook, and tests cover backend API, frontend units, and FastAPI/ sql.js parity.",
+      "tagline": "In-browser WASM SQLite corpus browser for CCPA privacy policies with cryptographic snapshot audits.",
+      "short_description": "A zero-backend dataset explorer running on client-side sql.js WebAssembly to search 400 CCPA policies, verify 45k annotations, and audit cryptographic database snapshots.",
+      "long_description": "C3PA Explorer is an open-source privacy policy corpus explorer and data inspection workbench built for the EMNLP 2024 CCPA/CPRA dataset. Operating entirely client-side on SQLite compiled to WebAssembly (sql.js) inside a dedicated Web Worker, it loads signed snapshot archives verified against envelope hash and internal SQLite SHA256 integrity checks. Researchers can inspect 400 crawl policies across 45,121 raw annotator spans, review deterministic 3-tier sentence alignments, filter downstream dataset partitions by legal taxonomy categories and annotator consensus, and export timestamped ZIP bundles directly in the browser.",
       "tags": [
         "annotation",
         "dataset-explorer",
@@ -1799,13 +1799,27 @@
         }
       ],
       "thumb": "thumbnails/c3pa-explorer.webp",
-      "updated_at": "2026-09-22T02:24:58Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 274,
       "live_final_url": "https://jpeckenpaugh.github.io/c3pa-explorer/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📊 1. Corpus Metrics & Cryptographic Audit",
+          "body": "Inspect high-level distributions across 400 privacy policies and 45k annotations. Open the Database Engine modal to audit cryptographic SHA256 envelope and database hashes verifying zero-tamper integrity."
+        },
+        {
+          "title": "📜 2. Document Library & Sentence Alignment",
+          "body": "Browse through corporate policy documents (e.g. Airbnb, Nike). Use the sentence inspector to examine exact annotator spans and view the 3-tier alignment rule evidence connecting raw text to legal taxonomies."
+        },
+        {
+          "title": "⚙️ 3. Downstream Slicing & Partition Export",
+          "body": "Filter extracted samples by legal category, sentence vs fragment type, and annotator consensus. Export filtered subsets as timestamped training, evaluation, and test splits with complete metadata."
+        }
+      ]
     },
     {
       "key": "company-hub",
@@ -1814,9 +1828,9 @@
         "ch"
       ],
       "display_title": "Company Hub",
-      "tagline": "Internal web app to view and maintain company profiles",
-      "short_description": "A lightweight internal web app for a small firm to browse, view and edit profiles of the companies it works with, manage related files, and generate PDF summaries.",
-      "long_description": "Company Hub is a self-contained internal web app for a small, globally distributed firm to view and maintain information about the companies it works with. It distinguishes structured company data (stored in a relational database) from files and generated artifacts (stored as object-like files on disk), and is meant as a lightweight backbone for other internal workflows rather than a full CRM. Features include browsing and searching companies, country filtering, editable company profiles, standardized industries and locations, per-company references, news and logos, file/artifact upload and download, and one-page PDF summary generation. Sprint 03 added role-based access (guest, read-only, user, admin), admin user management, and optional Google SSO. The backend is FastAPI on async SQLAlchemy 2.0 with SQLite and versioned Alembic migrations, auth via fastapi-users with cookie sessions, and a static Bootstrap SPA frontend served by the app. It also ships OpenCode tools and agents that use the same authenticated API.",
+      "tagline": "Enterprise corporate intelligence and mini-CRM workspace with client-side SQLite WASM and local AI news ranking.",
+      "short_description": "A local-first corporate directory and company dossier studio managing enterprise accounts, multi-facility locations, curated reference links, and on-device WebGPU news ranking.",
+      "long_description": "Company Hub is an enterprise company management and corporate intelligence workspace operating fully in-browser with WebAssembly SQLite (sql.js) and IndexedDB persistence. Users can explore global accounts (Toyota, Samsung, Novartis, Shell), manage multi-facility locations (global headquarters, regional offices, manufacturing plants), maintain curated reference links, and track market intelligence news feeds. An integrated AI news ranking benchmark compares deterministic baseline scoring against local WebGPU-accelerated Gemma models for on-device relevance evaluation.",
       "tags": [
         "company-management",
         "company-profiles",
@@ -1860,21 +1874,35 @@
         }
       ],
       "thumb": "thumbnails/company-hub.webp",
-      "updated_at": "2026-09-07T19:56:28Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 58,
       "live_final_url": "https://jpeckenpaugh.github.io/ch/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🏢 1. Global Directory & Multi-Facet Filters",
+          "body": "Search across enterprise accounts by company name and country filter pills (JP, KR, GB, CH, US). Inspect data completeness indicators across corporate records."
+        },
+        {
+          "title": "📍 2. Corporate Dossier & Location Hierarchy",
+          "body": "Open company profiles (e.g. Toyota Motor) to view primary contacts, multi-tier locations (Global HQ, design studios, manufacturing plants), and curated reference documentation."
+        },
+        {
+          "title": "🤖 3. On-Device AI News Ranking & SQLite Workspace",
+          "body": "Evaluate financial and industry news articles using deterministic baseline scoring and local WebGPU Gemma models. Backup or export the SQLite database directly from the workspace view."
+        }
+      ]
     },
     {
       "key": "driver-hub-prototype",
       "repo": "driver-hub-prototype",
       "display_title": "Driver Hub Prototype",
-      "tagline": "Uber-style ride-hailing prototype connecting drivers and passengers in real time",
-      "short_description": "A lightweight full-stack prototype of a ride-hailing platform (Uber/Cabify style) that pairs drivers and passengers in real time over an interactive map.",
-      "long_description": "Driver Hub Prototype is a functional, modern prototype of a ride-sharing platform connecting Drivers and Passengers in real time. It demonstrates the essential passenger-driver interaction: requesting a trip on an interactive map, real-time notification and acceptance by the driver, visual route tracking, and reactive trip status updates. The interface is designed for side-by-side demos (split screen or two devices). The stack is React 19 + TypeScript + Vite + Tailwind CSS on the frontend, Leaflet / React-Leaflet with OpenStreetMap for maps (no API keys needed), and Node.js + Express + Socket.io for real-time communication across browsers or devices on the same local network. The repository is an npm workspaces monorepo with shared, server, and client packages, and GitHub Pages workflows for deployment.",
+      "tagline": "Dual-device smartphone simulator with in-browser WebSocket virtual hub and live OSRM Madrid route telemetry.",
+      "short_description": "A split-screen interactive ride-hailing prototype demonstrating real-time rider booking, driver dispatch, audio chimes, and smooth vehicle telemetry without an external backend.",
+      "long_description": "Driver Hub Prototype is a dual-device interactive mobility simulation platform featuring synchronized Rider and Driver smartphone interfaces running side-by-side in Split Demo mode. Driven by an in-memory VirtualSocket emulator that mirrors full-duplex WebSocket communication, the application coordinates ride requests, driver dispatch offers with 15s countdown timers, fare calculations across Standard/Comfort/XL vehicle tiers, and smooth vehicle telemetry animated over Leaflet maps with real-world Madrid OSRM road geometry. Users can test complete ride lifecycles from initial request to pickup arrival, en-route transit, trip completion, and driver earnings settlement.",
       "tags": [
         "maps",
         "prototype",
@@ -1911,21 +1939,35 @@
         }
       ],
       "thumb": "thumbnails/driver-hub-prototype.webp",
-      "updated_at": "2026-10-07T16:52:13Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 60,
       "live_final_url": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📱 1. Side-by-Side Dual Device Demo",
+          "body": "Watch Marcus Vance (Driver) and Elena Ramos (Rider) interact in real time. Toggle the driver status to Online and observe nearby driver marker synchronization on the rider's Madrid map."
+        },
+        {
+          "title": "🚕 2. Booking & Dispatch Countdown",
+          "body": "Select vehicle tiers (Standard, Comfort, XL) and tap 'Solicitar Viaje'. The driver phone instantly displays an incoming trip offer dialog with fare preview and a 15-second acceptance timer."
+        },
+        {
+          "title": "🗺️ 3. Animated Telemetry & Trip Completion",
+          "body": "Simulate turn-by-turn vehicle motion along Madrid streets with heading rotation. Walk through pickup arrival, passenger boarding, en-route transit, and trip completion with earnings settlement."
+        }
+      ]
     },
     {
       "key": "executive-assistant",
       "repo": "executive-assistant",
       "display_title": "Executive Assistant",
-      "tagline": "Local, single-user web app for tasks, meetings, reminders, and follow-ups",
-      "short_description": "A local, single-user web app for organizing daily responsibilities, priorities, commitments, meetings, follow-ups, contacts, notes, reminders, and quick-capture items in one place.",
-      "long_description": "Executive Assistant is a local, single-user web app for organizing daily responsibilities, priorities, commitments, meetings, follow-ups, contacts, notes, reminders, and quick-capture items in one place. It offers a daily dashboard with priorities, overdue work, upcoming commitments, reminders, and quick actions; task management with low/medium/high priority, due dates, postponement, completion, and daily/weekly/monthly recurrence; meeting and commitment tracking with cancellation, completion, and advisory overlap warnings; meeting preparation and follow-up notes; contact and relationship tracking; a quick-capture inbox processed into tasks, notes, or reminders; unified case-insensitive search with record-type filtering; and in-app reminders with acknowledge, snooze, and dismiss actions. The backend is FastAPI with SQLAlchemy and SQLite, and the interface is server-rendered with Jinja2 and Bootstrap from a CDN. A separate browser proof-of-concept under poc-browser uses sql.js and includes an AI command bar. The app stores data in a local SQLite database and is designed for one local user; authentication, external calendar sync, email delivery, push notifications, and background workers are out of scope. The initial build is complete across the concept, feature, environment, architecture, backend, and frontend stages, but formal verification has not completed yet.",
+      "tagline": "In-browser executive productivity suite with client-side SQLite, OPFS persistence, and natural language AI command bar.",
+      "short_description": "A privacy-first personal executive assistant running entirely in the browser using WebAssembly SQLite and OPFS for conflict-aware scheduling, atomic inbox triage, and task execution.",
+      "long_description": "Executive Assistant is a local-first, privacy-centric operations platform designed to organize executive priorities, commitments, contacts, notes, and quick-capture items in a single client-side workspace. Powered by SQLite compiled to WebAssembly (sql.js) and persisting directly to the browser's Origin Private File System (OPFS), the application guarantees zero-latency, offline operation with standard .db database backup and import capabilities. Core capabilities include an executive briefing dashboard with pending inbox and overdue alerts; conflict-aware commitment scheduling with automated schedule overlap detection; atomic inbox processing that rapidly triages brain dumps into high-priority tasks, contextual notes, or time-locked reminders; and an omnipresent natural language AI command bar capable of parsing complex scheduling instructions into multi-action confirmation previews before database commit.",
       "tags": [
         "fastapi",
         "productivity",
@@ -1960,13 +2002,31 @@
         }
       ],
       "thumb": "thumbnails/executive-assistant.webp",
-      "updated_at": "2026-09-08T05:47:32Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 53,
       "live_final_url": "https://jpeckenpaugh.github.io/executive-assistant/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📊 1. Daily Cockpit & Executive Briefing",
+          "body": "Review real-time operational indicators—Pending Inbox items, Overdue Tasks, and Active Reminders—alongside segmented timeline cards highlighting today's high-priority deliverables and upcoming 7-day commitments."
+        },
+        {
+          "title": "📅 2. Conflict-Aware Scheduling & Overlap Alerts",
+          "body": "Schedule board sessions, stakeholder reviews, and recurring meetings with duration, location, and attendee tracking. The built-in scheduling engine automatically flags calendar collisions with clear advisory overlap alerts."
+        },
+        {
+          "title": "📥 3. Frictionless Quick Capture & Atomic Triage",
+          "body": "Capture incoming thoughts, requests, and meeting takeaways directly into the quick-capture inbox, then trigger atomic processing to triage raw items into structured tasks, notes, or reminders with single-click precision."
+        },
+        {
+          "title": "✨ 4. Natural Language AI Command Bar",
+          "body": "Type natural instructions (e.g., 'Schedule Board Strategy Sync tomorrow 10am and prep review dossier') into the global AI bar. Preview multi-action structured JSON actions in an interactive modal before committing them to the local SQLite database."
+        }
+      ]
     },
     {
       "key": "herons-fountain",
@@ -2002,7 +2062,7 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2079,7 +2139,7 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2144,7 +2204,7 @@
         }
       ],
       "thumb": "thumbnails/robot-motion-studio.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2170,9 +2230,9 @@
       "key": "vid-factory",
       "repo": "vid-factory",
       "display_title": "Video Content Factory",
-      "tagline": "Organize video content ideas and draft AI scripts with browser-native TTS",
-      "short_description": "A browser-centric web application for organizing early-stage video content ideas, managing catalogs of applications and companies, drafting scripts with client-side AI providers, and synthesizing dialogue with in-browser text-to-speech.",
-      "long_description": "Video Content Factory is a web application for organizing early-stage content ideas and drafts. Its primary local runtime is a browser-native standalone application (browser-edition/) that runs entirely client-side with no backend server: a dedicated Web Worker database layer uses vendored sql.js (SQLite compiled to WebAssembly) with persistence in the Origin Private File System (OPFS), communicating through an RPC message-passing protocol between the UI (app.js) and db-worker.js. It manages catalogs for applications (YouTube, TikTok, Instagram) and companies (Acme Studio, Northstar Media, Pine & Peak), content projects with optional application/company links, and one persisted script/prompt draft per project. Workspace settings store AI provider credentials (Gemini, OpenAI, Ollama) in a local SQLite ai_settings table with custom endpoint URLs and connectivity tests; API keys are stripped during export. A client-side AI script generator formulates formatted drafts from user prompts and confirms before overwriting manual drafts. A dedicated TTS worker (tts-worker.js) runs kokoro-js speech synthesis in WebAssembly/WebGPU, exposing voice selection (af_heart, af_bella, am_adam, am_michael), a 0.75x-1.25x speed slider, an inline HTML5 audio preview player, and local audio track persistence with metadata (voice_id, speed, script_snapshot, duration). Workspaces are portable via JSON export/import with structural validation and seed reset. The original FastAPI JSON API and Bootstrap browser UI (backend/ and frontend/, pinned fastapi==0.115.12 and uvicorn[standard]==0.34.0) remain available unchanged as a parity reference and fallback runtime, serving a seeded local SQLite database (backend/data/vid_factory.db). Multi-speaker timeline synchronization, cloud rendering pipelines, server-side audio processing, and cloud sync are explicitly deferred. Status: Sprint 02 complete (client-side AI & dialogue TTS), verified pass with sandbox environment limitations.",
+      "tagline": "In-browser video planning studio with client-side AI script generation and neural Kokoro TTS audio synthesis.",
+      "short_description": "A browser-native video content factory running on WASM SQLite and OPFS for multi-platform video planning, AI script formulation, and in-browser neural dialogue speech synthesis.",
+      "long_description": "Vid Factory (Video Content Factory) is a client-side video pre-production and speech synthesis workbench operating entirely in the browser with WebAssembly SQLite (sql.js) and Origin Private File System (OPFS) persistence. Creators can organize multi-platform video initiatives (YouTube, TikTok, Instagram), manage sponsor catalogs, formulate 30-second scripts via client-side AI providers (Gemini, OpenAI, Ollama), and synthesize multi-voice dialogue using in-browser neural Kokoro TTS with adjustable speech cadence, instant HTML5 waveform audio playback, and binary SQLite audio track archiving.",
       "tags": [
         "ai-script-generation",
         "content-creation",
@@ -2209,13 +2269,27 @@
         }
       ],
       "thumb": "thumbnails/vid-factory.webp",
-      "updated_at": "2026-09-08T17:49:59Z",
+      "updated_at": "2026-10-18T08:33:54.038Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 59,
       "live_final_url": "https://jpeckenpaugh.github.io/vid-factory/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🎬 1. Content Projects & Catalog Management",
+          "body": "Track video initiatives across YouTube, TikTok, and Instagram with reference brand channels (Acme Studio, Northstar Media). Manage project drafts with local OPFS persistence."
+        },
+        {
+          "title": "✨ 2. Client-Side AI Script Generator",
+          "body": "Draft high-energy video scripts with client-side AI provider configuration (Gemini, OpenAI, Ollama) featuring custom endpoint routing and secure masked credential storage."
+        },
+        {
+          "title": "🎙️ 3. Neural Kokoro TTS Studio & Audio Archive",
+          "body": "Synthesize script dialogue in real time using browser-native Kokoro neural voices (af_heart, am_michael) with speed controls, inline waveform audio preview, and SQLite track history."
+        }
+      ]
     },
     {
       "key": "tech-livive-net",
@@ -2266,7 +2340,7 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-18T08:06:56.677Z",
+      "updated_at": "2026-10-18T08:33:54.037Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2333,7 +2407,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2847,7 +2921,7 @@
             }
           ],
           "thumb": "thumbnails/rag-poc.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3171,7 +3245,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3231,7 +3305,7 @@
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3292,7 +3366,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
           "thumb": "thumbnails/nexttext.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3749,7 +3823,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3905,9 +3979,9 @@
           "key": "c3pa-explorer",
           "repo": "c3pa-explorer",
           "display_title": "C3PA Explorer",
-          "tagline": "In-browser explorer for the C3PA privacy-policy dataset",
-          "short_description": "A proof-of-concept web app for exploring the C3PA Dataset (400 expert-annotated CCPA/CPRA privacy policies) at both the source level (verbatim annotator spans) and the deterministically re-extracted derived level.",
-          "long_description": "C3PA Explorer is a proof-of-concept web app for exploring the C3PA Dataset (400 expert-annotated privacy policies, CCPA/CPRA) at both the source level (verbatim annotator spans) and the derived level (deterministically re-extracted text units). It ships two runtimes sharing one SPA and SQLite schema: a FastAPI edition with a Python backend over a normalized SQLite database, and a browser edition running entirely in-browser on sql.js (SQLite compiled to WebAssembly) against a prebuilt, signed snapshot. The derived layer is produced by backend/extract.py, a fully deterministic rule-based pipeline (no trained models) that drops chrome, extracts leaf text blocks, merges lead-ins with lists, splits sentences with abbreviation/URL/email guards, classifies units as sentence or typed fragment, and performs 3-tier annotation re-alignment. A dashboard shows corpus stats and label distributions; documents can be browsed and searched, document detail has Source/Sentences/Fragments tabs with clickable alignment provenance, and a unit explorer supports filtering and exporting timestamped ZIP archives with partition files and meta.json. The browser edition auto-loads a signed snapshot (verified against envelope and db hashes in builds.json) and runs queries in a Web Worker with no server or network calls after download; a nav modal can switch to a FastAPI backend. Snapshots can be rebuilt on Google Colab via the included notebook, and tests cover backend API, frontend units, and FastAPI/ sql.js parity.",
+          "tagline": "In-browser WASM SQLite corpus browser for CCPA privacy policies with cryptographic snapshot audits.",
+          "short_description": "A zero-backend dataset explorer running on client-side sql.js WebAssembly to search 400 CCPA policies, verify 45k annotations, and audit cryptographic database snapshots.",
+          "long_description": "C3PA Explorer is an open-source privacy policy corpus explorer and data inspection workbench built for the EMNLP 2024 CCPA/CPRA dataset. Operating entirely client-side on SQLite compiled to WebAssembly (sql.js) inside a dedicated Web Worker, it loads signed snapshot archives verified against envelope hash and internal SQLite SHA256 integrity checks. Researchers can inspect 400 crawl policies across 45,121 raw annotator spans, review deterministic 3-tier sentence alignments, filter downstream dataset partitions by legal taxonomy categories and annotator consensus, and export timestamped ZIP bundles directly in the browser.",
           "tags": [
             "annotation",
             "dataset-explorer",
@@ -3941,13 +4015,27 @@
             }
           ],
           "thumb": "thumbnails/c3pa-explorer.webp",
-          "updated_at": "2026-09-22T02:24:58Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 274,
           "live_final_url": "https://jpeckenpaugh.github.io/c3pa-explorer/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📊 1. Corpus Metrics & Cryptographic Audit",
+              "body": "Inspect high-level distributions across 400 privacy policies and 45k annotations. Open the Database Engine modal to audit cryptographic SHA256 envelope and database hashes verifying zero-tamper integrity."
+            },
+            {
+              "title": "📜 2. Document Library & Sentence Alignment",
+              "body": "Browse through corporate policy documents (e.g. Airbnb, Nike). Use the sentence inspector to examine exact annotator spans and view the 3-tier alignment rule evidence connecting raw text to legal taxonomies."
+            },
+            {
+              "title": "⚙️ 3. Downstream Slicing & Partition Export",
+              "body": "Filter extracted samples by legal category, sentence vs fragment type, and annotator consensus. Export filtered subsets as timestamped training, evaluation, and test splits with complete metadata."
+            }
+          ]
         },
         {
           "key": "company-hub",
@@ -3956,9 +4044,9 @@
             "ch"
           ],
           "display_title": "Company Hub",
-          "tagline": "Internal web app to view and maintain company profiles",
-          "short_description": "A lightweight internal web app for a small firm to browse, view and edit profiles of the companies it works with, manage related files, and generate PDF summaries.",
-          "long_description": "Company Hub is a self-contained internal web app for a small, globally distributed firm to view and maintain information about the companies it works with. It distinguishes structured company data (stored in a relational database) from files and generated artifacts (stored as object-like files on disk), and is meant as a lightweight backbone for other internal workflows rather than a full CRM. Features include browsing and searching companies, country filtering, editable company profiles, standardized industries and locations, per-company references, news and logos, file/artifact upload and download, and one-page PDF summary generation. Sprint 03 added role-based access (guest, read-only, user, admin), admin user management, and optional Google SSO. The backend is FastAPI on async SQLAlchemy 2.0 with SQLite and versioned Alembic migrations, auth via fastapi-users with cookie sessions, and a static Bootstrap SPA frontend served by the app. It also ships OpenCode tools and agents that use the same authenticated API.",
+          "tagline": "Enterprise corporate intelligence and mini-CRM workspace with client-side SQLite WASM and local AI news ranking.",
+          "short_description": "A local-first corporate directory and company dossier studio managing enterprise accounts, multi-facility locations, curated reference links, and on-device WebGPU news ranking.",
+          "long_description": "Company Hub is an enterprise company management and corporate intelligence workspace operating fully in-browser with WebAssembly SQLite (sql.js) and IndexedDB persistence. Users can explore global accounts (Toyota, Samsung, Novartis, Shell), manage multi-facility locations (global headquarters, regional offices, manufacturing plants), maintain curated reference links, and track market intelligence news feeds. An integrated AI news ranking benchmark compares deterministic baseline scoring against local WebGPU-accelerated Gemma models for on-device relevance evaluation.",
           "tags": [
             "company-management",
             "company-profiles",
@@ -4002,21 +4090,35 @@
             }
           ],
           "thumb": "thumbnails/company-hub.webp",
-          "updated_at": "2026-09-07T19:56:28Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 58,
           "live_final_url": "https://jpeckenpaugh.github.io/ch/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🏢 1. Global Directory & Multi-Facet Filters",
+              "body": "Search across enterprise accounts by company name and country filter pills (JP, KR, GB, CH, US). Inspect data completeness indicators across corporate records."
+            },
+            {
+              "title": "📍 2. Corporate Dossier & Location Hierarchy",
+              "body": "Open company profiles (e.g. Toyota Motor) to view primary contacts, multi-tier locations (Global HQ, design studios, manufacturing plants), and curated reference documentation."
+            },
+            {
+              "title": "🤖 3. On-Device AI News Ranking & SQLite Workspace",
+              "body": "Evaluate financial and industry news articles using deterministic baseline scoring and local WebGPU Gemma models. Backup or export the SQLite database directly from the workspace view."
+            }
+          ]
         },
         {
           "key": "driver-hub-prototype",
           "repo": "driver-hub-prototype",
           "display_title": "Driver Hub Prototype",
-          "tagline": "Uber-style ride-hailing prototype connecting drivers and passengers in real time",
-          "short_description": "A lightweight full-stack prototype of a ride-hailing platform (Uber/Cabify style) that pairs drivers and passengers in real time over an interactive map.",
-          "long_description": "Driver Hub Prototype is a functional, modern prototype of a ride-sharing platform connecting Drivers and Passengers in real time. It demonstrates the essential passenger-driver interaction: requesting a trip on an interactive map, real-time notification and acceptance by the driver, visual route tracking, and reactive trip status updates. The interface is designed for side-by-side demos (split screen or two devices). The stack is React 19 + TypeScript + Vite + Tailwind CSS on the frontend, Leaflet / React-Leaflet with OpenStreetMap for maps (no API keys needed), and Node.js + Express + Socket.io for real-time communication across browsers or devices on the same local network. The repository is an npm workspaces monorepo with shared, server, and client packages, and GitHub Pages workflows for deployment.",
+          "tagline": "Dual-device smartphone simulator with in-browser WebSocket virtual hub and live OSRM Madrid route telemetry.",
+          "short_description": "A split-screen interactive ride-hailing prototype demonstrating real-time rider booking, driver dispatch, audio chimes, and smooth vehicle telemetry without an external backend.",
+          "long_description": "Driver Hub Prototype is a dual-device interactive mobility simulation platform featuring synchronized Rider and Driver smartphone interfaces running side-by-side in Split Demo mode. Driven by an in-memory VirtualSocket emulator that mirrors full-duplex WebSocket communication, the application coordinates ride requests, driver dispatch offers with 15s countdown timers, fare calculations across Standard/Comfort/XL vehicle tiers, and smooth vehicle telemetry animated over Leaflet maps with real-world Madrid OSRM road geometry. Users can test complete ride lifecycles from initial request to pickup arrival, en-route transit, trip completion, and driver earnings settlement.",
           "tags": [
             "maps",
             "prototype",
@@ -4053,21 +4155,35 @@
             }
           ],
           "thumb": "thumbnails/driver-hub-prototype.webp",
-          "updated_at": "2026-10-07T16:52:13Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 60,
           "live_final_url": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📱 1. Side-by-Side Dual Device Demo",
+              "body": "Watch Marcus Vance (Driver) and Elena Ramos (Rider) interact in real time. Toggle the driver status to Online and observe nearby driver marker synchronization on the rider's Madrid map."
+            },
+            {
+              "title": "🚕 2. Booking & Dispatch Countdown",
+              "body": "Select vehicle tiers (Standard, Comfort, XL) and tap 'Solicitar Viaje'. The driver phone instantly displays an incoming trip offer dialog with fare preview and a 15-second acceptance timer."
+            },
+            {
+              "title": "🗺️ 3. Animated Telemetry & Trip Completion",
+              "body": "Simulate turn-by-turn vehicle motion along Madrid streets with heading rotation. Walk through pickup arrival, passenger boarding, en-route transit, and trip completion with earnings settlement."
+            }
+          ]
         },
         {
           "key": "executive-assistant",
           "repo": "executive-assistant",
           "display_title": "Executive Assistant",
-          "tagline": "Local, single-user web app for tasks, meetings, reminders, and follow-ups",
-          "short_description": "A local, single-user web app for organizing daily responsibilities, priorities, commitments, meetings, follow-ups, contacts, notes, reminders, and quick-capture items in one place.",
-          "long_description": "Executive Assistant is a local, single-user web app for organizing daily responsibilities, priorities, commitments, meetings, follow-ups, contacts, notes, reminders, and quick-capture items in one place. It offers a daily dashboard with priorities, overdue work, upcoming commitments, reminders, and quick actions; task management with low/medium/high priority, due dates, postponement, completion, and daily/weekly/monthly recurrence; meeting and commitment tracking with cancellation, completion, and advisory overlap warnings; meeting preparation and follow-up notes; contact and relationship tracking; a quick-capture inbox processed into tasks, notes, or reminders; unified case-insensitive search with record-type filtering; and in-app reminders with acknowledge, snooze, and dismiss actions. The backend is FastAPI with SQLAlchemy and SQLite, and the interface is server-rendered with Jinja2 and Bootstrap from a CDN. A separate browser proof-of-concept under poc-browser uses sql.js and includes an AI command bar. The app stores data in a local SQLite database and is designed for one local user; authentication, external calendar sync, email delivery, push notifications, and background workers are out of scope. The initial build is complete across the concept, feature, environment, architecture, backend, and frontend stages, but formal verification has not completed yet.",
+          "tagline": "In-browser executive productivity suite with client-side SQLite, OPFS persistence, and natural language AI command bar.",
+          "short_description": "A privacy-first personal executive assistant running entirely in the browser using WebAssembly SQLite and OPFS for conflict-aware scheduling, atomic inbox triage, and task execution.",
+          "long_description": "Executive Assistant is a local-first, privacy-centric operations platform designed to organize executive priorities, commitments, contacts, notes, and quick-capture items in a single client-side workspace. Powered by SQLite compiled to WebAssembly (sql.js) and persisting directly to the browser's Origin Private File System (OPFS), the application guarantees zero-latency, offline operation with standard .db database backup and import capabilities. Core capabilities include an executive briefing dashboard with pending inbox and overdue alerts; conflict-aware commitment scheduling with automated schedule overlap detection; atomic inbox processing that rapidly triages brain dumps into high-priority tasks, contextual notes, or time-locked reminders; and an omnipresent natural language AI command bar capable of parsing complex scheduling instructions into multi-action confirmation previews before database commit.",
           "tags": [
             "fastapi",
             "productivity",
@@ -4102,13 +4218,31 @@
             }
           ],
           "thumb": "thumbnails/executive-assistant.webp",
-          "updated_at": "2026-09-08T05:47:32Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 53,
           "live_final_url": "https://jpeckenpaugh.github.io/executive-assistant/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📊 1. Daily Cockpit & Executive Briefing",
+              "body": "Review real-time operational indicators—Pending Inbox items, Overdue Tasks, and Active Reminders—alongside segmented timeline cards highlighting today's high-priority deliverables and upcoming 7-day commitments."
+            },
+            {
+              "title": "📅 2. Conflict-Aware Scheduling & Overlap Alerts",
+              "body": "Schedule board sessions, stakeholder reviews, and recurring meetings with duration, location, and attendee tracking. The built-in scheduling engine automatically flags calendar collisions with clear advisory overlap alerts."
+            },
+            {
+              "title": "📥 3. Frictionless Quick Capture & Atomic Triage",
+              "body": "Capture incoming thoughts, requests, and meeting takeaways directly into the quick-capture inbox, then trigger atomic processing to triage raw items into structured tasks, notes, or reminders with single-click precision."
+            },
+            {
+              "title": "✨ 4. Natural Language AI Command Bar",
+              "body": "Type natural instructions (e.g., 'Schedule Board Strategy Sync tomorrow 10am and prep review dossier') into the global AI bar. Preview multi-action structured JSON actions in an interactive modal before committing them to the local SQLite database."
+            }
+          ]
         },
         {
           "key": "herons-fountain",
@@ -4144,7 +4278,7 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4221,7 +4355,7 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4286,7 +4420,7 @@
             }
           ],
           "thumb": "thumbnails/robot-motion-studio.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4312,9 +4446,9 @@
           "key": "vid-factory",
           "repo": "vid-factory",
           "display_title": "Video Content Factory",
-          "tagline": "Organize video content ideas and draft AI scripts with browser-native TTS",
-          "short_description": "A browser-centric web application for organizing early-stage video content ideas, managing catalogs of applications and companies, drafting scripts with client-side AI providers, and synthesizing dialogue with in-browser text-to-speech.",
-          "long_description": "Video Content Factory is a web application for organizing early-stage content ideas and drafts. Its primary local runtime is a browser-native standalone application (browser-edition/) that runs entirely client-side with no backend server: a dedicated Web Worker database layer uses vendored sql.js (SQLite compiled to WebAssembly) with persistence in the Origin Private File System (OPFS), communicating through an RPC message-passing protocol between the UI (app.js) and db-worker.js. It manages catalogs for applications (YouTube, TikTok, Instagram) and companies (Acme Studio, Northstar Media, Pine & Peak), content projects with optional application/company links, and one persisted script/prompt draft per project. Workspace settings store AI provider credentials (Gemini, OpenAI, Ollama) in a local SQLite ai_settings table with custom endpoint URLs and connectivity tests; API keys are stripped during export. A client-side AI script generator formulates formatted drafts from user prompts and confirms before overwriting manual drafts. A dedicated TTS worker (tts-worker.js) runs kokoro-js speech synthesis in WebAssembly/WebGPU, exposing voice selection (af_heart, af_bella, am_adam, am_michael), a 0.75x-1.25x speed slider, an inline HTML5 audio preview player, and local audio track persistence with metadata (voice_id, speed, script_snapshot, duration). Workspaces are portable via JSON export/import with structural validation and seed reset. The original FastAPI JSON API and Bootstrap browser UI (backend/ and frontend/, pinned fastapi==0.115.12 and uvicorn[standard]==0.34.0) remain available unchanged as a parity reference and fallback runtime, serving a seeded local SQLite database (backend/data/vid_factory.db). Multi-speaker timeline synchronization, cloud rendering pipelines, server-side audio processing, and cloud sync are explicitly deferred. Status: Sprint 02 complete (client-side AI & dialogue TTS), verified pass with sandbox environment limitations.",
+          "tagline": "In-browser video planning studio with client-side AI script generation and neural Kokoro TTS audio synthesis.",
+          "short_description": "A browser-native video content factory running on WASM SQLite and OPFS for multi-platform video planning, AI script formulation, and in-browser neural dialogue speech synthesis.",
+          "long_description": "Vid Factory (Video Content Factory) is a client-side video pre-production and speech synthesis workbench operating entirely in the browser with WebAssembly SQLite (sql.js) and Origin Private File System (OPFS) persistence. Creators can organize multi-platform video initiatives (YouTube, TikTok, Instagram), manage sponsor catalogs, formulate 30-second scripts via client-side AI providers (Gemini, OpenAI, Ollama), and synthesize multi-voice dialogue using in-browser neural Kokoro TTS with adjustable speech cadence, instant HTML5 waveform audio playback, and binary SQLite audio track archiving.",
           "tags": [
             "ai-script-generation",
             "content-creation",
@@ -4351,13 +4485,27 @@
             }
           ],
           "thumb": "thumbnails/vid-factory.webp",
-          "updated_at": "2026-09-08T17:49:59Z",
+          "updated_at": "2026-10-18T08:33:54.038Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 59,
           "live_final_url": "https://jpeckenpaugh.github.io/vid-factory/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🎬 1. Content Projects & Catalog Management",
+              "body": "Track video initiatives across YouTube, TikTok, and Instagram with reference brand channels (Acme Studio, Northstar Media). Manage project drafts with local OPFS persistence."
+            },
+            {
+              "title": "✨ 2. Client-Side AI Script Generator",
+              "body": "Draft high-energy video scripts with client-side AI provider configuration (Gemini, OpenAI, Ollama) featuring custom endpoint routing and secure masked credential storage."
+            },
+            {
+              "title": "🎙️ 3. Neural Kokoro TTS Studio & Audio Archive",
+              "body": "Synthesize script dialogue in real time using browser-native Kokoro neural voices (af_heart, am_michael) with speed controls, inline waveform audio preview, and SQLite track history."
+            }
+          ]
         },
         {
           "key": "tech-livive-net",
@@ -4408,7 +4556,7 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-18T08:06:56.677Z",
+          "updated_at": "2026-10-18T08:33:54.037Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",

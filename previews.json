@@ -668,37 +668,115 @@
       ]
     },
     "c3pa-explorer": {
-      "video": "previews/c3pa-explorer.webm",
-      "poster": "previews/c3pa-explorer.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/01-dashboard-corpus-metrics.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 1181971,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 870400,
       "captured_at": "2026-10-16T04:32:33.829Z",
-      "source": "https://jpeckenpaugh.github.io/c3pa-explorer/"
+      "source": "https://jpeckenpaugh.github.io/c3pa-explorer/",
+      "gallery": [
+        {
+          "label": "Corpus Dashboard — 400 Privacy Policies & 45k Annotations",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/01-dashboard-corpus-metrics.png"
+        },
+        {
+          "label": "Verified SQLite Snapshot & Dual-Runtime Engine Modal",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/02-cryptographic-snapshot-audit.png"
+        },
+        {
+          "label": "Policy Documents Library & Crawl Inventory",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/03-document-library-browser.png"
+        },
+        {
+          "label": "Document Detail — Sentence Extraction & Label Overlays",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/04-document-detail-sentences-view.png"
+        },
+        {
+          "label": "Auditable 3-Tier Annotation-to-Sentence Alignment Modal",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/05-annotation-alignment-provenance.png"
+        },
+        {
+          "label": "Downstream Dataset Slicer & Partition Export",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/c3pa-explorer/main/demos/latest/gallery/06-downstream-data-slicer-export.png"
+        }
+      ]
     },
     "company-hub": {
-      "video": "previews/company-hub.webm",
-      "poster": "previews/company-hub.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/01-companies-directory.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 710635,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 650137,
       "captured_at": "2026-10-16T04:32:33.821Z",
-      "source": "https://jpeckenpaugh.github.io/ch/"
+      "source": "https://jpeckenpaugh.github.io/ch/",
+      "gallery": [
+        {
+          "label": "Enterprise Companies Directory & Multi-Facet Filters",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/01-companies-directory.png"
+        },
+        {
+          "label": "Corporate Dossier & Multi-Facility Locations",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/02-company-profile-overview.png"
+        },
+        {
+          "label": "Market Intelligence & Reference Documentation",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/03-company-intel-news.png"
+        },
+        {
+          "label": "Structured Profile Editor & Verification",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/04-company-editor.png"
+        },
+        {
+          "label": "Industry Taxonomy Manager",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/05-controlled-industries.png"
+        },
+        {
+          "label": "Local LLM & Baseline News Ranking Engine",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/ch/main/demos/latest/gallery/06-ai-news-ranking-benchmark.png"
+        }
+      ]
     },
     "driver-hub-prototype": {
-      "video": "previews/driver-hub-prototype.webm",
-      "poster": "previews/driver-hub-prototype.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/01-split-view-dual-device-overview.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 1022906,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1634018,
       "captured_at": "2026-10-16T04:33:29.364Z",
-      "source": "https://jpeckenpaugh.github.io/driver-hub-prototype/"
+      "source": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
+      "gallery": [
+        {
+          "label": "Side-by-Side Dual Smartphone Demonstration & Map View",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/01-split-view-dual-device-overview.png"
+        },
+        {
+          "label": "Rider Booking Interface & Vehicle Tier Selection",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/02-rider-tier-selection-fare-estimate.png"
+        },
+        {
+          "label": "Real-Time Dispatch & Incoming Ride Offer Dialog",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/03-driver-incoming-offer-modal.png"
+        },
+        {
+          "label": "Live Vehicle Telemetry & Navigation to Pickup Point",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/04-live-pickup-telemetry-tracking.png"
+        },
+        {
+          "label": "En-Route Transit Simulation & Dual-State Synchronization",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/05-trip-in-progress-route-simulation.png"
+        },
+        {
+          "label": "Trip Completion, Driver Earnings HUD & Passenger Rating",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/driver-hub-prototype/main/demos/latest/gallery/06-trip-completion-earnings-summary.png"
+        }
+      ]
     },
     "herons-fountain": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/demo.webm",
@@ -738,15 +816,41 @@
       ]
     },
     "executive-assistant": {
-      "video": "previews/executive-assistant.webm",
-      "poster": "previews/executive-assistant.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/01-daily-briefing-cockpit.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 892510,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 836128,
       "captured_at": "2026-10-16T04:33:34.465Z",
-      "source": "https://jpeckenpaugh.github.io/executive-assistant/"
+      "source": "https://jpeckenpaugh.github.io/executive-assistant/",
+      "gallery": [
+        {
+          "label": "Daily Briefing Dashboard & Executive Priority Cockpit",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/01-daily-briefing-cockpit.png"
+        },
+        {
+          "label": "Conflict-Aware Calendar Scheduling & Overlap Warnings",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/02-calendar-conflict-detection.png"
+        },
+        {
+          "label": "Quick-Capture Inbox & Atomic Triage Processing",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/03-atomic-inbox-triage.png"
+        },
+        {
+          "label": "Priority Task Delegation & Recurrence Rules",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/04-task-delegation-recurrence.png"
+        },
+        {
+          "label": "Natural Language AI Command Parser & Action Preview",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/05-ai-command-preview-modal.png"
+        },
+        {
+          "label": "Client-Side SQLite Engine & OPFS Workspace Management",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/executive-assistant/main/demos/latest/gallery/06-opfs-sqlite-workspace.png"
+        }
+      ]
     },
     "oblique-livive-net": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/demo.webm",
@@ -823,15 +927,41 @@
       ]
     },
     "vid-factory": {
-      "video": "previews/vid-factory.webm",
-      "poster": "previews/vid-factory.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/01-content-projects-dashboard.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 690028,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1093262,
       "captured_at": "2026-10-16T04:35:12.451Z",
-      "source": "https://jpeckenpaugh.github.io/vid-factory/"
+      "source": "https://jpeckenpaugh.github.io/vid-factory/",
+      "gallery": [
+        {
+          "label": "Content Projects & Workspace Dashboard",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/01-content-projects-dashboard.png"
+        },
+        {
+          "label": "Platform & Sponsor Catalog Management",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/02-catalog-metadata-management.png"
+        },
+        {
+          "label": "Client-Side AI Provider Settings & Diagnostics",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/03-ai-provider-settings.png"
+        },
+        {
+          "label": "Interactive AI Video Script Generation",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/04-ai-script-generator.png"
+        },
+        {
+          "label": "Browser-Native Kokoro TTS Audio Studio",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/05-wasm-tts-studio.png"
+        },
+        {
+          "label": "Persisted Audio Track Library & Workspace Export",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/vid-factory/main/demos/latest/gallery/06-persisted-audio-library-export.png"
+        }
+      ]
     },
     "tech-livive-net": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/tech-livive-net/main/demos/latest/demo.webm",
