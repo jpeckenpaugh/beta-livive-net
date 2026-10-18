@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.191Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -724,7 +724,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -962,9 +962,9 @@
       "key": "hebrew-language-tutor",
       "repo": "hebrew-language-tutor",
       "display_title": "English / Hebrew Language Tutor",
-      "tagline": "Study, quiz, and exam modes for English-Hebrew vocabulary",
-      "short_description": "A FastAPI + SQLite web app with five English/Hebrew vocabulary lessons, study/quiz/exam modes, saved scores, and a dummy-gated admin area for editing lessons and vocab.",
-      "long_description": "A simple web application for learning English <-> Hebrew vocabulary. It ships five seeded lessons (10 vocab items each) with study, quiz, and exam modes, persists quiz/exam attempts as per-lesson score history, and includes a dummy-gated admin area for adding and editing lessons and vocabulary. The frontend is a plain HTML/CSS/JS single-page app using locally hosted Bootstrap 5.3.3, and the backend is a FastAPI service backed by SQLite, which serves the SPA and owns all application state. The repository contains two experiments: the primary client/server app built via a 9-stage decomposed role pipeline, and a single-pass static SPA proof-of-concept with hardcoded vocabulary under proof-of-concept/. README status is PASS based on a curl-driven API verification and static frontend review; known limitations include a dummy admin gate and in-memory tokens that don't survive restarts.",
+      "tagline": "Interactive English/Hebrew vocabulary tutor featuring dual flashcard study, multiple-choice quizzes, and scored exams.",
+      "short_description": "A responsive web tutor with five essential Hebrew vocabulary modules, Right-to-Left script typography, phonetic transliteration, and comprehensive evaluation modes.",
+      "long_description": "English / Hebrew Language Tutor is an interactive vocabulary training application featuring five foundational learning modules: Greetings & Basics, Numbers, Family, Colors, and Food & Drink. Designed with Right-to-Left (RTL) typography support, phonetics transliteration guides, and responsive card interfaces, it supports three complementary learning modes: bilingual Study flashcards with step-by-step paging, interactive Quiz drills with instant emerald/rose answer validation, and scored 10-question Exams complete with real-time progress indicators and mastery report cards.",
       "tags": [
         "education",
         "fastapi",
@@ -987,7 +987,7 @@
       "live_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
       "demos": [
         {
-          "label": "Play",
+          "label": "Start Tutor",
           "url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/"
         }
       ],
@@ -998,13 +998,27 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-15T05:56:09Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 70,
       "live_final_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "📖 1. Dual Flashcard Study Mode",
+          "body": "Select any vocabulary module (Greetings, Numbers, Family, Colors, Food) to review Hebrew script alongside English definitions and phonetic transliteration guides (e.g. שלום / shalom / Hello)."
+        },
+        {
+          "title": "🎯 2. Real-Time Quiz Drills",
+          "body": "Switch to Quiz mode to test recall against randomized distractors with immediate visual feedback highlighting correct answers in green and missteps in red."
+        },
+        {
+          "title": "🏆 3. Scored Evaluation & Exam Mastery",
+          "body": "Engage Exam mode for timed question sets, tracking active progress (e.g. 7 / 10) through to a final performance scorecard with score percentages and study restart recommendations."
+        }
+      ]
     },
     {
       "key": "vibe-hindi-language-tutor",
@@ -1293,7 +1307,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:09:07.422Z",
+      "live_checked_at": "2026-10-18T07:22:52.192Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1360,7 +1374,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:09:07.422Z",
+      "live_checked_at": "2026-10-18T07:22:52.192Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1534,7 +1548,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1637,7 +1651,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1908,9 +1922,9 @@
       "key": "herons-fountain",
       "repo": "herons-fountain",
       "display_title": "Heron's Fountain — 2D Simulation",
-      "tagline": "Interactive browser simulation of a pump-less Heron's fountain",
-      "short_description": "An interactive, browser-based 2D approximation of a Heron's fountain that shows how falling water compresses trapped air to drive a fountain jet without a pump.",
-      "long_description": "Heron's Fountain is a zero-dependency, browser-based 2D simulation of a Heron's fountain. It models three water regions (a fixed top Basin, sealed Chamber A, and sealed Chamber B) connected by pipes P1, P2, and P3, treating the two sealed air spaces as one shared volume at a single pressure. Physics uses a polytropic pressure-volume relation (P = P0 (V0 / V)^k, default isothermal k = 1) and an orifice flow approximation (Q = Cd A sqrt(2 dP / rho)) accounting for hydrostatic head, with water conserved as transferred volumes. The animated side view draws the apparatus, liquid flow, airflow, and a horizontal particle jet, with live readouts of elapsed time, jet velocity, flow rate, vessel volumes, and fill percentages. Controls include Invert (exchanging chamber elevations and reversing flow), Auto Invert with selectable triggers (jet speed, flow rate, chamber fill, elapsed cycle time, or settled condition) plus threshold and dwell, simulation Speed of 1x-16x, and Reset. It is a deliberate lumped approximation that omits turbulence, surface tension, viscosity, temperature change, and detailed inversion mechanics. No build step or external dependency is required; serve the directory as static files.",
+      "tagline": "Interactive 2D physics simulation of a pumpless Heron's fountain with shared-air compression and reversible siphons.",
+      "short_description": "A browser-based 2D fluid simulation demonstrating how falling water compresses trapped isothermal air to power an elevated fountain jet without a pump.",
+      "long_description": "Heron's Fountain is an interactive, zero-dependency browser-based 2D simulation of the classical hydraulic apparatus described by Hero of Alexandria. It models three fluid vessels—a top open basin, an active lower compression chamber, and an elevated discharge chamber—interconnected by two liquid conduits and an isothermal shared-air tube (P2). As water drops through gravity intake P1, it seals the lower chamber and compresses the trapped gas volume according to polytropic PV relations. The resulting pneumatic head forces fluid through nozzle pipe P3, launching an arcing ballistic droplet stream into the basin. Features include dynamic chamber elevation inversion (swapping elevations and reversing flow paths), automated siphon triggers (jet velocity, flow rate, receiver fill percentage, cycle duration, and settled equilibrium), real-time gauge pressure telemetry (+kPa), and simulation time scaling up to 16×.",
       "tags": [
         "canvas",
         "fluid-dynamics",
@@ -1938,13 +1952,31 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-08-31T11:34:46Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 54,
       "live_final_url": "https://jpeckenpaugh.github.io/herons-fountain/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "💧 1. Gravitational Head & Pneumatic Compression",
+          "body": "Watch falling water from the upper Basin drain down pipe P1 to fill the lower compression chamber. As water displaces air, trapped gas across flexible tube P2 compresses isothermally, driving gauge pressure upwards on the live HUD."
+        },
+        {
+          "title": "⛲ 2. Pressurized Fountain Jet & Ballistic Droplets",
+          "body": "Pneumatic pressure in the elevated chamber forces liquid up nozzle pipe P3. High-velocity droplets launch in a ballistic parabolic arc across the air gap directly back into the basin, sustaining fluid transfer without an external pump."
+        },
+        {
+          "title": "🔄 3. Dynamic Inversion & Siphon Role Reversal",
+          "body": "Click Invert (or let Auto-Invert trigger) to pause physics for one second while both sealed chambers smoothly swap vertical positions. The flexible shared-air tube adapts, immediately reversing the hydraulic roles of intake and nozzle."
+        },
+        {
+          "title": "⚙️ 4. Automated Triggers & Multi-Speed Time Scaling",
+          "body": "Tune auto-inversion thresholds based on jet speed, flow rate, or lower chamber capacity with customizable dwell times. Toggle speed from 1× to 16× to observe fluid conservation cycles over extended runtimes."
+        }
+      ]
     },
     {
       "key": "oblique-livive-net",
@@ -1997,7 +2029,7 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2170,7 +2202,7 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-18T07:09:07.422Z",
+      "updated_at": "2026-10-18T07:22:52.192Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2237,7 +2269,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T07:09:07.422Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3025,9 +3057,9 @@
           "key": "hebrew-language-tutor",
           "repo": "hebrew-language-tutor",
           "display_title": "English / Hebrew Language Tutor",
-          "tagline": "Study, quiz, and exam modes for English-Hebrew vocabulary",
-          "short_description": "A FastAPI + SQLite web app with five English/Hebrew vocabulary lessons, study/quiz/exam modes, saved scores, and a dummy-gated admin area for editing lessons and vocab.",
-          "long_description": "A simple web application for learning English <-> Hebrew vocabulary. It ships five seeded lessons (10 vocab items each) with study, quiz, and exam modes, persists quiz/exam attempts as per-lesson score history, and includes a dummy-gated admin area for adding and editing lessons and vocabulary. The frontend is a plain HTML/CSS/JS single-page app using locally hosted Bootstrap 5.3.3, and the backend is a FastAPI service backed by SQLite, which serves the SPA and owns all application state. The repository contains two experiments: the primary client/server app built via a 9-stage decomposed role pipeline, and a single-pass static SPA proof-of-concept with hardcoded vocabulary under proof-of-concept/. README status is PASS based on a curl-driven API verification and static frontend review; known limitations include a dummy admin gate and in-memory tokens that don't survive restarts.",
+          "tagline": "Interactive English/Hebrew vocabulary tutor featuring dual flashcard study, multiple-choice quizzes, and scored exams.",
+          "short_description": "A responsive web tutor with five essential Hebrew vocabulary modules, Right-to-Left script typography, phonetic transliteration, and comprehensive evaluation modes.",
+          "long_description": "English / Hebrew Language Tutor is an interactive vocabulary training application featuring five foundational learning modules: Greetings & Basics, Numbers, Family, Colors, and Food & Drink. Designed with Right-to-Left (RTL) typography support, phonetics transliteration guides, and responsive card interfaces, it supports three complementary learning modes: bilingual Study flashcards with step-by-step paging, interactive Quiz drills with instant emerald/rose answer validation, and scored 10-question Exams complete with real-time progress indicators and mastery report cards.",
           "tags": [
             "education",
             "fastapi",
@@ -3050,7 +3082,7 @@
           "live_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
           "demos": [
             {
-              "label": "Play",
+              "label": "Start Tutor",
               "url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/"
             }
           ],
@@ -3061,13 +3093,27 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-15T05:56:09Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 70,
           "live_final_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📖 1. Dual Flashcard Study Mode",
+              "body": "Select any vocabulary module (Greetings, Numbers, Family, Colors, Food) to review Hebrew script alongside English definitions and phonetic transliteration guides (e.g. שלום / shalom / Hello)."
+            },
+            {
+              "title": "🎯 2. Real-Time Quiz Drills",
+              "body": "Switch to Quiz mode to test recall against randomized distractors with immediate visual feedback highlighting correct answers in green and missteps in red."
+            },
+            {
+              "title": "🏆 3. Scored Evaluation & Exam Mastery",
+              "body": "Engage Exam mode for timed question sets, tracking active progress (e.g. 7 / 10) through to a final performance scorecard with score percentages and study restart recommendations."
+            }
+          ]
         },
         {
           "key": "vibe-hindi-language-tutor",
@@ -3589,7 +3635,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T07:09:07.422Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3954,9 +4000,9 @@
           "key": "herons-fountain",
           "repo": "herons-fountain",
           "display_title": "Heron's Fountain — 2D Simulation",
-          "tagline": "Interactive browser simulation of a pump-less Heron's fountain",
-          "short_description": "An interactive, browser-based 2D approximation of a Heron's fountain that shows how falling water compresses trapped air to drive a fountain jet without a pump.",
-          "long_description": "Heron's Fountain is a zero-dependency, browser-based 2D simulation of a Heron's fountain. It models three water regions (a fixed top Basin, sealed Chamber A, and sealed Chamber B) connected by pipes P1, P2, and P3, treating the two sealed air spaces as one shared volume at a single pressure. Physics uses a polytropic pressure-volume relation (P = P0 (V0 / V)^k, default isothermal k = 1) and an orifice flow approximation (Q = Cd A sqrt(2 dP / rho)) accounting for hydrostatic head, with water conserved as transferred volumes. The animated side view draws the apparatus, liquid flow, airflow, and a horizontal particle jet, with live readouts of elapsed time, jet velocity, flow rate, vessel volumes, and fill percentages. Controls include Invert (exchanging chamber elevations and reversing flow), Auto Invert with selectable triggers (jet speed, flow rate, chamber fill, elapsed cycle time, or settled condition) plus threshold and dwell, simulation Speed of 1x-16x, and Reset. It is a deliberate lumped approximation that omits turbulence, surface tension, viscosity, temperature change, and detailed inversion mechanics. No build step or external dependency is required; serve the directory as static files.",
+          "tagline": "Interactive 2D physics simulation of a pumpless Heron's fountain with shared-air compression and reversible siphons.",
+          "short_description": "A browser-based 2D fluid simulation demonstrating how falling water compresses trapped isothermal air to power an elevated fountain jet without a pump.",
+          "long_description": "Heron's Fountain is an interactive, zero-dependency browser-based 2D simulation of the classical hydraulic apparatus described by Hero of Alexandria. It models three fluid vessels—a top open basin, an active lower compression chamber, and an elevated discharge chamber—interconnected by two liquid conduits and an isothermal shared-air tube (P2). As water drops through gravity intake P1, it seals the lower chamber and compresses the trapped gas volume according to polytropic PV relations. The resulting pneumatic head forces fluid through nozzle pipe P3, launching an arcing ballistic droplet stream into the basin. Features include dynamic chamber elevation inversion (swapping elevations and reversing flow paths), automated siphon triggers (jet velocity, flow rate, receiver fill percentage, cycle duration, and settled equilibrium), real-time gauge pressure telemetry (+kPa), and simulation time scaling up to 16×.",
           "tags": [
             "canvas",
             "fluid-dynamics",
@@ -3984,13 +4030,31 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-08-31T11:34:46Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 54,
           "live_final_url": "https://jpeckenpaugh.github.io/herons-fountain/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "💧 1. Gravitational Head & Pneumatic Compression",
+              "body": "Watch falling water from the upper Basin drain down pipe P1 to fill the lower compression chamber. As water displaces air, trapped gas across flexible tube P2 compresses isothermally, driving gauge pressure upwards on the live HUD."
+            },
+            {
+              "title": "⛲ 2. Pressurized Fountain Jet & Ballistic Droplets",
+              "body": "Pneumatic pressure in the elevated chamber forces liquid up nozzle pipe P3. High-velocity droplets launch in a ballistic parabolic arc across the air gap directly back into the basin, sustaining fluid transfer without an external pump."
+            },
+            {
+              "title": "🔄 3. Dynamic Inversion & Siphon Role Reversal",
+              "body": "Click Invert (or let Auto-Invert trigger) to pause physics for one second while both sealed chambers smoothly swap vertical positions. The flexible shared-air tube adapts, immediately reversing the hydraulic roles of intake and nozzle."
+            },
+            {
+              "title": "⚙️ 4. Automated Triggers & Multi-Speed Time Scaling",
+              "body": "Tune auto-inversion thresholds based on jet speed, flow rate, or lower chamber capacity with customizable dwell times. Toggle speed from 1× to 16× to observe fluid conservation cycles over extended runtimes."
+            }
+          ]
         },
         {
           "key": "oblique-livive-net",
@@ -4043,7 +4107,7 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-18T07:09:07.422Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4216,7 +4280,7 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-18T07:09:07.422Z",
+          "updated_at": "2026-10-18T07:22:52.192Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",

@@ -446,15 +446,41 @@
       "source": "https://seekdepth.org/"
     },
     "hebrew-language-tutor": {
-      "video": "previews/hebrew-language-tutor.webm",
-      "poster": "thumbnails/hebrew-language-tutor.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 137309,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/poster.webp",
+      "mode": "demo",
+      "duration_ms": 32400,
+      "width": 1280,
+      "height": 720,
+      "bytes": 967719,
       "captured_at": "2026-10-16T02:02:05.450Z",
-      "source": "https://jpeckenpaugh.github.io/hebrew-language-tutor/"
+      "source": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
+      "gallery": [
+        {
+          "label": "Interactive Curriculum Hub & Lesson Modules",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/01-curriculum-overview.png"
+        },
+        {
+          "label": "Bilingual Study Flashcard & Phonetic Transliteration",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/02-study-flashcard-nikud-greetings.png"
+        },
+        {
+          "label": "Real-Time Quiz Drill with Emerald / Rose Validation",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/03-quiz-mode-interactive-feedback.png"
+        },
+        {
+          "label": "Rigorous Vocabulary Exam & Question Counter",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/04-exam-mode-numbers.png"
+        },
+        {
+          "label": "Performance & Exam Mastery Scorecard",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/05-exam-results-mastery.png"
+        },
+        {
+          "label": "Colors & Daily Vocabulary Study Review",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/hebrew-language-tutor/main/demos/latest/gallery/06-food-and-drink-study-session.png"
+        }
+      ]
     },
     "vibe-hindi-language-tutor": {
       "video": "previews/vibe-hindi-language-tutor.webm",
@@ -597,15 +623,41 @@
       "source": "https://jpeckenpaugh.github.io/driver-hub-prototype/"
     },
     "herons-fountain": {
-      "video": "previews/herons-fountain.webm",
-      "poster": "previews/herons-fountain.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/02-active-fountain-jet-ballistics.png",
       "mode": "demo",
-      "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 833504,
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 602396,
       "captured_at": "2026-10-16T04:34:05.774Z",
-      "source": "https://jpeckenpaugh.github.io/herons-fountain/"
+      "source": "https://jpeckenpaugh.github.io/herons-fountain/",
+      "gallery": [
+        {
+          "label": "Initial Hydraulic Flow: Basin Intake & Shared-Air Compression",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/01-herons-fountain-initial-flow.png"
+        },
+        {
+          "label": "Peak Jet Ballistics: Pressurized Nozzle Stream & Droplet Arcs",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/02-active-fountain-jet-ballistics.png"
+        },
+        {
+          "label": "Siphon Automation Controls: Threshold, Dwell & Trigger Modes",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/03-auto-invert-trigger-controls.png"
+        },
+        {
+          "label": "Dynamic Inversion Swap: Mid-Transition Elevation Exchange",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/04-chamber-inversion-transition.png"
+        },
+        {
+          "label": "Reversed Flow Phase & Multi-Speed Simulation (4× Acceleration)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/05-reversed-cycle-high-speed.png"
+        },
+        {
+          "label": "Lumped-Pressure Isothermal Model & Technical Specification",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/herons-fountain/main/demos/latest/gallery/06-physics-model-about-modal.png"
+        }
+      ]
     },
     "executive-assistant": {
       "video": "previews/executive-assistant.webm",
