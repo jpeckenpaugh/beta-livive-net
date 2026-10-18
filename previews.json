@@ -39,15 +39,41 @@
       ]
     },
     "aom": {
-      "video": "previews/aom.webm",
-      "poster": "thumbnails/aom.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 146080,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/01-title-screen.png",
+      "mode": "demo",
+      "duration_ms": 30800,
+      "width": 1280,
+      "height": 720,
+      "bytes": 2338469,
       "captured_at": "2026-10-16T02:01:36.284Z",
-      "source": "https://aom.livive.net/"
+      "source": "https://aom.livive.net/",
+      "gallery": [
+        {
+          "label": "Title Screen — Subterranean Fungal Kingdom",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/01-title-screen.png"
+        },
+        {
+          "label": "Options Menu, High-Res Framebuffer & Debug Tools",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/02-options-and-graphics.png"
+        },
+        {
+          "label": "Cavern Exploration & Bioluminescent Lumen Harvesting",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/03-cavern-exploration-lumens.png"
+        },
+        {
+          "label": "Carved Stone Build Menu & Civilization Structures",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/04-stone-build-menu.png"
+        },
+        {
+          "label": "Substrate Grid Placement & Structural Footprint",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/05-structure-placement-grid.png"
+        },
+        {
+          "label": "3D Item Inspection Drawer & Tactical Progression HUD",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/aom/main/demos/latest/gallery/06-item-drawer-and-economy.png"
+        }
+      ]
     },
     "chk-livive-net": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/chk-livive-net/main/demos/latest/demo.webm",
@@ -438,26 +464,78 @@
       "source": "https://jpeckenpaugh.github.io/snow-compliance-demo/"
     },
     "sprites-livive-net": {
-      "video": "previews/sprites-livive-net.webm",
-      "poster": "thumbnails/sprites-livive-net.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 147768,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/01-workbench-overview.png",
+      "mode": "demo",
+      "duration_ms": 30000,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1780435,
       "captured_at": "2026-10-16T02:02:17.212Z",
-      "source": "https://sprites.livive.net/"
+      "source": "https://sprites.livive.net/",
+      "gallery": [
+        {
+          "label": "Workshop Overview & Turntable Setup",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/01-workbench-overview.png"
+        },
+        {
+          "label": "Simultaneous Multi-Directional Playback",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/02-multi-directional-playback.png"
+        },
+        {
+          "label": "Algorithmic Diagonal Warping Matrix",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/03-derived-diagonal-matrix.png"
+        },
+        {
+          "label": "Orthographic Pitch & Multi-View Tuning",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/04-camera-pitch-and-views.png"
+        },
+        {
+          "label": "Single Sprite Angle Capture & Auto-Crop",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/05-single-sprite-crop-tool.png"
+        },
+        {
+          "label": "Adaptive Palette WebP Export & Asset Metrics",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sprites-livive-net/main/demos/latest/gallery/06-sheet-export-and-asset-metrics.png"
+        }
+      ]
     },
     "tc-livive-org": {
-      "video": "previews/tc-livive-org.webm",
-      "poster": "thumbnails/tc-livive-org.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 132213,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/06-live-math-inspector.png",
+      "mode": "demo",
+      "duration_ms": 29920,
+      "width": 1280,
+      "height": 720,
+      "bytes": 1406584,
       "captured_at": "2026-10-16T02:02:19.050Z",
-      "source": "https://tc.livive.org/"
+      "source": "https://tc.livive.org/",
+      "gallery": [
+        {
+          "label": "Orientation Deck: Distillation & Memory Architecture",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/01-orientation-architecture.png"
+        },
+        {
+          "label": "View 1: Blank Slate Baseline (50/50 Coin Toss)",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/02-blank-slate-baseline.png"
+        },
+        {
+          "label": "View 2: Disk Compilation & RAM Lookup Table",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/03-train-and-load-pipeline.png"
+        },
+        {
+          "label": "View 2: Out-of-Vocabulary (OOV) Blind Spot Discovery",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/04-out-of-vocabulary-blind-spot.png"
+        },
+        {
+          "label": "View 3: Scaling Data & Expanding Token Coverage",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/05-scaling-memory-coverage.png"
+        },
+        {
+          "label": "View 4: Live Custom Sentence Evaluator & Laplace Smoothing",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/tc-livive-org/main/demos/latest/gallery/06-live-math-inspector.png"
+        }
+      ]
     },
     "c3pa-explorer": {
       "video": "previews/c3pa-explorer.webm",

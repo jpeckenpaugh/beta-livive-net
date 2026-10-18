@@ -16,9 +16,9 @@
       "key": "aom",
       "repo": "aom",
       "display_title": "Age of Mycology",
-      "tagline": "Playable browser build of the Age of Mycology game",
-      "short_description": "Age of Mycology is a Python/pygame game packaged with pygbag and deployed to the browser via GitHub Pages.",
-      "long_description": "Age of Mycology (AoM) is a game whose playable browser demo is served from GitHub Pages. This repository holds the game's runtime build inputs: the game package (AoM/, Python source plus compiled runtime assets under AoM/assets/), the pinned pygbag build configuration, and a small atlas build helper (tools/pack_web_atlas.py). The GitHub Action pages.yml builds the bundle server-side with a pinned toolchain (pygbag==0.9.3, Python 3.14) and deploys the generated web/ output to GitHub Pages. Before building, the workflow applies a locked web-10fps asset profile that repacks per-frame sprite directories into lossless grid atlases, shrinking aom.tar.gz from ~143 MB to ~63 MB, with a size gate that fails the deploy if the profile was not applied. The large aom.tar.gz bundle is produced in CI and deployed as a Pages artifact and is never committed to git. Raw/authoring assets, Blender/GLB source, render tooling, and tests live in a private aom-internal repository.",
+      "tagline": "Awaken your subterranean fungal colony, gather bioluminescent lumens, and construct flourishing mycelial civilizations across the cavern depths.",
+      "short_description": "Atmospheric Python/Pygame strategy adventure running in-browser via Pygbag with dynamic bioluminescence, 6-resource economy, stone architecture drafting, and 3 civilization affinities.",
+      "long_description": "Age of Mycology (AoM) immerses players in an underground fungal ecosystem running client-side at 1280×720 via Pygbag (Python 3.14 + WebAssembly). Awaken as a bioluminescent mushroom explorer in the dark cavern depths, harvest living motes of fungal lumen, and draft civilization buildings from carved stone menus. Expand three distinct fungal civilizations—Amanita Wardens, Entoloma Decomposers, and Mycena Glowweavers—while managing a deterministic 6-resource economy (Lumen, Root Tokens, Glass Shells, Crystals, Acorns, Amber) with 3D spinning item inspection, automated auto-resolve combat against subterranean creatures, and an autonomous Auto-Guide exploration engine.",
       "tags": [
         "browser",
         "game",
@@ -44,17 +44,31 @@
       "demos": [
         {
           "label": "Play",
-          "url": "https://aom.livive.net/"
+          "url": "https://aom.livive.net/?fb=high"
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-10T11:25:52Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 238,
       "live_final_url": "https://aom.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🍄 1. Awaken & Gather Lumens",
+          "body": "Use WASD or Arrow Keys to navigate the subterranean cavern (or click anywhere to transit). Step into glowing golden Lumens to collect living fungal energy and awaken the deeper mycelial web."
+        },
+        {
+          "title": "🏛️ 2. Build Faction Architecture",
+          "body": "Press B to open the carved Stone Build Menu. Select and place faction monuments (Amanita Spore Hearth, Entoloma Decomposer Terrace, Mycena Ley Ring) and production structures (Farms, Groves, Spires, Bazaars, Libraries) onto the cavern floor."
+        },
+        {
+          "title": "⚙️ 3. Manage Economy & Auto-Guide",
+          "body": "Click resource icons in the bottom stone dock to slide up the 3D Item Inspection Drawer and track multi-resource stockpiles. Press Enter or Esc to toggle Options, switch Framebuffer modes, or enable Auto-Guide for autonomous mycelial exploration."
+        }
+      ]
     },
     {
       "key": "chk-livive-net",
@@ -99,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -161,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -220,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T06:04:39.952Z",
+      "updated_at": "2026-10-18T06:44:34.599Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -293,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -358,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -426,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -482,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -546,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -603,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1265,7 +1279,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T06:04:39.953Z",
+      "live_checked_at": "2026-10-18T06:44:34.604Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1290,21 +1304,25 @@
       "repo": "sprites-livive-net",
       "display_title": "Sprites · Model-to-Sprite Workshop",
       "tagline": "Turn 3D GLB/glTF models into sprite sheets and single sprites in your browser",
-      "short_description": "A browser-based 3D-to-sprite workshop for previewing turntable views and animation frames, then exporting sprite sheets or cropped single sprites.",
-      "long_description": "Sprites is a static, browser-based 3D-to-sprite workshop. Select a GLB/glTF model and animation clip, preview sampled views and frames, configure camera pitch, view count, output dimensions, and background, then render and export a row-major PNG or adaptive-palette WebP sprite sheet. It also supports capturing a single angle with automatic bounds cropping, optional JSON metadata, and optional derived diagonal animation directions. The project is a companion asset-preparation tool for the Oblique 2.5D scene sandbox.",
+      "short_description": "A browser-based 3D-to-sprite workshop for previewing turntable views and animation frames, deriving 8 diagonal directional angles with shear/rotation warping, and exporting adaptive-palette WebP or PNG sprite sheets.",
+      "long_description": "Sprites is a static, browser-based 3D-to-sprite workshop companion tool for the Oblique 2.5D engine. Load GLB/glTF models with Three.js, preview turntable multi-angle views and animated walk cycles, configure camera pitch (0° to 80°), view count, and output dimensions, and inspect live 16-direction matrices with runtime shear/rotational warping. Export row-major PNG or adaptive-palette WebP sprite sheets with embedded XMP metadata, or capture single angles cropped to pixel bounding boxes.",
       "tags": [
         "3d-models",
         "game-assets",
         "glb",
+        "gltf",
         "sprite-sheets",
-        "web-tool"
+        "threejs",
+        "webgl",
+        "dev-tools"
       ],
       "tech": [
         "JavaScript",
         "HTML",
         "CSS",
         "Three.js",
-        "WebGL"
+        "WebGL",
+        "Canvas"
       ],
       "category": "Dev Tools",
       "live_url": "https://sprites.livive.net/",
@@ -1321,17 +1339,31 @@
       "repo_url": "https://github.com/jpeckenpaugh/sprites-livive-net",
       "has_live_demo": true,
       "featured": true,
-      "status": "active",
+      "status": "live",
       "confidence": "high",
-      "notes": "Live site title is 'Model Browser · Turntable'. README describes a browser-based 3D-to-sprite workshop and links to the companion Oblique sandbox. Static site; Three.js is loaded from jsDelivr.",
+      "notes": "Static browser-based 3D-to-sprite workshop loading Three.js from jsDelivr. Companion asset-preparation tool for Oblique 2.5D scene sandbox.",
       "thumb": "thumbnails/sprites-livive-net.webp",
-      "updated_at": "2026-10-15T16:47:11Z",
+      "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 181,
+      "live_checked_at": "2026-10-18T06:44:34.604Z",
+      "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🧊 1. Select Model & Multi-Directional Mode",
+          "body": "Choose from 25+ built-in GLB/glTF character and prop models, pick an animation clip (e.g. walk cycle), set resolution from 64×64 to 1080p, and preview simultaneous 8-directional animated loops."
+        },
+        {
+          "title": "📐 2. Pitch, Angle & Algorithmic Diagonal Warping",
+          "body": "Tweak camera pitch (0° level to 80° top-down) and observe the 5×5 directional matrix displaying rendered cardinal poses alongside real-time shear/rotation derived diagonal angles."
+        },
+        {
+          "title": "📦 3. Crop Bounding Box & Export Sprite Atlas",
+          "body": "Isolate single angles with tight alpha-channel auto-cropping, or export full row-major sprite sheets with adaptive 256-color palette quantization to WebP (lossless with XMP) or 32-bit PNG."
+        }
+      ]
     },
     {
       "key": "roblox-api-database",
@@ -1456,9 +1488,9 @@
       "key": "tc-livive-org",
       "repo": "tc-livive-org",
       "display_title": "Training vs. Inference",
-      "tagline": "Interactive lab demystifying AI training vs. inference with zero black boxes.",
-      "short_description": "A browser-based interactive learning lab that teaches the difference between untrained inference, training, and trained inference through inspectable, hand-verifiable numbers.",
-      "long_description": "Training vs. Inference is a static single-page app that demystifies how AI actually works for non-technical learners. It walks through a multi-module curriculum covering hardware and memory (storage, RAM, inference), a 1-neuron binary classifier, a 3-neuron positive/negative/neutral spectrum, and a multi-task enterprise router, plus a sentiment-classification demo. Built with a zero-black-box philosophy: every weight, bias, tally, and calculation is rendered directly in the DOM in human-readable numbers. Implemented in vanilla HTML5, CSS3, and ES6+ JavaScript with zero external dependencies or build tools, and hosted on GitHub Pages.",
+      "tagline": "Interactive AI Learning Lab demystifying Training, Inference, and Hardware Memory with zero black boxes.",
+      "short_description": "A browser-based interactive learning lab that demystifies how AI models learn and predict through inspectable hardware abstractions, disk-to-RAM compilation, and hand-verifiable math.",
+      "long_description": "Training vs. Inference is an inspectable single-page educational app built with a strict Zero-Black-Boxes philosophy. Designed to teach non-technical leaders and engineers how AI actually works at the hardware level, it contrasts dormant disk storage against active RAM lookups, walks through a two-step training compilation pipeline, and exposes model blind spots on out-of-vocabulary words. Every token tally, weight, smoothing calculation, and confidence score is rendered transparently in the live DOM with zero hidden libraries.",
       "tags": [
         "ai",
         "education",
@@ -1483,18 +1515,36 @@
       "notes": "CNAME file points to tc.livive.org, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). No README; evidence drawn from index.html title and the three spec markdown files (concept_specification.md, reframed.md, spec_rev_2.md). Zero external dependencies per specs.",
       "demos": [
         {
-          "label": "Play",
+          "label": "Launch Lab",
           "url": "https://tc.livive.org/"
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-07T09:56:05Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 140,
       "live_final_url": "https://tc.livive.org/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "💾 1. Disk Storage vs. Active RAM",
+          "body": "Observe how raw training samples sit dormant on SSD disk storage with zero predictive power until an explicit CPU compilation step distills them into a compact lookup table loaded into RAM."
+        },
+        {
+          "title": "🎯 2. Uncover AI Blind Spots (OOV)",
+          "body": "Evaluate unseen sentences against small models in View 2 to discover why models fail on Out-of-Vocabulary (OOV) words, falling back to an uncalibrated 50/50 coin toss."
+        },
+        {
+          "title": "📈 3. Data Scaling & Token Coverage",
+          "body": "Scale the training dataset in View 3 to observe active RAM vocabulary expand from 6 to 38 tokens, instantly resolving blind spots and achieving high-confidence predictions."
+        },
+        {
+          "title": "🔬 4. Inspect Live Laplace Smoothing Math",
+          "body": "Type your own sentences in View 4 and watch the processor calculate confidence in real time using inspectable Laplace smoothing: Score = (P + 1) / (P + N + 2)."
+        }
+      ]
     },
     {
       "key": "docker-sql-lessons",
@@ -1573,7 +1623,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T06:04:39.953Z",
+      "updated_at": "2026-10-18T06:44:34.604Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -2093,9 +2143,9 @@
           "key": "aom",
           "repo": "aom",
           "display_title": "Age of Mycology",
-          "tagline": "Playable browser build of the Age of Mycology game",
-          "short_description": "Age of Mycology is a Python/pygame game packaged with pygbag and deployed to the browser via GitHub Pages.",
-          "long_description": "Age of Mycology (AoM) is a game whose playable browser demo is served from GitHub Pages. This repository holds the game's runtime build inputs: the game package (AoM/, Python source plus compiled runtime assets under AoM/assets/), the pinned pygbag build configuration, and a small atlas build helper (tools/pack_web_atlas.py). The GitHub Action pages.yml builds the bundle server-side with a pinned toolchain (pygbag==0.9.3, Python 3.14) and deploys the generated web/ output to GitHub Pages. Before building, the workflow applies a locked web-10fps asset profile that repacks per-frame sprite directories into lossless grid atlases, shrinking aom.tar.gz from ~143 MB to ~63 MB, with a size gate that fails the deploy if the profile was not applied. The large aom.tar.gz bundle is produced in CI and deployed as a Pages artifact and is never committed to git. Raw/authoring assets, Blender/GLB source, render tooling, and tests live in a private aom-internal repository.",
+          "tagline": "Awaken your subterranean fungal colony, gather bioluminescent lumens, and construct flourishing mycelial civilizations across the cavern depths.",
+          "short_description": "Atmospheric Python/Pygame strategy adventure running in-browser via Pygbag with dynamic bioluminescence, 6-resource economy, stone architecture drafting, and 3 civilization affinities.",
+          "long_description": "Age of Mycology (AoM) immerses players in an underground fungal ecosystem running client-side at 1280×720 via Pygbag (Python 3.14 + WebAssembly). Awaken as a bioluminescent mushroom explorer in the dark cavern depths, harvest living motes of fungal lumen, and draft civilization buildings from carved stone menus. Expand three distinct fungal civilizations—Amanita Wardens, Entoloma Decomposers, and Mycena Glowweavers—while managing a deterministic 6-resource economy (Lumen, Root Tokens, Glass Shells, Crystals, Acorns, Amber) with 3D spinning item inspection, automated auto-resolve combat against subterranean creatures, and an autonomous Auto-Guide exploration engine.",
           "tags": [
             "browser",
             "game",
@@ -2121,17 +2171,31 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://aom.livive.net/"
+              "url": "https://aom.livive.net/?fb=high"
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-10T11:25:52Z",
+          "updated_at": "2026-10-18T06:44:34.604Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 238,
           "live_final_url": "https://aom.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🍄 1. Awaken & Gather Lumens",
+              "body": "Use WASD or Arrow Keys to navigate the subterranean cavern (or click anywhere to transit). Step into glowing golden Lumens to collect living fungal energy and awaken the deeper mycelial web."
+            },
+            {
+              "title": "🏛️ 2. Build Faction Architecture",
+              "body": "Press B to open the carved Stone Build Menu. Select and place faction monuments (Amanita Spore Hearth, Entoloma Decomposer Terrace, Mycena Ley Ring) and production structures (Farms, Groves, Spires, Bazaars, Libraries) onto the cavern floor."
+            },
+            {
+              "title": "⚙️ 3. Manage Economy & Auto-Guide",
+              "body": "Click resource icons in the bottom stone dock to slide up the 3D Item Inspection Drawer and track multi-resource stockpiles. Press Enter or Esc to toggle Options, switch Framebuffer modes, or enable Auto-Guide for autonomous mycelial exploration."
+            }
+          ]
         },
         {
           "key": "chk-livive-net",
@@ -3431,9 +3495,9 @@
           "key": "tc-livive-org",
           "repo": "tc-livive-org",
           "display_title": "Training vs. Inference",
-          "tagline": "Interactive lab demystifying AI training vs. inference with zero black boxes.",
-          "short_description": "A browser-based interactive learning lab that teaches the difference between untrained inference, training, and trained inference through inspectable, hand-verifiable numbers.",
-          "long_description": "Training vs. Inference is a static single-page app that demystifies how AI actually works for non-technical learners. It walks through a multi-module curriculum covering hardware and memory (storage, RAM, inference), a 1-neuron binary classifier, a 3-neuron positive/negative/neutral spectrum, and a multi-task enterprise router, plus a sentiment-classification demo. Built with a zero-black-box philosophy: every weight, bias, tally, and calculation is rendered directly in the DOM in human-readable numbers. Implemented in vanilla HTML5, CSS3, and ES6+ JavaScript with zero external dependencies or build tools, and hosted on GitHub Pages.",
+          "tagline": "Interactive AI Learning Lab demystifying Training, Inference, and Hardware Memory with zero black boxes.",
+          "short_description": "A browser-based interactive learning lab that demystifies how AI models learn and predict through inspectable hardware abstractions, disk-to-RAM compilation, and hand-verifiable math.",
+          "long_description": "Training vs. Inference is an inspectable single-page educational app built with a strict Zero-Black-Boxes philosophy. Designed to teach non-technical leaders and engineers how AI actually works at the hardware level, it contrasts dormant disk storage against active RAM lookups, walks through a two-step training compilation pipeline, and exposes model blind spots on out-of-vocabulary words. Every token tally, weight, smoothing calculation, and confidence score is rendered transparently in the live DOM with zero hidden libraries.",
           "tags": [
             "ai",
             "education",
@@ -3458,18 +3522,36 @@
           "notes": "CNAME file points to tc.livive.org, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). No README; evidence drawn from index.html title and the three spec markdown files (concept_specification.md, reframed.md, spec_rev_2.md). Zero external dependencies per specs.",
           "demos": [
             {
-              "label": "Play",
+              "label": "Launch Lab",
               "url": "https://tc.livive.org/"
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-07T09:56:05Z",
+          "updated_at": "2026-10-18T06:44:34.604Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 140,
           "live_final_url": "https://tc.livive.org/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "💾 1. Disk Storage vs. Active RAM",
+              "body": "Observe how raw training samples sit dormant on SSD disk storage with zero predictive power until an explicit CPU compilation step distills them into a compact lookup table loaded into RAM."
+            },
+            {
+              "title": "🎯 2. Uncover AI Blind Spots (OOV)",
+              "body": "Evaluate unseen sentences against small models in View 2 to discover why models fail on Out-of-Vocabulary (OOV) words, falling back to an uncalibrated 50/50 coin toss."
+            },
+            {
+              "title": "📈 3. Data Scaling & Token Coverage",
+              "body": "Scale the training dataset in View 3 to observe active RAM vocabulary expand from 6 to 38 tokens, instantly resolving blind spots and achieving high-confidence predictions."
+            },
+            {
+              "title": "🔬 4. Inspect Live Laplace Smoothing Math",
+              "body": "Type your own sentences in View 4 and watch the processor calculate confidence in real time using inspectable Laplace smoothing: Score = (P + 1) / (P + N + 2)."
+            }
+          ]
         },
         {
           "key": "docker-sql-lessons",
