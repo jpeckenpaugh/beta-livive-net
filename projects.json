@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T09:08:02.340Z",
+      "updated_at": "2026-10-18T09:13:46.886Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -679,7 +679,7 @@
         }
       ],
       "thumb": "thumbnails/rag-poc.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -738,7 +738,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1012,7 +1012,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1058,7 +1058,7 @@
         "Python"
       ],
       "category": "Language Tools",
-      "live_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
+      "live_url": "https://hindi.livive.net/",
       "repo_url": "https://github.com/jpeckenpaugh/vibe-hindi-language-tutor",
       "has_live_demo": true,
       "featured": true,
@@ -1068,11 +1068,11 @@
       "demos": [
         {
           "label": "Start Learning Hindi & Kannada",
-          "url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/"
+          "url": "https://hindi.livive.net/"
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1133,7 +1133,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
       "thumb": "thumbnails/nexttext.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1270,23 +1270,11 @@
         "GitHub Actions"
       ],
       "category": "Dev Tools",
-      "live_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
+      "live_url": "https://compliance.livive.net/",
       "demos": [
         {
-          "label": "Overview",
-          "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/"
-        },
-        {
-          "label": "Architecture",
-          "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/architecture.html"
-        },
-        {
-          "label": "POC & findings",
-          "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/poc.html"
-        },
-        {
-          "label": "Interactive demo",
-          "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/demo/index.html"
+          "label": "Play",
+          "url": "https://compliance.livive.net/"
         }
       ],
       "repo_url": "https://github.com/jpeckenpaugh/snow-compliance-demo",
@@ -1294,13 +1282,13 @@
       "featured": true,
       "status": "board review",
       "confidence": "high",
-      "notes": "Companion to the working snow-cuad POC. Repo snow-compliance-demo auto-publishes to GitHub Pages (legacy build from `/`) on every push to main; live at jpeckenpaugh.github.io/snow-compliance-demo/. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice.",
+      "notes": "Companion to the working snow-cuad POC. Repo snow-compliance-demo publishes to compliance.livive.net. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice.",
       "thumb": "thumbnails/snow-compliance-demo.webp",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 53,
-      "live_final_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
+      "live_final_url": "https://compliance.livive.net/",
       "live_error": null,
       "updated_at": "2026-10-16T18:40:31Z"
     },
@@ -1357,7 +1345,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T09:08:02.341Z",
+      "live_checked_at": "2026-10-18T09:13:46.887Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1424,7 +1412,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T09:08:02.341Z",
+      "live_checked_at": "2026-10-18T09:13:46.887Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1598,7 +1586,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1701,7 +1689,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T09:08:02.341Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1799,7 +1787,7 @@
         }
       ],
       "thumb": "thumbnails/c3pa-explorer.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1874,7 +1862,7 @@
         }
       ],
       "thumb": "thumbnails/company-hub.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1939,7 +1927,7 @@
         }
       ],
       "thumb": "thumbnails/driver-hub-prototype.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2002,7 +1990,7 @@
         }
       ],
       "thumb": "thumbnails/executive-assistant.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2062,7 +2050,7 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2139,7 +2127,7 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2204,7 +2192,7 @@
         }
       ],
       "thumb": "thumbnails/robot-motion-studio.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2269,7 +2257,7 @@
         }
       ],
       "thumb": "thumbnails/vid-factory.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.888Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2340,7 +2328,7 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-18T09:08:02.342Z",
+      "updated_at": "2026-10-18T09:13:46.887Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2407,7 +2395,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T09:08:02.341Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -2907,7 +2895,7 @@
             "WebGPU"
           ],
           "category": "AI/ML Experiments",
-          "live_url": "https://jpeckenpaugh.github.io/rag-poc/",
+          "live_url": "https://rag.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/rag-poc",
           "has_live_demo": true,
           "featured": true,
@@ -2917,11 +2905,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/rag-poc/"
+              "url": "https://rag.livive.net/"
             }
           ],
           "thumb": "thumbnails/rag-poc.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3245,7 +3233,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3291,7 +3279,7 @@
             "Python"
           ],
           "category": "Language Tools",
-          "live_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
+          "live_url": "https://hindi.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/vibe-hindi-language-tutor",
           "has_live_demo": true,
           "featured": true,
@@ -3301,11 +3289,11 @@
           "demos": [
             {
               "label": "Start Learning Hindi & Kannada",
-              "url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/"
+              "url": "https://hindi.livive.net/"
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3352,11 +3340,11 @@
             "pytest"
           ],
           "category": "Language Tools",
-          "live_url": "https://jpeckenpaugh.github.io/nexttext/",
+          "live_url": "https://nexttext.livive.net/",
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/nexttext/"
+              "url": "https://nexttext.livive.net/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/nexttext",
@@ -3366,7 +3354,7 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
           "thumb": "thumbnails/nexttext.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3823,7 +3811,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T09:08:02.341Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4001,7 +3989,7 @@
             "Jupyter"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/c3pa-explorer/",
+          "live_url": "https://c3pa.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/c3pa-explorer",
           "has_live_demo": true,
           "featured": true,
@@ -4011,11 +3999,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/c3pa-explorer/"
+              "url": "https://c3pa.livive.net/"
             }
           ],
           "thumb": "thumbnails/c3pa-explorer.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4072,7 +4060,7 @@
             "JavaScript"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/ch/",
+          "live_url": "https://ch.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/company-hub",
           "has_live_demo": true,
           "featured": true,
@@ -4086,11 +4074,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/ch/"
+              "url": "https://ch.livive.net/"
             }
           ],
           "thumb": "thumbnails/company-hub.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4141,7 +4129,7 @@
             "npm workspaces"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
+          "live_url": "https://driver.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/driver-hub-prototype",
           "has_live_demo": true,
           "featured": true,
@@ -4151,11 +4139,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/driver-hub-prototype/"
+              "url": "https://driver.livive.net/"
             }
           ],
           "thumb": "thumbnails/driver-hub-prototype.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4204,7 +4192,7 @@
             "Uvicorn"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/executive-assistant/",
+          "live_url": "https://ea.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/executive-assistant",
           "has_live_demo": true,
           "featured": true,
@@ -4214,11 +4202,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/executive-assistant/"
+              "url": "https://ea.livive.net/"
             }
           ],
           "thumb": "thumbnails/executive-assistant.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4264,7 +4252,7 @@
             "Canvas"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/herons-fountain/",
+          "live_url": "https://fountain.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/herons-fountain",
           "has_live_demo": true,
           "featured": true,
@@ -4274,11 +4262,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/herons-fountain/"
+              "url": "https://fountain.livive.net/"
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4355,7 +4343,7 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4406,7 +4394,7 @@
             "HTML/CSS"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/robot-motion-studio/",
+          "live_url": "https://motion.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/robot-motion-studio",
           "has_live_demo": true,
           "featured": true,
@@ -4416,11 +4404,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/robot-motion-studio/"
+              "url": "https://motion.livive.net/"
             }
           ],
           "thumb": "thumbnails/robot-motion-studio.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4471,7 +4459,7 @@
             "HTML/CSS"
           ],
           "category": "Web Apps & Prototypes",
-          "live_url": "https://jpeckenpaugh.github.io/vid-factory/",
+          "live_url": "https://vid.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/vid-factory",
           "has_live_demo": true,
           "featured": true,
@@ -4481,11 +4469,11 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/vid-factory/"
+              "url": "https://vid.livive.net/"
             }
           ],
           "thumb": "thumbnails/vid-factory.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.888Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -4556,7 +4544,7 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-18T09:08:02.342Z",
+          "updated_at": "2026-10-18T09:13:46.887Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
