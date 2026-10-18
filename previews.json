@@ -520,15 +520,41 @@
       ]
     },
     "nexttext": {
-      "video": "previews/nexttext.webm",
-      "poster": "thumbnails/nexttext.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 138978,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/02-debias-basics.png",
+      "mode": "demo",
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 451701,
       "captured_at": "2026-10-16T02:02:12.059Z",
-      "source": "https://jpeckenpaugh.github.io/nexttext/"
+      "source": "https://jpeckenpaugh.github.io/nexttext/",
+      "gallery": [
+        {
+          "label": "Pyodide Runtime Initialization: In-Browser Python 3.9+ Virtual Environment",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/01-pyodide-runtime-ready.png"
+        },
+        {
+          "label": "Multi-Label Gender Neutralization: Training Data Bias Elimination",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/02-debias-basics.png"
+        },
+        {
+          "label": "Contextual Rebiasing: Associative Cue Extraction & Male Feature Injection",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/03-rebias-contextual-male.png"
+        },
+        {
+          "label": "Contextual Rebiasing: Associative Semantic Analysis & Female Cues",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/04-rebias-contextual-female.png"
+        },
+        {
+          "label": "Round-Trip Verification: Neutralize & Contextual Re-Framing Pipeline",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/05-roundtrip-validation.png"
+        },
+        {
+          "label": "Token Diagnostics & Lightweight Pip Package Specification",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/nexttext/main/demos/latest/gallery/06-token-frequencies-metadata.png"
+        }
+      ]
     },
     "snow-compliance-demo": {
       "video": "previews/snow-compliance-demo.webm",
