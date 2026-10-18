@@ -398,15 +398,41 @@
       "source": "https://jpeckenpaugh.github.io/rag-poc/"
     },
     "sm3": {
-      "video": "previews/sm3.webm",
-      "poster": "thumbnails/sm3.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 142732,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/01-operator-dashboard-overview.png",
+      "mode": "demo",
+      "duration_ms": 30000,
+      "width": 1280,
+      "height": 720,
+      "bytes": 3866687,
       "captured_at": "2026-10-16T02:02:04.176Z",
-      "source": "https://seekdepth.net/"
+      "source": "https://seekdepth.net/",
+      "gallery": [
+        {
+          "label": "System Status & Live Telemetry",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/01-operator-dashboard-overview.png"
+        },
+        {
+          "label": "Trimurti Archetype Architecture",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/02-tri-archetype-pantheon.png"
+        },
+        {
+          "label": "Phased State Machine Execution Log",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/03-sprint-phase-pipeline.png"
+        },
+        {
+          "label": "Deep Event Inspection & Agent Dispatch Modal",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/04-event-dispatch-inspector.png"
+        },
+        {
+          "label": "Agent Profiles & Permission Boundaries",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/05-agent-profiles-permissions.png"
+        },
+        {
+          "label": "Sprint Overview & Historical Sprint Audit",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/gallery/06-file-contracts-audit.png"
+        }
+      ]
     },
     "seekdepth.org": {
       "video": "previews/seekdepth.org.webm",
