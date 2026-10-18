@@ -48,7 +48,7 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -113,7 +113,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -175,7 +175,7 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-18T06:00:00Z",
@@ -234,7 +234,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-18T07:07:27.055Z",
+      "updated_at": "2026-10-18T07:07:52.168Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -307,7 +307,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -372,7 +372,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -440,7 +440,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,7 +496,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -560,7 +560,7 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -617,7 +617,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -724,7 +724,7 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1293,7 +1293,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:07:27.056Z",
+      "live_checked_at": "2026-10-18T07:07:52.169Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1360,7 +1360,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T07:07:27.056Z",
+      "live_checked_at": "2026-10-18T07:07:52.169Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1534,7 +1534,7 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1637,7 +1637,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-18T07:07:27.056Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1950,9 +1950,9 @@
       "key": "oblique-livive-net",
       "repo": "oblique-livive-net",
       "display_title": "Oblique · 2.5D World Sandbox",
-      "tagline": "A browser-based workbench for building and exploring layered 2.5D game worlds",
-      "short_description": "A collection of browser-based experiments for building scenes and testing sprites, depth sorting, terrain layers, water, and interactive coastal scenes on an orthogonal grid.",
-      "long_description": "Oblique is a static, browser-based workbench for exploring and building 2.5D game worlds on an orthogonal square grid. Its standalone pages include a model sandbox for editing sprites and anchors, inspecting Y-depth sorting and collisions, painting terrain, and exploring a scene; a Playground scene builder for composing 16x16 scenes with terrain and sprite painting, per-sprite scaling, NPC behavior, ordered events, and local save/import/export; a terrain-layer prototype for procedural substrates, water, and shoreline foam; and a larger Beach Camp coastal scene. The sandbox includes player movement, wandering NPCs, shadows, camera controls, and debug overlays. A companion Sprites workshop previews GLB/glTF turntable views and animation frames and exports sprite sheets or cropped sprites for use in scenes.",
+      "tagline": "Interactive 2.5D game-world workbench for dynamic Y-depth sorting, procedural terrain layers, and scene composition.",
+      "short_description": "A browser-based game workbench for testing sprite depth sorting, 12-angle turntable anchors, procedural 5-layer terrain substrates, and scene event choreography on an orthogonal grid.",
+      "long_description": "Oblique is an inspectable browser workbench exploring how layered terrain, water foam, dynamic Y-sorting, and directional silhouette shadows unite on an orthogonal 64×64 grid. Its modular applications include a 2.5D model sandbox with live sprite and anchor editing, solid obstacle collisions, and directional shadow feathering; a 5-layer procedural terrain engine with soloable Worley bedrock, Bayer-dithered turf, and translucent UV wave drift; a 16×16 scene-building Playground with terrain brush painting, sprite scaling, and event sequence scripting; and an atmospheric Beach Camp coastal scene study.",
       "tags": [
         "2.5d",
         "game-assets",
@@ -1978,15 +1978,15 @@
           "url": "https://oblique.livive.net/sandbox.html"
         },
         {
-          "label": "Playground",
+          "label": "Playground Scene Builder",
           "url": "https://oblique.livive.net/playground.html"
         },
         {
-          "label": "Terrain Layers",
+          "label": "5-Layer Terrain POC",
           "url": "https://oblique.livive.net/terrain-layers.html"
         },
         {
-          "label": "Beach Camp",
+          "label": "Beach Camp Scene Study",
           "url": "https://oblique.livive.net/beach-camp.html"
         }
       ],
@@ -1997,13 +1997,31 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-16T01:46:00Z",
+      "updated_at": "2026-10-18T07:07:52.169Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 149,
       "live_final_url": "https://oblique.livive.net/",
-      "live_error": null
+      "live_error": null,
+      "how_to_play": [
+        {
+          "title": "🕹️ 1. Dynamic Y-Sorting & Obstacle Collision",
+          "body": "Walk the player character through the 64×64 world using WASD or arrow keys. Watch sprites sort dynamically along the Y-axis as characters weave behind and in front of houses, palms, and docks with directional silhouette shadows."
+        },
+        {
+          "title": "🛠️ 2. Diagnostic Overlays & Live Sprite Editor",
+          "body": "Toggle footprint hitboxes, registration crosshairs, cyan bounds, and grid lines. Click any prop to scrub turntable frames (0–11 angles), reposition registration anchors, and tune shadow feathering in real time."
+        },
+        {
+          "title": "🌊 3. Five-Layer Substrate Deconstruction",
+          "body": "Explore the procedural terrain engine in Terrain Layers. Use Solo buttons to isolate L1 Bedrock edge rifts, L2 Bayer-dithered retro turf, L3 Sand topsoil, L4 Translucent water & shoreline foam, and L5 2.5D props."
+        },
+        {
+          "title": "🎨 4. Playground Scene Builder & Event Sequencer",
+          "body": "Craft 16×16 scenes with terrain brushes, place NPCs with custom orientations and scaling, toggle autonomous wandering, and choreograph story sequences with camera transitions and dialogue boxes."
+        }
+      ]
     },
     {
       "key": "robot-motion-studio",
@@ -2189,7 +2207,7 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-18T07:07:27.056Z",
+          "updated_at": "2026-10-18T07:07:52.169Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3541,7 +3559,7 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-18T07:07:27.056Z",
+          "updated_at": "2026-10-18T07:07:52.169Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
@@ -3948,9 +3966,9 @@
           "key": "oblique-livive-net",
           "repo": "oblique-livive-net",
           "display_title": "Oblique · 2.5D World Sandbox",
-          "tagline": "A browser-based workbench for building and exploring layered 2.5D game worlds",
-          "short_description": "A collection of browser-based experiments for building scenes and testing sprites, depth sorting, terrain layers, water, and interactive coastal scenes on an orthogonal grid.",
-          "long_description": "Oblique is a static, browser-based workbench for exploring and building 2.5D game worlds on an orthogonal square grid. Its standalone pages include a model sandbox for editing sprites and anchors, inspecting Y-depth sorting and collisions, painting terrain, and exploring a scene; a Playground scene builder for composing 16x16 scenes with terrain and sprite painting, per-sprite scaling, NPC behavior, ordered events, and local save/import/export; a terrain-layer prototype for procedural substrates, water, and shoreline foam; and a larger Beach Camp coastal scene. The sandbox includes player movement, wandering NPCs, shadows, camera controls, and debug overlays. A companion Sprites workshop previews GLB/glTF turntable views and animation frames and exports sprite sheets or cropped sprites for use in scenes.",
+          "tagline": "Interactive 2.5D game-world workbench for dynamic Y-depth sorting, procedural terrain layers, and scene composition.",
+          "short_description": "A browser-based game workbench for testing sprite depth sorting, 12-angle turntable anchors, procedural 5-layer terrain substrates, and scene event choreography on an orthogonal grid.",
+          "long_description": "Oblique is an inspectable browser workbench exploring how layered terrain, water foam, dynamic Y-sorting, and directional silhouette shadows unite on an orthogonal 64×64 grid. Its modular applications include a 2.5D model sandbox with live sprite and anchor editing, solid obstacle collisions, and directional shadow feathering; a 5-layer procedural terrain engine with soloable Worley bedrock, Bayer-dithered turf, and translucent UV wave drift; a 16×16 scene-building Playground with terrain brush painting, sprite scaling, and event sequence scripting; and an atmospheric Beach Camp coastal scene study.",
           "tags": [
             "2.5d",
             "game-assets",
@@ -3976,15 +3994,15 @@
               "url": "https://oblique.livive.net/sandbox.html"
             },
             {
-              "label": "Playground",
+              "label": "Playground Scene Builder",
               "url": "https://oblique.livive.net/playground.html"
             },
             {
-              "label": "Terrain Layers",
+              "label": "5-Layer Terrain POC",
               "url": "https://oblique.livive.net/terrain-layers.html"
             },
             {
-              "label": "Beach Camp",
+              "label": "Beach Camp Scene Study",
               "url": "https://oblique.livive.net/beach-camp.html"
             }
           ],
@@ -3995,13 +4013,31 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-16T01:46:00Z",
+          "updated_at": "2026-10-18T07:07:52.169Z",
           "live_ok": true,
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 149,
           "live_final_url": "https://oblique.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🕹️ 1. Dynamic Y-Sorting & Obstacle Collision",
+              "body": "Walk the player character through the 64×64 world using WASD or arrow keys. Watch sprites sort dynamically along the Y-axis as characters weave behind and in front of houses, palms, and docks with directional silhouette shadows."
+            },
+            {
+              "title": "🛠️ 2. Diagnostic Overlays & Live Sprite Editor",
+              "body": "Toggle footprint hitboxes, registration crosshairs, cyan bounds, and grid lines. Click any prop to scrub turntable frames (0–11 angles), reposition registration anchors, and tune shadow feathering in real time."
+            },
+            {
+              "title": "🌊 3. Five-Layer Substrate Deconstruction",
+              "body": "Explore the procedural terrain engine in Terrain Layers. Use Solo buttons to isolate L1 Bedrock edge rifts, L2 Bayer-dithered retro turf, L3 Sand topsoil, L4 Translucent water & shoreline foam, and L5 2.5D props."
+            },
+            {
+              "title": "🎨 4. Playground Scene Builder & Event Sequencer",
+              "body": "Craft 16×16 scenes with terrain brushes, place NPCs with custom orientations and scaling, toggle autonomous wandering, and choreograph story sequences with camera transitions and dialogue boxes."
+            }
+          ]
         },
         {
           "key": "robot-motion-studio",

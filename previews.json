@@ -619,15 +619,41 @@
       "source": "https://jpeckenpaugh.github.io/executive-assistant/"
     },
     "oblique-livive-net": {
-      "video": "previews/oblique-livive-net.webm",
-      "poster": "previews/oblique-livive-net.webp",
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/01-sandbox-depth-and-shadows.png",
       "mode": "demo",
       "duration_ms": 30000,
-      "width": 960,
-      "height": 600,
-      "bytes": 1339047,
+      "width": 1280,
+      "height": 720,
+      "bytes": 3790373,
       "captured_at": "2026-10-16T04:34:31.512Z",
-      "source": "https://oblique.livive.net/"
+      "source": "https://oblique.livive.net/",
+      "gallery": [
+        {
+          "label": "Dynamic Y-Depth Sorting & Directional Silhouette Shadows",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/01-sandbox-depth-and-shadows.png"
+        },
+        {
+          "label": "Diagnostic Overlays: Footprint Hitboxes, Anchors & Bounding Geometry",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/02-debug-overlays-and-hitboxes.png"
+        },
+        {
+          "label": "Real-Time Sprite & Prop Editor: Frame Turntable & Anchor Registration",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/03-sprite-editor-turntable-tuning.png"
+        },
+        {
+          "label": "Five-Layer Terrain Substrate: Bedrock to Animated Shoreline Foam",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/04-five-layer-substrate-matrix.png"
+        },
+        {
+          "label": "Playground Scene Builder: Terrain Brushes & Event Sequencer",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/05-playground-scene-builder-sequencer.png"
+        },
+        {
+          "label": "Beach Camp Scene Study: Coastal Waterways, Shallows & Pier Props",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/oblique-livive-net/main/demos/latest/gallery/06-coastal-beach-camp-study.png"
+        }
+      ]
     },
     "robot-motion-studio": {
       "video": "previews/robot-motion-studio.webm",
