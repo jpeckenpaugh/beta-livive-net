@@ -387,15 +387,41 @@
       ]
     },
     "rag-poc": {
-      "video": "previews/rag-poc.webm",
-      "poster": "thumbnails/rag-poc.webp",
-      "mode": "motion",
-      "duration_ms": 4400,
-      "width": 640,
-      "height": 400,
-      "bytes": 139394,
+      "video": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/demo.webm",
+      "poster": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/01-architecture-overview.png",
+      "mode": "demo",
+      "duration_ms": 30500,
+      "width": 1280,
+      "height": 720,
+      "bytes": 888832,
       "captured_at": "2026-10-16T02:02:00.662Z",
-      "source": "https://jpeckenpaugh.github.io/rag-poc/"
+      "source": "https://jpeckenpaugh.github.io/rag-poc/",
+      "gallery": [
+        {
+          "label": "Client-Side RAG Architecture & Pipeline Overview",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/01-architecture-overview.png"
+        },
+        {
+          "label": "Evaluation Benchmark & Streaming Citations",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/02-evaluation-benchmark-chat.png"
+        },
+        {
+          "label": "DevTools Vector Retrieval & 384-Dim Query Inspection",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/03-devtools-vector-retrieval.png"
+        },
+        {
+          "label": "Sliding-Window Chunk Inspector & Metadata Modal",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/04-chunk-modal-inspector.png"
+        },
+        {
+          "label": "Integrated Canvas PDF Viewer & Source Corpus",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/05-pdf-canvas-corpus-viewer.png"
+        },
+        {
+          "label": "Guardrail Abstention & Negative Evaluation Test",
+          "src": "https://raw.githubusercontent.com/jpeckenpaugh/rag-poc/main/demos/latest/gallery/06-guardrail-abstention-refusal.png"
+        }
+      ]
     },
     "sm3": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/sm3/main/demos/latest/demo.webm",
