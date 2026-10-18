@@ -1109,6 +1109,18 @@
           "src": "https://raw.githubusercontent.com/jpeckenpaugh/wasm-livive-net/main/demos/latest/gallery/06-live-benchmark-demo.png"
         }
       ]
+    },
+    "chtbx-livive-net": {
+      "mode": "preview",
+      "duration_ms": 10000,
+      "poster": "thumbnails/chtbx-livive-net.webp",
+      "source": "https://chtbx.livive.net/",
+      "gallery": [
+        {
+          "label": "Zero-Shot Voice Cloning Workflow & Architecture",
+          "src": "thumbnails/chtbx-livive-net.webp"
+        }
+      ]
     }
   }
 }
