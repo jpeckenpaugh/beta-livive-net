@@ -143,7 +143,7 @@
       "height": 400,
       "bytes": 147082,
       "captured_at": "2026-10-16T02:01:47.147Z",
-      "source": "https://jpeckenpaugh.github.io/EuchreGame/",
+      "source": "https://euchre.livive.net/",
       "gallery": [
         {
           "label": "Pyodide Browser Sandbox & Match Controls",
@@ -291,7 +291,7 @@
       "height": 400,
       "bytes": 116654,
       "captured_at": "2026-10-16T02:01:54.956Z",
-      "source": "https://jpeckenpaugh.github.io/threat-sweep/",
+      "source": "https://t-sweep.livive.net/",
       "gallery": [
         {
           "label": "Campaign Mission Queue & Operation Briefing",
@@ -557,6 +557,50 @@
       "bytes": 851026,
       "captured_at": "2026-10-16T04:35:22.138Z",
       "source": "https://tech.livive.net/"
+    },
+    "snow-cuad": {
+      "mode": "demo",
+      "duration_ms": 57934,
+      "width": 1280,
+      "height": 720,
+      "bytes": 2319865,
+      "video": "https://snow-cuad.livive.net/docs/assets/demo-720p.mp4",
+      "poster": "https://snow-cuad.livive.net/docs/assets/02-clause-search.png",
+      "source": "https://snow-cuad.livive.net/",
+      "gallery": [
+        {
+          "label": "Side-by-Side Lawyer Sessions",
+          "src": "https://snow-cuad.livive.net/docs/assets/01-two-lawyers-signed-in.png"
+        },
+        {
+          "label": "Clause Search & Highlighting",
+          "src": "https://snow-cuad.livive.net/docs/assets/02-clause-search.png"
+        },
+        {
+          "label": "Document View & Related Contracts",
+          "src": "https://snow-cuad.livive.net/docs/assets/03-document-and-related.png"
+        },
+        {
+          "label": "Admin User Console",
+          "src": "https://snow-cuad.livive.net/docs/assets/04-admin-users.png"
+        },
+        {
+          "label": "Audit Log — User Logins",
+          "src": "https://snow-cuad.livive.net/docs/assets/05-audit-logins.png"
+        },
+        {
+          "label": "Audit Log — Clause Searches",
+          "src": "https://snow-cuad.livive.net/docs/assets/06-audit-searches.png"
+        },
+        {
+          "label": "Audit Log — Document Access",
+          "src": "https://snow-cuad.livive.net/docs/assets/07-audit-documents.png"
+        },
+        {
+          "label": "Audit Log — Aggregated Activity",
+          "src": "https://snow-cuad.livive.net/docs/assets/08-audit-activity.png"
+        }
+      ]
     },
     "fast-ttt": {
       "mode": "demo",

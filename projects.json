@@ -1,8 +1,8 @@
 {
   "source_user": "jpeckenpaugh",
-  "count": 40,
-  "live_count": 28,
-  "featured_count": 27,
+  "count": 41,
+  "live_count": 29,
+  "featured_count": 28,
   "category_order": [
     "Games",
     "AI/ML Experiments",
@@ -99,7 +99,7 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -147,11 +147,11 @@
         "pytest"
       ],
       "category": "Games",
-      "live_url": "https://jpeckenpaugh.github.io/EuchreGame/",
+      "live_url": "https://euchre.livive.net/",
       "demos": [
         {
           "label": "Play Sandbox",
-          "url": "https://jpeckenpaugh.github.io/EuchreGame/"
+          "url": "https://euchre.livive.net/"
         }
       ],
       "repo_url": "https://github.com/jpeckenpaugh/EuchreGame",
@@ -159,14 +159,14 @@
       "featured": true,
       "status": "active",
       "confidence": "high",
-      "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/EuchreGame/ (HTTP 200), serving the Pyodide browser sandbox; previously repo-only. The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
+      "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
+      "live_checked_at": "2026-10-18T06:00:00Z",
       "live_latency_ms": 162,
-      "live_final_url": "https://jpeckenpaugh.github.io/EuchreGame/",
+      "live_final_url": "https://euchre.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -220,7 +220,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-17T06:05:39.750Z",
+      "updated_at": "2026-10-18T06:04:39.952Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -293,7 +293,7 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -358,7 +358,7 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -426,7 +426,7 @@
       "live_latency_ms": 237,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -482,7 +482,7 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -532,7 +532,7 @@
         "Web Audio"
       ],
       "category": "Games",
-      "live_url": "https://jpeckenpaugh.github.io/threat-sweep/",
+      "live_url": "https://t-sweep.livive.net/",
       "repo_url": "https://github.com/jpeckenpaugh/threat-sweep",
       "has_live_demo": true,
       "featured": true,
@@ -542,16 +542,16 @@
       "demos": [
         {
           "label": "Play",
-          "url": "https://jpeckenpaugh.github.io/threat-sweep/"
+          "url": "https://t-sweep.livive.net/"
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
       "live_latency_ms": 66,
-      "live_final_url": "https://jpeckenpaugh.github.io/threat-sweep/",
+      "live_final_url": "https://t-sweep.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -603,7 +603,7 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": true,
       "live_status": 200,
       "live_checked_at": "2026-10-17T00:25:35Z",
@@ -1154,7 +1154,7 @@
       "key": "snow-compliance-demo",
       "repo": "snow-compliance-demo",
       "display_title": "Snowflake Compliance Demo",
-      "tagline": "Board-review plan and working POC for a Snowflake legal-compliance platform",
+      "tagline": "Board-review plan and simulated architecture for a Snowflake legal-compliance platform (companion to working POC snow-cuad)",
       "short_description": "A board-review site and working offline proof of concept for a Snowflake legal-compliance platform built on the public CUAD contract dataset plus synthetic law-firm records, covering the data model, row-access policies, column masking, risk views, and audit queries.",
       "long_description": "The Snowflake Compliance Demo stages a proposed Snowflake integration for legal contract review. It pairs a board-facing static site — purpose, ten recommendations, delivery phases, architecture, data foundation, confidentiality model, risk analysis, audit verification, and a Snowflake-options comparison — with a working Python + SQLite proof of concept that enforces matter-level access control and records an audit log, designed to port directly to Snowflake. Contract data comes from the public Contract Understanding Atticus Dataset (CUAD, CC BY 4.0), normalized into RAW CSVs by ingest/load_cuad.py; clients, matters, staff, assignments, and approvals are synthetic data generated with Faker. The POC simulates Snowflake role context, row-access policies, masking, and query history offline (poc/snowflake_sim.py), so no Snowflake account is required. The repository also ships the target Snowflake DDL (sql/01-05: database and roles, data model, row access and masking, risk views, audit queries), a Python offline-SQL portability harness with CI, and a clickable interactive demo (demo/index.html) with role-based login. The Snowflake component is simulated for now: offline emulators run SQL but do not enforce governance, so row-access-policy and masking validation is deferred to a free trial. The contract-risk rubric is simulated and is not legal advice.",
       "tags": [
@@ -1202,7 +1202,7 @@
       "featured": true,
       "status": "board review",
       "confidence": "high",
-      "notes": "Repo snow-compliance-demo auto-publishes to GitHub Pages (legacy build from `/`) on every push to main; live at jpeckenpaugh.github.io/snow-compliance-demo/. Live probe returns HTTP 200 with title 'Overview · Snow Compliance Demo'. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice. Built by the Paperclip team across AIA-21, AIA-22, and AIA-23.",
+      "notes": "Companion to the working snow-cuad POC. Repo snow-compliance-demo auto-publishes to GitHub Pages (legacy build from `/`) on every push to main; live at jpeckenpaugh.github.io/snow-compliance-demo/. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice.",
       "thumb": "thumbnails/snow-compliance-demo.webp",
       "live_ok": true,
       "live_status": 200,
@@ -1211,6 +1211,79 @@
       "live_final_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
       "live_error": null,
       "updated_at": "2026-10-16T18:40:31Z"
+    },
+    {
+      "key": "snow-cuad",
+      "repo": "snow-cuad",
+      "display_title": "Snow CUAD",
+      "tagline": "Automated first POC build of the Snowflake contract intelligence platform over 510 CUAD contracts.",
+      "short_description": "The clean, automated first POC build of the Snowflake legal contract compliance and intelligence idea. Loads the 510-contract CUAD corpus into Snowflake with full-text clause search, related-contract scoring, RBAC roles (lawyer, auditor, admin), and an append-only access audit log.",
+      "long_description": "Snow CUAD implements the clean, automated first POC build of the Snowflake legal-compliance platform idea (paired with the snow-compliance-demo board-review architecture). Using the public Contract Understanding Atticus Dataset (CUAD v1 — 510 commercial M&A contracts annotated across 41 legal clause categories), this repository delivers an end-to-end reproducible pipeline from 'make pipeline' through a self-hosted Streamlit legal exploration console.\\n\\nFeatures include:\\n• Fast clause search with query highlighting and surrounding contract context spans\\n• Structured filtering by 41 clause categories, agreement types, jurisdictions, and counterparties\\n• Related contract recommendations scored by shared counterparties, clause overlap, and agreement types\\n• Least-privilege multi-role RBAC (Lawyer, Auditor, Admin) powered by Snowflake service credentials rather than ACCOUNTADMIN\\n• Append-only access audit logging capturing all search queries, contract inspections, and user sessions.",
+      "tags": [
+        "cuad",
+        "snowflake",
+        "legal-tech",
+        "streamlit",
+        "data-governance",
+        "rbac",
+        "audit",
+        "sql",
+        "proof-of-concept"
+      ],
+      "tech": [
+        "Python",
+        "Snowflake",
+        "Streamlit",
+        "SQL",
+        "NDJSON",
+        "GitHub Pages",
+        "GitHub Actions",
+        "Docker"
+      ],
+      "category": "Dev Tools",
+      "live_url": "https://snow-cuad.livive.net/",
+      "demos": [
+        {
+          "label": "Live Documentation & Demo",
+          "url": "https://snow-cuad.livive.net/"
+        },
+        {
+          "label": "Full 720p Video Walkthrough",
+          "url": "https://snow-cuad.livive.net/docs/assets/demo-720p.mp4"
+        },
+        {
+          "label": "Architecture & Schema",
+          "url": "https://github.com/jpeckenpaugh/snow-cuad/blob/main/docs/architecture.md"
+        }
+      ],
+      "repo_url": "https://github.com/jpeckenpaugh/snow-cuad",
+      "has_live_demo": true,
+      "featured": true,
+      "status": "live",
+      "confidence": "high",
+      "notes": "Clean, automated first working POC build of the snow-compliance-demo idea. Automated end-to-end Snowflake pipeline and self-hosted Streamlit UI with 510 contracts from CUAD v1. Live site at snow-cuad.livive.net.",
+      "thumb": "thumbnails/snow-cuad.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-18T06:04:39.953Z",
+      "live_latency_ms": 60,
+      "live_final_url": "https://snow-cuad.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-18T00:52:05Z",
+      "how_to_play": [
+        {
+          "title": "🔍 Clause Search & Highlighting",
+          "body": "Search clause text across all 510 contracts with query term hits highlighted in amber and full context spans preserved for legal diligence review."
+        },
+        {
+          "title": "📑 Multi-Dimensional Browsing & Related Contracts",
+          "body": "Filter by 41 legal clause categories, agreement types, jurisdictions, and counterparties, and view automatically scored related contracts based on clause overlap."
+        },
+        {
+          "title": "🛡️ Least-Privilege RBAC & Append-Only Audit Logging",
+          "body": "Authenticate as Lawyer, Auditor, or Admin under dedicated service credentials (never ACCOUNTADMIN) while all logins, clause searches, and document views stream to Snowflake audit tables."
+        }
+      ]
     },
     {
       "key": "sprites-livive-net",
@@ -1500,7 +1573,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-17T06:05:39.755Z",
+      "updated_at": "2026-10-18T06:04:39.953Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -2133,11 +2206,11 @@
             "pytest"
           ],
           "category": "Games",
-          "live_url": "https://jpeckenpaugh.github.io/EuchreGame/",
+          "live_url": "https://euchre.livive.net/",
           "demos": [
             {
-              "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/EuchreGame/"
+              "label": "Play Sandbox",
+              "url": "https://euchre.livive.net/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/EuchreGame",
@@ -2145,14 +2218,14 @@
           "featured": true,
           "status": "active",
           "confidence": "high",
-          "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/EuchreGame/ (HTTP 200), serving the Pyodide browser sandbox; previously repo-only. The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
+          "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
           "thumb": "thumbnails/EuchreGame.webp",
-          "updated_at": "2026-10-15T05:47:04Z",
+          "updated_at": "2026-10-18T06:00:00Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
+          "live_checked_at": "2026-10-18T06:00:00Z",
           "live_latency_ms": 162,
-          "live_final_url": "https://jpeckenpaugh.github.io/EuchreGame/",
+          "live_final_url": "https://euchre.livive.net/",
           "live_error": null
         },
         {
@@ -2442,7 +2515,7 @@
             "Web Audio"
           ],
           "category": "Games",
-          "live_url": "https://jpeckenpaugh.github.io/threat-sweep/",
+          "live_url": "https://t-sweep.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/threat-sweep",
           "has_live_demo": true,
           "featured": true,
@@ -2452,7 +2525,7 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/threat-sweep/"
+              "url": "https://t-sweep.livive.net/"
             }
           ],
           "thumb": "thumbnails/threat-sweep.webp",
@@ -2461,7 +2534,7 @@
           "live_status": 200,
           "live_checked_at": "2026-10-17T00:25:35Z",
           "live_latency_ms": 66,
-          "live_final_url": "https://jpeckenpaugh.github.io/threat-sweep/",
+          "live_final_url": "https://t-sweep.livive.net/",
           "live_error": null
         },
         {
@@ -3108,6 +3181,79 @@
           "live_final_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
           "live_error": null,
           "updated_at": "2026-10-16T18:40:31Z"
+        },
+        {
+          "key": "snow-cuad",
+          "repo": "snow-cuad",
+          "display_title": "Snow CUAD",
+          "tagline": "Automated first POC build of the Snowflake contract intelligence platform over 510 CUAD contracts.",
+          "short_description": "The clean, automated first POC build of the Snowflake legal contract compliance and intelligence idea. Loads the 510-contract CUAD corpus into Snowflake with full-text clause search, related-contract scoring, RBAC roles (lawyer, auditor, admin), and an append-only access audit log.",
+          "long_description": "Snow CUAD implements the clean, automated first POC build of the Snowflake legal-compliance platform idea (paired with the snow-compliance-demo board-review architecture). Using the public Contract Understanding Atticus Dataset (CUAD v1 — 510 commercial M&A contracts annotated across 41 legal clause categories), this repository delivers an end-to-end reproducible pipeline from \\\"make pipeline\\\" through a self-hosted Streamlit legal exploration console.\\n\\nFeatures include:\\n• Fast clause search with query highlighting and surrounding contract context spans\\n• Structured filtering by 41 clause categories, agreement types, jurisdictions, and counterparties\\n• Related contract recommendations scored by shared counterparties, clause overlap, and agreement types\\n• Least-privilege multi-role RBAC (Lawyer, Auditor, Admin) powered by Snowflake service credentials rather than ACCOUNTADMIN\\n• Append-only access audit logging capturing all search queries, contract inspections, and user sessions.",
+          "tags": [
+            "cuad",
+            "snowflake",
+            "legal-tech",
+            "streamlit",
+            "data-governance",
+            "rbac",
+            "audit",
+            "sql",
+            "proof-of-concept"
+          ],
+          "tech": [
+            "Python",
+            "Snowflake",
+            "Streamlit",
+            "SQL",
+            "NDJSON",
+            "GitHub Pages",
+            "GitHub Actions",
+            "Docker"
+          ],
+          "category": "Dev Tools",
+          "live_url": "https://snow-cuad.livive.net/",
+          "demos": [
+            {
+              "label": "Live Documentation & Demo",
+              "url": "https://snow-cuad.livive.net/"
+            },
+            {
+              "label": "Full 720p Video Walkthrough",
+              "url": "https://snow-cuad.livive.net/docs/assets/demo-720p.mp4"
+            },
+            {
+              "label": "Architecture & Schema",
+              "url": "https://github.com/jpeckenpaugh/snow-cuad/blob/main/docs/architecture.md"
+            }
+          ],
+          "repo_url": "https://github.com/jpeckenpaugh/snow-cuad",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "live",
+          "confidence": "high",
+          "notes": "Clean, automated first working POC build of the snow-compliance-demo idea. Automated end-to-end Snowflake pipeline and self-hosted Streamlit UI with 510 contracts from CUAD v1. Live site at snow-cuad.livive.net.",
+          "thumb": "thumbnails/snow-cuad.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-18T01:00:00Z",
+          "live_latency_ms": 60,
+          "live_final_url": "https://snow-cuad.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-18T00:52:05Z",
+          "how_to_play": [
+            {
+              "title": "🔍 Clause Search & Highlighting",
+              "body": "Search clause text across all 510 contracts with query term hits highlighted in amber and full context spans preserved for legal diligence review."
+            },
+            {
+              "title": "📑 Multi-Dimensional Browsing & Related Contracts",
+              "body": "Filter by 41 legal clause categories, agreement types, jurisdictions, and counterparties, and view automatically scored related contracts based on clause overlap."
+            },
+            {
+              "title": "🛡️ Least-Privilege RBAC & Append-Only Audit Logging",
+              "body": "Authenticate as Lawyer, Auditor, or Admin under dedicated service credentials (never ACCOUNTADMIN) while all logins, clause searches, and document views stream to Snowflake audit tables."
+            }
+          ]
         },
         {
           "key": "sprites-livive-net",
@@ -3910,8 +4056,8 @@
   "health": {
     "checked_at": "2026-10-17T00:25:35Z",
     "status": "ok",
-    "live_total": 28,
-    "live_ok": 28,
+    "live_total": 29,
+    "live_ok": 29,
     "live_down": 0,
     "down_keys": []
   }
