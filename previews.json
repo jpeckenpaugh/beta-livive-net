@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:35:22.164Z",
+  "generated_at": "2026-10-20T21:02:23.326Z",
   "previews": {
     "lokarta": {
       "video": "https://raw.githubusercontent.com/jpeckenpaugh/lokarta-v4/main/demos/latest/demo.webm",
@@ -1121,6 +1121,167 @@
           "src": "thumbnails/chtbx-livive-net.webp"
         }
       ]
+    },
+    "mines-sm": {
+      "mode": "demo",
+      "duration_ms": 30096,
+      "width": 1280,
+      "height": 800,
+      "bytes": 1247849,
+      "captured_at": "2026-10-20T21:02:23.263Z",
+      "source": "https://mines-sm.livive.net/",
+      "gallery": [
+        {
+          "label": "Auto-play a winning line",
+          "src": "previews/mines-sm/01-winning-board.png"
+        },
+        {
+          "label": "Observation and action mask for an agent",
+          "src": "previews/mines-sm/02-observation-action-mask.png"
+        },
+        {
+          "label": "Auto-play a losing line",
+          "src": "previews/mines-sm/03-losing-board.png"
+        },
+        {
+          "label": "Conformance checks against the Rust engine",
+          "src": "previews/mines-sm/04-conformance-checks.png"
+        },
+        {
+          "label": "A fresh deterministic board",
+          "src": "previews/mines-sm/05-fresh-board.png"
+        }
+      ],
+      "video": "previews/mines-sm.webm",
+      "poster": "previews/mines-sm.webp"
+    },
+    "trot-livive-net": {
+      "mode": "demo",
+      "duration_ms": 30098,
+      "width": 1280,
+      "height": 800,
+      "bytes": 1243028,
+      "captured_at": "2026-10-20T21:02:23.240Z",
+      "source": "https://trot.livive.net/",
+      "gallery": [
+        {
+          "label": "Train a network you can read, 100 steps at a time",
+          "src": "previews/trot-livive-net/01-train-and-loss.png"
+        },
+        {
+          "label": "Export the hand-encoded ONNX graph",
+          "src": "previews/trot-livive-net/02-export-onnx.png"
+        },
+        {
+          "label": "Round-trip check against onnxruntime-web",
+          "src": "previews/trot-livive-net/03-roundtrip-check.png"
+        },
+        {
+          "label": "Inspect every weight in W1, b1, and W2",
+          "src": "previews/trot-livive-net/04-weights.png"
+        },
+        {
+          "label": "Trace a prediction token by token",
+          "src": "previews/trot-livive-net/05-trace-prediction.png"
+        }
+      ],
+      "video": "previews/trot-livive-net.webm",
+      "poster": "previews/trot-livive-net.webp"
+    },
+    "fourcast-livive-net": {
+      "mode": "demo",
+      "duration_ms": 30117,
+      "width": 1280,
+      "height": 800,
+      "bytes": 1439816,
+      "captured_at": "2026-10-20T21:02:23.281Z",
+      "source": "https://fourcast.livive.net/",
+      "gallery": [
+        {
+          "label": "Four paradigms on one holdout cat",
+          "src": "previews/fourcast-livive-net/01-four-paradigms.png"
+        },
+        {
+          "label": "HOG gradients and the pixel pipeline",
+          "src": "previews/fourcast-livive-net/02-hog-pipeline.png"
+        },
+        {
+          "label": "Filter the holdout gallery",
+          "src": "previews/fourcast-livive-net/03-holdout-gallery.png"
+        },
+        {
+          "label": "Benchmark table and holdout accuracy",
+          "src": "previews/fourcast-livive-net/04-benchmark-metrics.png"
+        },
+        {
+          "label": "The four paradigms explained",
+          "src": "previews/fourcast-livive-net/05-paradigm-theory.png"
+        }
+      ],
+      "video": "previews/fourcast-livive-net.webm",
+      "poster": "previews/fourcast-livive-net.webp"
+    },
+    "ocr-livive-net": {
+      "mode": "demo",
+      "duration_ms": 30633,
+      "width": 1280,
+      "height": 800,
+      "bytes": 1039004,
+      "captured_at": "2026-10-20T21:02:23.301Z",
+      "source": "https://ocr.livive.net/",
+      "gallery": [
+        {
+          "label": "Four classifiers agree on a handwritten digit",
+          "src": "previews/ocr-livive-net/01-trained-consensus.png"
+        },
+        {
+          "label": "Inspect the MLP arithmetic",
+          "src": "previews/ocr-livive-net/02-mlp-arithmetic.png"
+        },
+        {
+          "label": "Learning curve and sample efficiency",
+          "src": "previews/ocr-livive-net/03-learning-curve.png"
+        },
+        {
+          "label": "Export the transparent ONNX graphs",
+          "src": "previews/ocr-livive-net/04-onnx-export.png"
+        }
+      ],
+      "video": "previews/ocr-livive-net.webm",
+      "poster": "previews/ocr-livive-net.webp"
+    },
+    "yds-livive-net": {
+      "mode": "demo",
+      "duration_ms": 30096,
+      "width": 1280,
+      "height": 800,
+      "bytes": 584977,
+      "captured_at": "2026-10-20T21:02:23.315Z",
+      "source": "https://yds.livive.net/",
+      "gallery": [
+        {
+          "label": "Listen and follow the dialogue in both languages",
+          "src": "previews/yds-livive-net/01-reader.png"
+        },
+        {
+          "label": "Choose the next line and bend the story",
+          "src": "previews/yds-livive-net/02-branch-choice.png"
+        },
+        {
+          "label": "Hear the chosen branch resolve",
+          "src": "previews/yds-livive-net/03-branch-resolved.png"
+        },
+        {
+          "label": "Replay with one decision changed",
+          "src": "previews/yds-livive-net/04-replay.png"
+        },
+        {
+          "label": "Back to the conversation catalogue",
+          "src": "previews/yds-livive-net/05-catalogue.png"
+        }
+      ],
+      "video": "previews/yds-livive-net.webm",
+      "poster": "previews/yds-livive-net.webp"
     }
   }
 }

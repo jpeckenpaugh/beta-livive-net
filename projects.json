@@ -1,14 +1,15 @@
 {
   "source_user": "jpeckenpaugh",
-  "count": 43,
-  "live_count": 31,
-  "featured_count": 30,
+  "count": 48,
+  "live_count": 36,
+  "featured_count": 34,
   "category_order": [
+    "Games",
     "AI/ML Experiments",
+    "Computer Vision",
+    "Language Tools",
     "Dev Tools",
     "Education & Teaching",
-    "Games",
-    "Language Tools",
     "Web Apps & Prototypes"
   ],
   "projects": [
@@ -48,11 +49,11 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 238,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 267,
       "live_final_url": "https://aom.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -113,11 +114,11 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 360,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 338,
       "live_final_url": "https://chk.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -175,11 +176,11 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T06:00:00Z",
-      "live_latency_ms": 162,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 270,
       "live_final_url": "https://euchre.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -234,12 +235,12 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.673Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 162,
-      "live_final_url": "https://jpeckenpaugh.github.io/game-pending/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 288,
+      "live_final_url": "https://gp.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -307,11 +308,11 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 248,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 291,
       "live_final_url": "https://lk.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -372,11 +373,11 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 250,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 190,
       "live_final_url": "https://lunar.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -434,13 +435,13 @@
       "confidence": "high",
       "notes": "Repo mines-livive-net uses the GitHub Pages legacy build from main (`/`) with CNAME mines.livive.net. Live probe returns HTTP 200, title 'mines.livive.net — RL Minesweeper arcade cabinet'. The v2 manifest (version 2) ships nine ONNX checkpoints documented in docs/checkpoints.md and the in-app MODELS tab. Built by the Paperclip team across AIA-10 through AIA-19; deterministic boards support a `?seed=` query string.",
       "thumb": "thumbnails/mines-livive-net.webp",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 237,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 388,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
-      "updated_at": "2026-10-19T09:03:38.806Z",
       "how_to_play": [
         {
           "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
@@ -496,12 +497,12 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 149,
-      "live_final_url": "https://jpeckenpaugh.github.io/p2p-ttt/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 183,
+      "live_final_url": "https://p2p-ttt.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -560,11 +561,11 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 66,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 186,
       "live_final_url": "https://t-sweep.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -617,12 +618,12 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 59,
-      "live_final_url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 304,
+      "live_final_url": "https://v-ttt.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -679,12 +680,12 @@
         }
       ],
       "thumb": "thumbnails/rag-poc.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 55,
-      "live_final_url": "https://jpeckenpaugh.github.io/rag-poc/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 278,
+      "live_final_url": "https://rag.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -738,11 +739,11 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 139,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 362,
       "live_final_url": "https://seekdepth.net/",
       "live_error": null,
       "how_to_play": [
@@ -759,6 +760,136 @@
           "body": "Launch the local FastAPI operator dashboard (./start.sh or uvicorn) on port 8001 to monitor real-time phase runs, inspect agent dispatch prompts and completions, and verify file contract diffs."
         }
       ]
+    },
+    {
+      "key": "trot-livive-net",
+      "repo": "trot-livive-net",
+      "display_title": "TROT — Transparent Rust ONNX Trainer",
+      "tagline": "A tiny neural network you can read, train in the browser, and export to ONNX.",
+      "short_description": "A hand-written Rust neural network compiled to WebAssembly: forward pass, backprop, SGD, and a ~200-line protobuf encoder that exports ONNX—with every weight, gradient, and loss step rendered on screen.",
+      "long_description": "TROT (Transparent Rust ONNX Trainer) is a small neural network built to be inspected rather than trusted. The model, backpropagation, loss, and weight updates are plain Rust loops in trot-core—no ndarray, no autodiff—compiled to WebAssembly so training runs entirely in the browser with no server, Python, or install. Six panels expose the whole pipeline: train with selectable activations and optional L2, export a hand-encoded ONNX graph and verify it with an in-place onnxruntime-web round-trip, browse the deterministic generated corpus (including intentionally flipped labels), inspect the full W1/b1/W2 weight grids, read the last minibatch's gradients cell by cell, and trace a single prediction through z1, activation, z2, and sigmoid. The corpus is a deterministic function of seed and size over a fixed 50-token grammar, so there is no dataset blob, and every number on the page is generated live.",
+      "tags": [
+        "education",
+        "from-scratch",
+        "interpretability",
+        "machine-learning",
+        "neural-network",
+        "onnx",
+        "rust",
+        "wasm"
+      ],
+      "tech": [
+        "Rust",
+        "WebAssembly",
+        "ONNX",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ],
+      "category": "AI/ML Experiments",
+      "live_url": "https://trot.livive.net/",
+      "repo_url": "https://github.com/jpeckenpaugh/trot-livive-net",
+      "has_live_demo": true,
+      "featured": true,
+      "status": "active",
+      "confidence": "high",
+      "notes": "Custom domain trot.livive.net from CNAME; GitHub Pages also serves the repo path. The committed trot.wasm keeps the static site runnable without a Rust toolchain. CI covers unit/gradient/determinism tests, corpus audits, the activation x L2 matrix, a wasm ABI smoke test, and ONNX round-trip validation.",
+      "demos": [
+        {
+          "label": "Train & Trace",
+          "url": "https://trot.livive.net/"
+        },
+        {
+          "label": "Source",
+          "url": "https://github.com/jpeckenpaugh/trot-livive-net"
+        }
+      ],
+      "how_to_play": [
+        {
+          "title": "1. Train a network you can read",
+          "body": "Pick an activation, corpus size, learning rate, batch size, and label-noise rate. The page boots with a 300-step run, then shows the BCE + penalty decomposition and the loss curve as it trains."
+        },
+        {
+          "title": "2. Inspect every number",
+          "body": "Open the Weights and Gradients panels to see W1, b1, W2, and the last minibatch's dW1/db1/dW2/db2. Trace a prediction token by token through z1, h, z2, and sigmoid."
+        },
+        {
+          "title": "3. Export and verify ONNX",
+          "body": "The Export panel writes a four-node opset-13 ONNX graph with a hand-rolled protobuf encoder, then loads the bytes into onnxruntime-web and compares every test prediction against the in-browser model."
+        }
+      ],
+      "thumb": "thumbnails/trot-livive-net.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 548,
+      "live_final_url": "https://trot.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-20T21:54:51Z"
+    },
+    {
+      "key": "mines-sm",
+      "repo": "mines-sm",
+      "display_title": "mine-sm — Minesweeper RL Environment",
+      "tagline": "A deterministic, no_std Minesweeper state machine shaped for reinforcement learning.",
+      "short_description": "An allocation-free 8x8 Minesweeper engine with seeded SplitMix64 boards, observation/action-mask tensors, configurable strikes, and a browser conformance harness.",
+      "long_description": "mine-sm packages Minesweeper as a tiny reinforcement-learning environment rather than a game. The no_std Rust crate uses a flat 64-cell bitboard with no heap and exposes a three-call API: build a board from a seed or an exact mine mask, apply Reveal/Flag actions, and read back a [f32; 64] observation plus a legal-action mask shaped for a neural network. Bomb placement uses a hand-rolled SplitMix64 PRNG and rejection sampling, so the same (seed, actions) sequence produces byte-identical games on Wasm and native x86/ARM. Rules are configurable between classic sudden death and multi-strike/shielded play, and the engine implements safe first reveal, zero-cell cascade, flag protection, and terminal-state masking. The live harness visualizes observations and masks, auto-plays winning and losing lines, and runs conformance checks against the Rust engine; the repo includes golden, proptest, and scenario suites plus a quickstart example and ONNX-policy-friendly tooling.",
+      "tags": [
+        "deterministic",
+        "environment",
+        "minesweeper",
+        "no-std",
+        "onnx",
+        "reinforcement-learning",
+        "rust",
+        "wasm"
+      ],
+      "tech": [
+        "Rust",
+        "WebAssembly",
+        "JavaScript",
+        "HTML5"
+      ],
+      "category": "AI/ML Experiments",
+      "live_url": "https://mines-sm.livive.net/",
+      "repo_url": "https://github.com/jpeckenpaugh/mines-sm",
+      "has_live_demo": true,
+      "featured": false,
+      "status": "active",
+      "confidence": "high",
+      "notes": "Custom domain mines-sm.livive.net from CNAME; GitHub Pages also serves the repo path. The importable crate is named mine-sm (module mine_sm), while the repo and listing key are mines-sm. Dual-licensed MIT/Apache-2.0. Distinct from the mines-livive-net arcade game: this is the headless RL environment and conformance harness.",
+      "demos": [
+        {
+          "label": "Open Harness",
+          "url": "https://mines-sm.livive.net/"
+        },
+        {
+          "label": "Source",
+          "url": "https://github.com/jpeckenpaugh/mines-sm"
+        }
+      ],
+      "how_to_play": [
+        {
+          "title": "1. Step the environment",
+          "body": "Reveal or flag cells on a seeded 8x8 board. The harness shows the engine's observation encoding (-1 hidden, -0.5 flagged, -2 detonated, 0.0-0.8 adjacency) and the action mask returned to an agent."
+        },
+        {
+          "title": "2. Change the rules",
+          "body": "Switch between classic sudden death and multi-strike shielded play, then auto-play a winning or losing line to see how strikes and terminal masking behave."
+        },
+        {
+          "title": "3. Verify determinism",
+          "body": "Run the built-in conformance checks against the Rust engine. Identical seeds and action sequences reproduce identical boards across Wasm and native targets."
+        }
+      ],
+      "thumb": "thumbnails/mines-sm.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 224,
+      "live_final_url": "https://mines-sm.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-20T21:54:57Z"
     },
     {
       "key": "seekdepth.org",
@@ -794,11 +925,11 @@
         }
       ],
       "thumb": "thumbnails/seekdepth.org.webp",
-      "updated_at": "2026-07-05T06:37:26Z",
+      "updated_at": "2026-10-18T11:25:01Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 153,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 445,
       "live_final_url": "https://seekdepth.org/",
       "live_error": null
     },
@@ -839,7 +970,7 @@
       "notes": "No GitHub Pages and no CNAME, so no live URL. Description and README self-describe this as an experimental proof-of-concept. Single initial commit window (created and last pushed 2026-01-11); 0 stars.",
       "demos": [],
       "thumb": "thumbnails/ai_chat_distil_01.webp",
-      "updated_at": "2026-01-11T12:06:52Z",
+      "updated_at": "2026-10-18T11:25:13Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -881,7 +1012,7 @@
       "notes": "Dossier live probe list is empty; GitHub Pages disabled and homepage null, so no live demo. Primary artifact is an architectural specification (README) plus an algebra EKC workbench with a FastAPI/SQLAlchemy backend and React/Vite/Tailwind frontend. Apache-2.0 licensed, 0 stars, last pushed 2026-09-20.",
       "demos": [],
       "thumb": "thumbnails/cde.webp",
-      "updated_at": "2026-09-20T18:01:52Z",
+      "updated_at": "2026-10-18T11:25:17Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -923,7 +1054,7 @@
       "notes": "No live probe results (dossier live: []); has_pages false and homepage null, so no live_url. Runs locally via docker compose on http://localhost:8000.",
       "demos": [],
       "thumb": "thumbnails/qsbc.webp",
-      "updated_at": "2026-09-11T02:05:01Z",
+      "updated_at": "2026-10-18T11:25:21Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -964,13 +1095,149 @@
       "notes": "No GitHub Pages, homepage, or live probe results in dossier; no CNAME observed. Category chosen as AI/ML Experiments since it is a data-synthesis toolset for RAG development. Single scenario completed; reusability and evaluation artifacts remain future work.",
       "demos": [],
       "thumb": "thumbnails/rag-data-synthesizer.webp",
-      "updated_at": "2026-10-08T08:36:14Z",
+      "updated_at": "2026-10-18T11:25:23Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
       "live_latency_ms": null,
       "live_final_url": null,
       "live_error": null
+    },
+    {
+      "key": "fourcast-livive-net",
+      "repo": "fourcast-livive-net",
+      "display_title": "fourcast · Four Visual Paradigms",
+      "tagline": "Four computer-vision architectures, one cats-vs-dogs forecast—side by side in the browser.",
+      "short_description": "An interactive comparison of HOG+SVM, a from-scratch CNN, MobileNet transfer learning, and DINOv2 probes, running client-side on ONNX Runtime Web with live holdout metrics.",
+      "long_description": "fourcast puts four computer-vision paradigms on the same cats-vs-dogs task and lets you inspect where they agree and where they break. The Playground accepts a dragged or uploaded image (or a random holdout sample) and runs all four predictors in the browser: a HOG feature extractor with an SVM, a small convolutional network trained from scratch, a MobileNet transfer-learning head, and a linear probe over DINOv2 embeddings. Dedicated tabs expose the benchmark table and confusion behavior, the theory behind each paradigm, and the Rust/WASM inference code. Models are cached for instant startup, and the recorded holdout results show the expected spread—75% for the scratch CNN, 96.09% for MobileNet transfer learning, and 99.22% for the DINOv2 probe.",
+      "tags": [
+        "cnn",
+        "computer-vision",
+        "dinov2",
+        "hog",
+        "image-classification",
+        "onnx",
+        "svm",
+        "transfer-learning",
+        "wasm",
+        "webgpu"
+      ],
+      "tech": [
+        "Rust",
+        "WebAssembly",
+        "ONNX Runtime Web",
+        "WebGPU",
+        "JavaScript",
+        "Python"
+      ],
+      "category": "Computer Vision",
+      "live_url": "https://fourcast.livive.net/",
+      "repo_url": "https://github.com/jpeckenpaugh/fourcast-livive-net",
+      "has_live_demo": true,
+      "featured": true,
+      "status": "active",
+      "confidence": "high",
+      "notes": "Custom domain fourcast.livive.net from CNAME; GitHub Pages also serves the repo path. Ships a committed cats-vs-dogs holdout set with recorded metrics in data/all_model_metrics.json. The README is only a one-line summary; the site itself carries the benchmark and paradigm documentation.",
+      "demos": [
+        {
+          "label": "Open Playground",
+          "url": "https://fourcast.livive.net/"
+        },
+        {
+          "label": "Source",
+          "url": "https://github.com/jpeckenpaugh/fourcast-livive-net"
+        }
+      ],
+      "how_to_play": [
+        {
+          "title": "1. Pick a sample",
+          "body": "Choose a holdout cat or dog, upload your own image, or hit Random Sample. The same pixels are fed to all four pipelines."
+        },
+        {
+          "title": "2. Compare the forecasts",
+          "body": "HOG+SVM, the scratch CNN, MobileNet transfer learning, and the DINOv2 probe each report a prediction and confidence. Watch the classical and foundation-model approaches diverge on hard crops."
+        },
+        {
+          "title": "3. Read the evidence",
+          "body": "Switch to Benchmarking & Metrics for the holdout table, Paradigm Theory for the trade-offs, and Rust / WASM Code to see the client-side inference implementation."
+        }
+      ],
+      "thumb": "thumbnails/fourcast-livive-net.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 176,
+      "live_final_url": "https://fourcast.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-20T21:54:53Z"
+    },
+    {
+      "key": "ocr-livive-net",
+      "repo": "ocr-livive-net",
+      "display_title": "OCR · Four Classifiers from Scratch",
+      "tagline": "Browser-native handwriting recognition with every classifier built from first principles.",
+      "short_description": "MNIST OCR in WebAssembly with four transparent classifiers—centroid, k-NN, perceptron, and a hand-written MLP—trained in a Web Worker and scored live.",
+      "long_description": "ocr-livive-net is a browser-native optical character recognizer that hides nothing. Four classifiers are implemented from scratch in Rust and compiled to WebAssembly: nearest-centroid over ten mean digit images, k-NN (k=3) over the training set, a softmax perceptron trained with mini-batch SGD, and a 784-32-10 MLP with hand-written backprop. All four train in a Web Worker on 10,000 MNIST images and are scored on 1,000 held-out digits, reaching roughly 77%, 92%, 88%, and 93% respectively. Drawn input is normalized with MNIST's own preprocessing—integer grayscale, bounding box, box filter to 20x20, and center-of-mass placement in a 28x28 frame. There is no ML framework or cloud call; the arithmetic is inspectable end to end.",
+      "tags": [
+        "computer-vision",
+        "from-scratch",
+        "image-processing",
+        "knn",
+        "machine-learning",
+        "mlp",
+        "mnist",
+        "ocr",
+        "perceptron",
+        "wasm"
+      ],
+      "tech": [
+        "Rust",
+        "WebAssembly",
+        "JavaScript",
+        "Web Workers",
+        "HTML5",
+        "CSS3"
+      ],
+      "category": "Computer Vision",
+      "live_url": "https://ocr.livive.net/",
+      "repo_url": "https://github.com/jpeckenpaugh/ocr-livive-net",
+      "has_live_demo": true,
+      "featured": true,
+      "status": "active",
+      "confidence": "high",
+      "notes": "Custom domain ocr.livive.net from CNAME; GitHub Pages deploys built pkg/ artifacts on every push to main. MNIST subsets are committed as raw .u8 files. No README claims for the ONNX path beyond src/onnx.rs; the four classifiers above are the documented benchmark.",
+      "demos": [
+        {
+          "label": "Draw & Recognize",
+          "url": "https://ocr.livive.net/"
+        },
+        {
+          "label": "Source",
+          "url": "https://github.com/jpeckenpaugh/ocr-livive-net"
+        }
+      ],
+      "how_to_play": [
+        {
+          "title": "1. Draw a digit",
+          "body": "Use the canvas to write a single digit. The stroke is converted to integer grayscale, cropped to its bounding box, downsampled to 20x20, and centered by mass in a 28x28 frame."
+        },
+        {
+          "title": "2. Compare four classifiers",
+          "body": "Centroid, k-NN, perceptron, and MLP each return a prediction with their own confidence. The live table shows how the simple baselines fail where the MLP succeeds."
+        },
+        {
+          "title": "3. Train in the browser",
+          "body": "Training runs in a Web Worker on committed MNIST subsets, so you can watch accuracy evolve and re-run the benchmark without a backend."
+        }
+      ],
+      "thumb": "thumbnails/ocr-livive-net.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 154,
+      "live_final_url": "https://ocr.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-20T21:54:55Z"
     },
     {
       "key": "hebrew-language-tutor",
@@ -1012,12 +1279,12 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 70,
-      "live_final_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 378,
+      "live_final_url": "https://hebrew.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1072,12 +1339,12 @@
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 56,
-      "live_final_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 230,
+      "live_final_url": "https://hindi.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1133,12 +1400,12 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
       "thumb": "thumbnails/nexttext.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 51,
-      "live_final_url": "https://jpeckenpaugh.github.io/nexttext/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 355,
+      "live_final_url": "https://nexttext.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1158,6 +1425,72 @@
           "body": "Inspect real-time token frequency distributions and gender detection diagnostics executed entirely in your browser with zero server roundtrips via WebAssembly."
         }
       ]
+    },
+    {
+      "key": "yds-livive-net",
+      "repo": "yds-livive-net",
+      "display_title": "You Don't Say",
+      "tagline": "An offline, listen-first conversation reader where your choices bend the dialogue.",
+      "short_description": "A browser-only language-learning reader with branching conversations, synchronized L1/L2 audio and text, hover glosses, and replay-one-decision mode—no server, no API keys.",
+      "long_description": "You Don't Say is an interactive, listen-first conversation reader for language learners. You hear two people talking; at decision points the audio pauses and you choose what one speaker says next, guiding a linear timeline that interpolates your choices into later lines. Read and Hear are independent axes—L1, L2, both, or neither—and a third channel supplies author-written hints rather than literal translation. Hovering any word or phrase reveals an on-demand gloss. The four decisions produce eight authored lines instead of sixteen forked scripts, and afterward a one-decision replay shows how the same conversation resolves differently. Everything is a static single-page app: Supertonic TTS voices both languages with one voice identity, OPUS-MT translation runs client-side, and no network call is needed after first load. The current catalog is Spanish/English.",
+      "tags": [
+        "branching-dialogue",
+        "conversation",
+        "language-learning",
+        "listening",
+        "offline",
+        "spanish",
+        "translation",
+        "tts"
+      ],
+      "tech": [
+        "TypeScript",
+        "Preact",
+        "Vite",
+        "WebAssembly",
+        "Supertonic TTS",
+        "OPUS-MT"
+      ],
+      "category": "Language Tools",
+      "live_url": "https://yds.livive.net/",
+      "repo_url": "https://github.com/jpeckenpaugh/yds-livive-net",
+      "has_live_demo": true,
+      "featured": true,
+      "status": "prototype",
+      "confidence": "high",
+      "notes": "Custom domain yds.livive.net from CNAME; GitHub Pages deploy workflow included. The README is explicitly a concept narrative and defers to docs/design D1-D7. Current authored content is Spanish/English (cafe, clothes shopping, getting there, not feeling well), delivered by a Vite + Preact + TypeScript SPA with client-side models.",
+      "demos": [
+        {
+          "label": "Listen & Choose",
+          "url": "https://yds.livive.net/"
+        },
+        {
+          "label": "Source",
+          "url": "https://github.com/jpeckenpaugh/yds-livive-net"
+        }
+      ],
+      "how_to_play": [
+        {
+          "title": "1. Pick a conversation",
+          "body": "Choose a scene and set your language pair. Read and Hear can each be L1, L2, both, or off, so you can listen first and reveal text only when needed."
+        },
+        {
+          "title": "2. Guide the dialogue",
+          "body": "At each decision point two option cards appear. Your pick plays, joins the transcript, and sets a variable that later lines interpolate—so the story bends without forking into separate scripts."
+        },
+        {
+          "title": "3. Replay the road not taken",
+          "body": "Hover any phrase for a gloss, toggle hints off for a harder listen, and afterwards swap a single decision to hear the same conversation arrive somewhere else."
+        }
+      ],
+      "thumb": "thumbnails/yds-livive-net.webp",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 181,
+      "live_final_url": "https://yds.livive.net/",
+      "live_error": null,
+      "updated_at": "2026-10-20T21:54:59Z"
     },
     {
       "key": "apertiasm-en-es",
@@ -1194,7 +1527,7 @@
       "notes": "Description calls it experimental. No GitHub Pages (has_pages false) and no CNAME, so no live URL; demo is served locally via scripts/stage4/serve-demo.sh. Repo has 0 stars and no license.",
       "demos": [],
       "thumb": "thumbnails/apertiasm-en-es.webp",
-      "updated_at": "2026-03-03T02:50:51Z",
+      "updated_at": "2026-10-18T11:37:35Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1234,7 +1567,7 @@
       "notes": "No homepage, no GitHub Pages, no CNAME. Language is Python; requirements.txt lists beautifulsoup4>=4.12.0 and spacy>=3.7.0. Ships install.sh and parse.sh plus a committed output/ directory of generated CSVs. Created and last pushed 2026-09-18 (single-day, 0 stars, no license).",
       "demos": [],
       "thumb": "thumbnails/c3pa-sentence-label-parser.webp",
-      "updated_at": "2026-09-18T21:15:58Z",
+      "updated_at": "2026-10-20T08:59:05Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1284,17 +1617,18 @@
       "confidence": "high",
       "notes": "Companion to the working snow-cuad POC. Repo snow-compliance-demo publishes to compliance.livive.net. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice.",
       "thumb": "thumbnails/snow-compliance-demo.webp",
+      "updated_at": "2026-10-20T09:45:55Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 53,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 339,
       "live_final_url": "https://compliance.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-16T18:40:31Z"
+      "live_error": null
     },
     {
       "key": "snow-cuad",
       "repo": "snow-cuad",
+      "category": "Dev Tools",
       "display_title": "Snow CUAD",
       "tagline": "Automated first POC build of the Snowflake contract intelligence platform over 510 CUAD contracts.",
       "short_description": "The clean, automated first POC build of the Snowflake legal contract compliance and intelligence idea. Loads the 510-contract CUAD corpus into Snowflake with full-text clause search, related-contract scoring, RBAC roles (lawyer, auditor, admin), and an append-only access audit log.",
@@ -1320,7 +1654,6 @@
         "GitHub Actions",
         "Docker"
       ],
-      "category": "Dev Tools",
       "live_url": "https://snow-cuad.livive.net/",
       "demos": [
         {
@@ -1345,7 +1678,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-19T09:03:38.806Z",
+      "live_checked_at": "2026-10-20T21:56:08.674Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1412,7 +1745,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-19T09:03:38.806Z",
+      "live_checked_at": "2026-10-20T21:56:08.674Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1463,7 +1796,7 @@
       "notes": "No live probe results and no GitHub Pages/CNAME, so no live demo. Reusable CLI tooling and git-submodule design; recently pushed, not archived.",
       "demos": [],
       "thumb": "thumbnails/roblox-api-database.webp",
-      "updated_at": "2026-06-26T15:17:00Z",
+      "updated_at": "2026-10-18T11:34:45Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1501,7 +1834,7 @@
       "notes": "No live probe results in dossier (live: []) and has_pages is false, so no live demo. Pure Markdown repo (5 .md files, no manifests); tech inferred from README references to Markdown, Gemini CLI and Git. MIT licensed, 0 stars.",
       "demos": [],
       "thumb": "thumbnails/gemini_bootstrap.webp",
-      "updated_at": "2025-10-12T05:27:42Z",
+      "updated_at": "2026-10-18T11:34:48Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1542,7 +1875,7 @@
       "notes": "No homepage, no GitHub Pages, and empty live probe; no live demo. Repo is Markdown-only (37 .md files) with no manifests. License: MIT. Model- and agent-agnostic instructions validated in OpenCode; notable but not a library and has no live demo, so featured is false.",
       "demos": [],
       "thumb": "thumbnails/open-code-workflows.webp",
-      "updated_at": "2026-08-30T19:09:41Z",
+      "updated_at": "2026-10-18T11:34:50Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1586,13 +1919,13 @@
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
-      "live_ok": true,
-      "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 140,
+      "updated_at": "2026-10-20T21:56:08.674Z",
+      "live_ok": false,
+      "live_status": 404,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 77,
       "live_final_url": "https://tc.livive.org/",
-      "live_error": null,
+      "live_error": "HTTP 404",
       "how_to_play": [
         {
           "title": "💾 1. Disk Storage vs. Active RAM",
@@ -1646,7 +1979,7 @@
       "notes": "No description or homepage set on GitHub; no CNAME and Pages disabled, so no live URL. 18 files across two lessons; top-level docker-compose.yml runs the Lesson 1 monitor service. Uses psutil==6.1.0 pinned, other deps unpinned.",
       "demos": [],
       "thumb": "thumbnails/docker-sql-lessons.webp",
-      "updated_at": "2026-08-16T20:55:37Z",
+      "updated_at": "2026-10-18T11:45:06Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1689,7 +2022,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-19T09:03:38.806Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1739,7 +2072,7 @@
       "notes": "Dossier live probe list is empty and has_pages is false, so no live demo exists and live_url is null. No license declared and no manifests. Content is 11 Python files plus README.md (13 files total), a self-contained command-line teaching demo with no dependencies.",
       "demos": [],
       "thumb": "thumbnails/python_classes.webp",
-      "updated_at": "2026-02-08T02:42:39Z",
+      "updated_at": "2026-10-18T11:45:08Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -1787,12 +2120,12 @@
         }
       ],
       "thumb": "thumbnails/c3pa-explorer.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 274,
-      "live_final_url": "https://jpeckenpaugh.github.io/c3pa-explorer/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 286,
+      "live_final_url": "https://c3pa.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1831,17 +2164,17 @@
         "sqlite"
       ],
       "tech": [
-        "Docker",
+        "Alembic",
+        "Bootstrap",
+        "SQLAlchemy",
+        "Python",
+        "JavaScript",
         "fpdf2",
+        "fastapi-users",
         "FastAPI",
         "aiosqlite",
-        "fastapi-users",
-        "Python",
-        "SQLAlchemy",
-        "SQLite",
-        "Bootstrap",
-        "Alembic",
-        "JavaScript"
+        "Docker",
+        "SQLite"
       ],
       "category": "Web Apps & Prototypes",
       "live_url": "https://ch.livive.net/",
@@ -1862,12 +2195,12 @@
         }
       ],
       "thumb": "thumbnails/company-hub.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 58,
-      "live_final_url": "https://jpeckenpaugh.github.io/ch/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 326,
+      "live_final_url": "https://ch.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1927,12 +2260,12 @@
         }
       ],
       "thumb": "thumbnails/driver-hub-prototype.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 60,
-      "live_final_url": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 160,
+      "live_final_url": "https://driver.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -1990,12 +2323,12 @@
         }
       ],
       "thumb": "thumbnails/executive-assistant.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 53,
-      "live_final_url": "https://jpeckenpaugh.github.io/executive-assistant/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 344,
+      "live_final_url": "https://ea.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -2050,12 +2383,12 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 54,
-      "live_final_url": "https://jpeckenpaugh.github.io/herons-fountain/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 344,
+      "live_final_url": "https://fountain.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -2127,11 +2460,11 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 149,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 73,
       "live_final_url": "https://oblique.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2192,12 +2525,12 @@
         }
       ],
       "thumb": "thumbnails/robot-motion-studio.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 71,
-      "live_final_url": "https://jpeckenpaugh.github.io/robot-motion-studio/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 232,
+      "live_final_url": "https://motion.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -2257,12 +2590,12 @@
         }
       ],
       "thumb": "thumbnails/vid-factory.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 59,
-      "live_final_url": "https://jpeckenpaugh.github.io/vid-factory/",
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 230,
+      "live_final_url": "https://vid.livive.net/",
       "live_error": null,
       "how_to_play": [
         {
@@ -2328,11 +2661,11 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-17T00:25:35Z",
-      "live_latency_ms": 162,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 281,
       "live_final_url": "https://tech.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2393,11 +2726,11 @@
         }
       ],
       "thumb": "thumbnails/wasm-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T13:26:18.242Z",
-      "live_latency_ms": 120,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 245,
       "live_final_url": "https://wasm.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2458,11 +2791,11 @@
         }
       ],
       "thumb": "thumbnails/chtbx-livive-net.webp",
-      "updated_at": "2026-10-19T09:03:38.807Z",
+      "updated_at": "2026-10-20T21:56:08.674Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-18T19:31:43.168Z",
-      "live_latency_ms": 68,
+      "live_checked_at": "2026-10-20T21:55:33Z",
+      "live_latency_ms": 133,
       "live_final_url": "https://chtbx.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2521,11 +2854,11 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-19T09:03:38.806Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 238,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 267,
           "live_final_url": "https://aom.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -2547,9 +2880,9 @@
           "key": "chk-livive-net",
           "repo": "chk-livive-net",
           "display_title": "Classic Checkers & AI Arena",
-          "tagline": "English Draughts with in-browser WebLLM AI, persona banter, and a spectator arena",
-          "short_description": "A zero-dependency, client-side Checkers (English Draughts) game with on-device WebLLM AI opponents, an alpha-beta Minimax engine, AI vs AI spectator arena, and pass-and-play.",
-          "long_description": "A modern, zero-dependency, client-side implementation of English Draughts (Checkers) featuring on-device WebLLM AI (Llama 3.2, SmolLM2) running in the browser via WebGPU, persona banter streaming, an AI vs AI Spectator Arena, offline Minimax AI, and a full rules engine. It offers four modes: Player vs Minimax, Player vs LLM AI, AI vs AI Arena, and local Pass & Play. The dual-session LLM architecture separates tactical move selection from personality banter, backed by a robust JSON move parser with corrective retries and heuristic fallbacks. It enforces strict English Draughts rules (mandatory captures, multi-jump locks, immediate crowning, 40-move draw) and includes a built-in prompt/engine debugger plus a preload hardware staging screen. A Godot 4 3D Web edition is also hosted under /godot/.",
+          "tagline": "English Draughts meets in-browser neural intelligence: play instant Minimax, challenge WebGPU LLM personas with live banter, or switch to 3D Godot.",
+          "short_description": "Play English Draughts against instant alpha-beta Minimax, challenge in-browser WebGPU LLM personas with streaming banter, spectate AI vs. AI Arena matches, or launch the 3D Godot 4 client.",
+          "long_description": "Classic 8×8 English Draughts (mandatory jump captures, multi-jump chains, and king crowning) paired with both classical search and client-side WebGPU large language models. Jump straight into an instant game against Alpha-Beta Minimax (Depth 2/4/6), load a local WebLLM model to face 6 trash-talking AI personas streaming live commentary, pit any two controllers against each other in the AI vs. AI Spectator Arena, or switch to the 3D Godot 4 WebGL board.",
           "tags": [
             "checkers",
             "draughts",
@@ -2577,26 +2910,44 @@
           "notes": "Custom domain chk.livive.net from CNAME; GitHub Pages also serves at jpeckenpaugh.github.io/chk-livive-net/. 100 tests via node --test. package.json name is 'godot-checkers'. MIT licensed per README/package.json.",
           "demos": [
             {
-              "label": "Play",
+              "label": "Play 2D Arena",
               "url": "https://chk.livive.net/"
+            },
+            {
+              "label": "Play 3D Godot",
+              "url": "https://chk.livive.net/godot/"
             }
           ],
           "thumb": "thumbnails/chk-livive-net.webp",
-          "updated_at": "2026-10-11T17:17:55Z",
+          "updated_at": "2026-10-18T11:17:41Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 360,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 338,
           "live_final_url": "https://chk.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "♟️ 1. Pick Your Match Mode",
+              "body": "Choose Play vs. Minimax for an instant zero-download game (Easy/Medium/Hard), Play vs. WebLLM AI for in-character WebGPU LLM opponents, AI vs. AI Arena to spectate automated matchups, or 2-Player Local Pass & Play."
+            },
+            {
+              "title": "👑 2. Mandatory Jumps & King Crowning",
+              "body": "Click any piece to highlight legal diagonals (green dots). In standard English Draughts, captures are mandatory—if a jump is available, you must take it and continue any multi-jump chain! Reach the far rank to crown a King."
+            },
+            {
+              "title": "🧠 3. Live Banter, Prompt Inspector & 3D Mode",
+              "body": "Watch in-character taunts stream in the Arena Live Banter feed, click Debug or LLM in the top bar to inspect raw prompts and WebGPU token throughput, or click Play 3D to switch to the Godot 4 3D board."
+            }
+          ]
         },
         {
           "key": "EuchreGame",
           "repo": "EuchreGame",
           "display_title": "EuchreGame",
-          "tagline": "Headless Python Euchre engine with AI data factory and browser sandbox",
-          "short_description": "A headless Python Euchre card game engine with deterministic simulation, AI/ML-friendly state export, a synthetic training-data factory, and a Pyodide browser sandbox.",
-          "long_description": "EuchreGame is a deterministic, headless Python package for simulating partnership Euchre with AI/ML-friendly state export. It builds a 24-card deck with seeded shuffling, runs a stateful engine covering round-one order-up and round-two trump calling, dealer pickup/discard, trick play with left/right bower handling, and legal move generation with effective-suit follow rules. State is JSON-friendly via to_dict/from_dict, and masked per-player views support hidden-information workflows. Beyond the engine, the repo includes a local Data Factory for generating, validating, benchmarking, and reviewing synthetic Euchre decision data for student-model distillation, backed by a FastAPI dashboard over JSONL artifacts. A browser-based sandbox under html/ runs the Python engine through Pyodide (with optional local Gemma/WebLLM AI play) and supports god-view or masked player views.",
+          "tagline": "Deterministic 24-card Python Euchre engine running client-side in Pyodide with God-View vs. Masked-Seat state inspection and an LLM data factory.",
+          "short_description": "Play or step through 4-player partnership Euchre in your browser via Pyodide, toggle between God View and masked AI seat perspectives, or distill synthetic LLM trajectories.",
+          "long_description": "EuchreGame pairs a strict, deterministic Python partnership Euchre engine (full 24-card deck, Round 1 upcard ordering,dealer discard, Round 2 suit calling, Left/Right Bower trump hierarchy, and 10-point partnership scoring) with an in-browser Pyodide sandbox and an offline synthetic data factory. Step trick-by-trick or auto-play seeded hands, switch between God View and single-player masked views to see the exact JSON observation sent to AI agents, or connect a local browser Gemma model.",
           "tags": [
             "card-game",
             "euchre",
@@ -2630,21 +2981,35 @@
           "confidence": "high",
           "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
           "thumb": "thumbnails/EuchreGame.webp",
-          "updated_at": "2026-10-18T06:00:00Z",
+          "updated_at": "2026-10-18T11:17:43Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-18T06:00:00Z",
-          "live_latency_ms": 162,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 270,
           "live_final_url": "https://euchre.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🃏 1. Seeded Pyodide Match & Step Controls",
+              "body": "Enter any numeric seed (e.g., 42) and click New Match. Click Next Move to step through Round 1/Round 2 trump bidding and trick play one decision at a time, or click Auto Play (Slow/Normal/Fast) to watch hands unfold."
+            },
+            {
+              "title": "👁️ 2. God View vs. Masked Seat Views",
+              "body": "Use the View dropdown to toggle between God View (all 4 seats' cards revealed) and Player 0–3 (opponent hands hidden) while inspecting the live Match State JSON and Legal Actions panels below the table."
+            },
+            {
+              "title": "🏭 3. In-Browser Gemma & Synthetic Data Factory",
+              "body": "Switch Play Mode from Random to Local Gemma AI to test client-side LLM card play, or run the repository's Python factory/ pipeline to distill validated teacher trajectories into JSONL training sets."
+            }
+          ]
         },
         {
           "key": "game-pending",
           "repo": "game-pending",
           "display_title": "Game Pending",
-          "tagline": "Vanilla JS Canvas side-scroller gaming prototype built to be extended by AI/ML tooling",
-          "short_description": "A small HTML5 Canvas side-scroller built with vanilla JavaScript and ES modules, featuring black-and-white line art, optional color themes, power-ups, and a Customize menu.",
-          "long_description": "Game Pending is a browser-based side-scroller built with vanilla JavaScript and ES modules on an HTML5 Canvas, with no build step or runtime package dependency. It defaults to a black-and-white line-art Classic presentation with optional color themes applied to the sky, terrain, opponents, gear, weapons, attacks, and drone. Gameplay includes multi-area levels with platforms, underground cave routes, ladders, and left/right wrap portals, plus power-ups such as Boots (mid-air jumps and rocket glide), Shield (hit-blocking and kinetic discharge), Drone strikes, Specs auto-aim, and Radar. A Customize menu adjusts the game name, tagline, starting level, target FPS, weapon (Gun, Club, Wand), opponent behavior, spawning, and world generation, along with template presets, color themes, drone styles, player and opponent head/face options, and starting power-up levels. The project is described as a prototype designed to be extended via AI/ML tooling, and ships a Docker/nginx setup plus OpenCode integration for development.",
+          "tagline": "Clear every enemy wave before your ammo runs dry—or hit 'G' to unleash unlimited sandbox power-ups.",
+          "short_description": "Fast-paced arcade arena platformer with stackable power-ups, rocket-gliding boots, homing missile drones, and instant theme customization.",
+          "long_description": "Battle across multi-tiered arenas with upper platforms, underground caves, and wrap-around teleport portals where every shot costs ammo. Draft stackable power-ups between waves—or press 'G' mid-game to auto-grant and reroll unlimited tiers of Rocket Glide Boots, Kinetic Shields, and Homing Drones. Remix the entire visual theme (Classic line art, Robot, Arcade, Emoji, Farm) and weapon loadout directly in your browser.",
           "tags": [
             "canvas",
             "game",
@@ -2661,11 +3026,11 @@
             "nginx"
           ],
           "category": "Games",
-          "live_url": "https://jpeckenpaugh.github.io/game-pending/",
+          "live_url": "https://gp.livive.net/",
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/game-pending/"
+              "url": "https://gp.livive.net/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/game-pending",
@@ -2675,13 +3040,27 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
           "thumb": "thumbnails/game-pending.webp",
-          "updated_at": "2026-10-16T22:59:33Z",
+          "updated_at": "2026-10-18T11:17:44Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 162,
-          "live_final_url": "https://jpeckenpaugh.github.io/game-pending/",
-          "live_error": null
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 288,
+          "live_final_url": "https://gp.livive.net/",
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🎯 The Objective",
+              "body": "Defeat every enemy in the arena to clear the wave (+4 Ammo & draft 1 of 3 Power-Ups). Every weapon attack costs 1 Ammo—collect green drops or stomp enemies from above to conserve shots."
+            },
+            {
+              "title": "🕹️ Controls",
+              "body": "A/D or Arrows to move · X to Jump (hold X after apex with Boots Lv. 6+ to Rocket Glide) · W/S to aim & climb ladders · Space to fire (Gun, Club, Wand) · Z to Dash · H for in-game Help."
+            },
+            {
+              "title": "⚡ 'G' Key Sandbox Mode",
+              "body": "Press G anytime while playing to open the Power-Up Picker on demand. Keep pressing G inside the picker to auto-grant and reroll unlimited Tier-10 power-ups immediately!"
+            }
+          ]
         },
         {
           "key": "lokarta",
@@ -2692,9 +3071,9 @@
             "lokarta-v4"
           ],
           "display_title": "Lokarta",
-          "tagline": "Come Into The Light — a retro 2D roguelike dungeon crawler in the browser",
-          "short_description": "A zero-backend, client-side 2D roguelike RPG with a real-time 10 Hz tick, dynamic light-and-darkness line-of-sight, and four playable vocations, evolved across four repositories from a Python terminal prototype to a native browser game.",
-          "long_description": "Lokarta: Come Into The Light is a retro-inspired, grid-based 2D roguelike RPG. The project exists as four iterations of the same game: the original lokarta is a local-first Python terminal proof of concept for a BBS-style ASCII RPG (fixed 100x30 screen, JSON-driven content packs, single-key input, engine/UI separation); lokarta-v2 is a browser edition built with TypeScript and Vite, rendered on an HTML5 2D Canvas with a companion FastAPI + SQLite backend for dungeon layout, loot seeding, and character state; lokarta-v3 rebuilds the game as a zero-backend, client-side application using native web standards (ES modules, Web Workers, Canvas 2D, Web Audio API, IndexedDB) with four vocations, a five-tier tower ascent, and a Havenreach town hub; lokarta-v4 is the most complete engine, adding a Dawnreach Isle overworld, an island quest chain, NPC actors, expanded sprite direction sets, and more Web Worker RPC handlers and data catalogs. Gameplay pillars include a light-versus-darkness mechanic where pitch-black chambers are only revealed within a torch or spell light radius, frictionless walkover auto-loot, a roguelike Fate Grant draft on level-up, and multi-modal inputs (tap, hold/charge, double-tap).",
+          "tagline": "Gothic 2D roguelike tower ascent with 4 vocations, Fate Grant card drafting, and a 10 Hz Web Worker simulation engine.",
+          "short_description": "Zero-backend 2D roguelike RPG running at 60 FPS with a 10 Hz Web Worker simulation tick, 4 vocations, Fate Grant card drafting, and Havenreach town progression.",
+          "long_description": "Explore Dawnreach Isle, regroup in Havenreach Town, and ascend procedural multi-floor towers in a zero-backend Gothic roguelike RPG. Choose from 4 distinct vocations (Magician, Archer, Fighter, Paladin), draft 2 of 5 Fate Grant spells, weapons, and relics on every level-up, recruit companions after clearing towers, and hot-swap active party control on the fly while a dedicated 10 Hz Web Worker simulation engine drives combat and AI.",
           "tags": [
             "ascii",
             "browser-game",
@@ -2723,16 +3102,8 @@
           "live_url": "https://lk.livive.net/",
           "demos": [
             {
-              "label": "Play v4 (latest)",
+              "label": "Play",
               "url": "https://lk.livive.net/"
-            },
-            {
-              "label": "Play v3",
-              "url": "https://jpeckenpaugh.github.io/lokarta-v3/"
-            },
-            {
-              "label": "Play v2",
-              "url": "https://jpeckenpaugh.github.io/lokarta-v2/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/lokarta-v4",
@@ -2742,21 +3113,35 @@
           "confidence": "high",
           "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
           "thumb": "thumbnails/lokarta.webp",
-          "updated_at": "2026-10-15T18:10:26Z",
+          "updated_at": "2026-10-18T11:17:46Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 248,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 291,
           "live_final_url": "https://lk.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🕯️ 1. Choose Vocation & Draft Fate Grants",
+              "body": "Start a new save slot, pick Magician, Archer, Fighter, or Paladin, and draft 2 of 5 offered spells, weapons, and relics in the Fate Grant modal at Level 1 and every Level-Up."
+            },
+            {
+              "title": "⚔️ 2. Controls & 10 Action Slots",
+              "body": "Use Arrow Keys to navigate Dawnreach Isle, Havenreach, and Tower floors. Press keys 1–9, 0 and Q/W/E/R to fire spells, swing weapons, and trigger relics (supporting Tap, Hold/Charge, and Double-Tap). Walk over loot to auto-collect."
+            },
+            {
+              "title": "🛡️ 3. Companion Recruitment & Party Hot-Swap",
+              "body": "Clear tower boss floors to unlock new vocations into your active party. Press A or S anytime to switch which hero you control directly while your companions fight autonomously alongside you."
+            }
+          ]
         },
         {
           "key": "rl-livive-net",
           "repo": "rl-livive-net",
           "display_title": "LunarLander Policy Lab",
-          "tagline": "Playable LunarLander arcade with trained RL policy pilots in the browser",
-          "short_description": "A browser-based LunarLander game and reinforcement-learning policy lab. Race against trained PPO pilots, or pilot solo, in a Pyodide-powered arcade cabinet, with an optional terminal launcher for local play.",
-          "long_description": "LunarLander Policy Lab is a playable LunarLander environment POC with a selectable trained-policy controller. The static browser page runs the Python environment in Pyodide 0.23.4 and renders on a JavaScript canvas inside an arcade-cabinet UI, offering Solo Flight and Tournament modes plus a 4 AI Simulations mode. A Stable-Baselines3 policy runs as a small ONNX actor via ONNX Runtime Web's WASM CPU backend, with Human Pilot, AI Pilot, and Autopilot with Override choices, and optional Sensor Fault and Thruster Fault controls. The project includes a deliberately small Gymnasium compatibility shim (not the full package) supporting gymnasium.make(\"LunarLander-v2\"), using PyPyBox2D for pure-Python physics. A terminal launcher supports local play and environment work using numpy and pygame, and a local exporter reproduces the ONNX model from the published Hugging Face PPO checkpoint.",
+          "tagline": "9 trained ONNX policies and Pyodide physics inside a retro vector cabinet—fly solo, co-pilot with live softmax sparklines, or enter the 4-Pilot Cup.",
+          "short_description": "Fly LunarLander-v2 yourself, co-pilot alongside a Stable-Baselines3 PPO policy with live softmax sparklines, or race 4 AI pilots across 10 seeded tournament rounds.",
+          "long_description": "LunarLander Policy Lab brings Gymnasium's classic LunarLander-v2 physics and 9 trained reinforcement-learning checkpoints (PPO, DQN, Dueling DDQN, n-step DQN, Actor-Critic) into a retro vector arcade cabinet powered by Pyodide and ONNX Runtime Web. Fly manually, share the controls in Co-Piloting mode where human thruster input seamlessly overrides the neural pilot on the fly, inspect live action-probability bars and confidence sparklines, or pit 4 pilots against each other in a 10-round tournament with custom House Rules hazards.",
           "tags": [
             "browser-game",
             "gymnasium",
@@ -2793,21 +3178,35 @@
             }
           ],
           "thumb": "thumbnails/rl-livive-net.webp",
-          "updated_at": "2026-10-15T17:51:37Z",
+          "updated_at": "2026-10-18T11:17:47Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 250,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 190,
           "live_final_url": "https://lunar.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🚀 1. Solo Flight, Co-Piloting & AI Pilot",
+              "body": "Click INSERT COIN / START → SINGLE PLAYER. Choose Human Pilot (Arrow Keys / WASD to rotate and fire main thrusters), Co-Piloting (AI flies until you hold any key to override), or AI Pilot to watch any of the 9 neural models land."
+            },
+            {
+              "title": "📊 2. Live Policy Inspector & Softmax Sparklines",
+              "body": "During AI or Co-Pilot flight, watch the bottom-left Policy Inspector panel display real-time COAST / LEFT / BURN / RIGHT softmax probabilities, chosen action logits, and a rolling confidence sparkline."
+            },
+            {
+              "title": "🏆 3. 4-Pilot Tournament & House Rules Hazards",
+              "body": "Select MULTIPLAYER to launch 1v1 Versus, 2v2 Co-Op Doubles, or the 4-Pilot Cup across 10 seeded rounds—and toggle House Rules hazards like Sensor Fault, Thruster Fault, Wind Gusts, and High Gravity."
+            }
+          ]
         },
         {
           "key": "mines-livive-net",
           "repo": "mines-livive-net",
           "display_title": "Minesweeper RL Arcade",
-          "tagline": "Retro arcade cabinet where you race reinforcement-learning policies on 8x8 Minesweeper",
-          "short_description": "An in-browser retro arcade cabinet running ONNX-exported reinforcement-learning policies on a deterministic 8x8 Minesweeper engine. Play a seeded board, watch the AI reason with a live action mask and confidence heatmap, race a checkpoint on the same seed, or run the whole nine-model library in CONCURRENT mode.",
-          "long_description": "Minesweeper RL Arcade is an in-browser retro arcade cabinet built around a deterministic 8x8 Minesweeper engine and a library of ONNX-exported reinforcement-learning policies. It has five modes: PLAY, where you clear a seeded board with a guaranteed-safe first click; AI, where a selected checkpoint plays the same seed with live confidence, per-cell distributions, and a legal-action mask; RACE, a side-by-side human-vs-policy comparison on an identical seed; CONCURRENT, where every checkpoint in the library steps through one board in lockstep with a CLEARED/DETONATED/STUCK scoreboard and points-sorted leaderboard; and MODELS, a details panel for each manifest checkpoint (family, method, architecture, training recipe, file size, and fixed-seed evaluation). The v2 library ships nine documented checkpoints across four families — a uniform baseline, solver-imitation behaviour clones, REINFORCE policy-gradient models, and kernel/single-conv ablations — evaluated from 0% to 61.4% win rate. The app is a static ES-module bundle that fetches models/manifest.json and runs inference through the pinned onnxruntime-web CDN; the engine, featurization, and action-mask contract stay frozen so scores remain comparable across checkpoints. It deploys to GitHub Pages from main at mines.livive.net, guarded by a smoke workflow that asserts the app, the manifest, and every model file are served live.",
+          "tagline": "Human intuition vs. 9 ONNX neural policies on deterministic 8×8 Minesweeper boards with live confidence heatmaps and 9-model lockstep races.",
+          "short_description": "Retro arcade cabinet where you play deterministic 8×8 Minesweeper seeds, inspect live ONNX probability heatmaps, race an RL policy side-by-side, or watch all 9 checkpoints compete simultaneously.",
+          "long_description": "MINES.livive.net turns 8×8 (10-mine) Minesweeper into an interactive reinforcement-learning laboratory. Every board is generated from a shareable deterministic seed (?seed=42) with a guaranteed first-click safe opening. Play manually, step through any of 9 trained ONNX neural checkpoints while inspecting live P(reveal) cyan heatmaps and action masks, race an AI side-by-side on the exact same seed, or watch all 9 checkpoints run concurrently in lockstep.",
           "tags": [
             "arcade-cabinet",
             "browser-game",
@@ -2830,7 +3229,7 @@
           "live_url": "https://mines.livive.net/",
           "demos": [
             {
-              "label": "Play the arcade",
+              "label": "Play",
               "url": "https://mines.livive.net/"
             }
           ],
@@ -2841,21 +3240,35 @@
           "confidence": "high",
           "notes": "Repo mines-livive-net uses the GitHub Pages legacy build from main (`/`) with CNAME mines.livive.net. Live probe returns HTTP 200, title 'mines.livive.net — RL Minesweeper arcade cabinet'. The v2 manifest (version 2) ships nine ONNX checkpoints documented in docs/checkpoints.md and the in-app MODELS tab. Built by the Paperclip team across AIA-10 through AIA-19; deterministic boards support a `?seed=` query string.",
           "thumb": "thumbnails/mines-livive-net.webp",
+          "updated_at": "2026-10-18T11:17:48Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 237,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 388,
           "live_final_url": "https://mines.livive.net/",
           "live_error": null,
-          "updated_at": "2026-10-16T01:40:10Z"
+          "how_to_play": [
+            {
+              "title": "💣 1. PLAY & RACE Modes (Human vs. Seed)",
+              "body": "In PLAY mode, click any cell to open a guaranteed safe flood-fill and toggle Flag Mode to mark mines. Switch to RACE mode to play the exact same deterministic seed side-by-side against a live ONNX neural policy!"
+            },
+            {
+              "title": "🔥 2. AI Mode & Live P(reveal) Heatmaps",
+              "body": "Select any checkpoint (M0 Baseline through M8 Best Policy) in the AI tab and click STEP or PLAY. Toggle HEATMAP ON and MASK ON to visualize the network's exact action probabilities and top-5 ranked candidate moves."
+            },
+            {
+              "title": "⚡ 3. CONCURRENT 9-Model Lockstep Arena",
+              "body": "Open the CONCURRENT tab and click START ALL to watch all 9 neural checkpoints (DQN, PPO, ConvResNet, and Teacher-Distilled policies) solve the exact same board simultaneously."
+            }
+          ]
         },
         {
           "key": "p2p-ttt",
           "repo": "p2p-ttt",
           "display_title": "Peer-to-peer Tic-Tac-Toe",
-          "tagline": "Serverless browser Tic-Tac-Toe played directly between two peers",
-          "short_description": "A local-first, static-web Tic-Tac-Toe proof of concept where two browsers connect directly over WebRTC after exchanging ordinary invitation and reply links, with no backend, accounts, or signaling service.",
-          "long_description": "p2p-ttt is a proof of concept for a local-first, peer-to-peer browser game. Two people start and play Tic-Tac-Toe without an application backend, account system, signaling service, or shared database. A host opens the static site, picks X or O, and shares an invitation link (or QR code); the friend opens it and returns a reply link; the two browsers then establish a direct WebRTC data-channel connection for live play. Each browser runs its own durable local workspace backed by a Web Worker, using sql.js (SQLite compiled to WebAssembly) to persist series, matches, ordered moves, outcomes, and replay history. QR codes are generated with qrcode-generator and scanned with jsQR via the camera. The project is documented with concept, architecture, plan, devops, backlog, and design specs, and includes a small Python static server for local development.",
+          "tagline": "\"Look Ma, No Backend!\" — Serverless peer-to-peer Tic-Tac-Toe over WebRTC DataChannels and in-browser WASM SQLite (Act III of the Tic-Tac-Toe Trilogy).",
+          "short_description": "\"Look Ma, No Backend!\" — Play live browser-to-browser Tic-Tac-Toe over WebRTC DataChannels with QR/link pairing and persistent OPFS WASM SQLite.",
+          "long_description": "Act III of the Tic-Tac-Toe Architecture Trilogy eliminates the backend server entirely. Two browsers pair by exchanging Deflate-compressed URL hashes or scanning full-screen QR codes, stream live moves directly peer-to-peer over WebRTC DataChannels with zero relay server, and persist full replayable match histories inside each browser's local WebAssembly SQLite (sql.js) database backed by the Origin Private File System (OPFS).",
           "tags": [
             "browser-game",
             "local-first",
@@ -2875,7 +3288,7 @@
             "Python"
           ],
           "category": "Games",
-          "live_url": "https://jpeckenpaugh.github.io/p2p-ttt/",
+          "live_url": "https://p2p-ttt.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/p2p-ttt",
           "has_live_demo": true,
           "featured": true,
@@ -2885,25 +3298,39 @@
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/p2p-ttt/"
+              "url": "https://p2p-ttt.livive.net/"
             }
           ],
           "thumb": "thumbnails/p2p-ttt.webp",
-          "updated_at": "2026-09-07T22:47:22Z",
+          "updated_at": "2026-10-18T11:17:50Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 149,
-          "live_final_url": "https://jpeckenpaugh.github.io/p2p-ttt/",
-          "live_error": null
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 183,
+          "live_final_url": "https://p2p-ttt.livive.net/",
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📲 1. Create Invite & QR Code (Host)",
+              "body": "Click Play X or Play O. Your browser creates a local SQLite series, gathers WebRTC ICE candidates, and compresses the SDP Offer into a full-screen QR code and shareable #z... link."
+            },
+            {
+              "title": "🤝 2. Scan or Paste Reply (Friend → Host)",
+              "body": "Your friend scans the QR code (or opens the link in a second browser) to generate a Reply QR code and link. Scan or paste that reply back into the Host tab to open a direct P2P WebRTC DataChannel."
+            },
+            {
+              "title": "🗄️ 3. Live P2P Series & OPFS SQLite History",
+              "body": "Play live with zero server in the middle! Click Rematch? after any game to alternate starting turns across the series, or click any match under Completed matches to inspect the local WASM SQLite move log."
+            }
+          ]
         },
         {
           "key": "threat-sweep",
           "repo": "threat-sweep",
           "display_title": "Threat Sweep",
-          "tagline": "Mobile-first cyber-security puzzle: scan a compromised grid for threats",
-          "short_description": "A mobile-first mine-clearing style puzzle where you play a Security Operator scanning a compromised system for viruses, hackers, rogue AI, malware, and bugs across five missions.",
-          "long_description": "Threat Sweep is a mobile-first cyber-security puzzle game that turns mine-clearing tension into a security-operator fantasy: instead of bombs you scan a compromised grid for viruses, hackers, software bugs, rogue AI bots, and malware, each with its own icon and scan-time behavior. The recommended experience is a standalone static browser edition with a Worker-owned game engine and IndexedDB local saves for sound preference, progression, results, and one resumable mission; it needs no API port. The original React single-page app backed by FastAPI and SQLite remains included as a fallback/reference runtime. Both editions offer a portrait dark command-center presentation, touch-friendly tactical controls, scan/clear/mark actions, nearby-threat signals, scoring, results and attempt history, five seeded missions with progressive unlocking (Signal Breach to Blackout Protocol), and brief Web Audio feedback for scan, mark, clear, warning, success, and failure events.",
+          "tagline": "Probe the signal and isolate the threat—an offline-capable tactical cyber-security grid puzzle with 5 dynamic threat behaviors.",
+          "short_description": "Tactical cyber-security deduction puzzle with Scan/Clear/Mark tools, 5 active threat behaviors (Virus, Hacker, Bug, Bot, Malware), and Web Worker authority.",
+          "long_description": "Threat Sweep reimagines grid deduction as a tactical cyber-defense console. Instead of passive mines, each compromised sector houses one of 5 active threat archetypes—Viruses that boost adjacent signal readings, Hackers that redact nearby telemetry, Software Bugs that corrupt readouts, Rogue AI Bots that relocate when cornered, and Malware that spreads if left unquarantined. Switch between SCAN, CLEAR, and MARK tools across a progressive multi-operation campaign running 100% client-side via a Web Worker authority and IndexedDB storage.",
           "tags": [
             "browser-game",
             "cybersecurity",
@@ -2939,21 +3366,35 @@
             }
           ],
           "thumb": "thumbnails/threat-sweep.webp",
-          "updated_at": "2026-09-08T15:55:20Z",
+          "updated_at": "2026-10-18T11:17:51Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 66,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 186,
           "live_final_url": "https://t-sweep.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "📡 1. SCAN to Probe Signal Strength",
+              "body": "Select the ⌁ SCAN tool in the bottom dock and tap any sector to consume a scan charge and reveal adjacent threat signal strength without risking a breach."
+            },
+            {
+              "title": "🚩 2. MARK & Isolate Dynamic Threats",
+              "body": "Switch to ⚑ MARK to quarantine suspected threat nodes (Virus, Hacker, Bug, Bot, or Malware). Isolating threats prevents Malware spread and unlocks clean telemetry around quarantined sectors."
+            },
+            {
+              "title": "✅ 3. CLEAR Safe Sectors to Secure the Node",
+              "body": "Switch to ＋ CLEAR and tap verified safe sectors until all clean nodes are secured to complete the operation and unlock the next mission in the campaign queue."
+            }
+          ]
         },
         {
           "key": "vibe-tic-tac-toe",
           "repo": "vibe-tic-tac-toe",
           "display_title": "Vibe Tic-Tac-Toe",
-          "tagline": "Two-player tic-tac-toe in plain HTML, CSS, and JavaScript",
-          "short_description": "A single-page two-player tic-tac-toe game built with plain HTML, CSS, and JavaScript, with themes, sound, and a persistent leaderboard.",
-          "long_description": "A simple single-page tic-tac-toe game built with plain HTML, CSS, and JavaScript and no frameworks or build tools. Two players take turns placing X or O on a 3x3 grid, trying to line up three in a row; if the board fills with no winner it is a draw. It includes a title screen with Start Game, Leaderboard, Options, and About, a responsive layout, a local-storage persistent leaderboard tracking X wins, O wins, and draws, win-line highlighting, hover move preview, a game-over overlay, confetti on a win, sound effects, and an options menu for piece themes (Classic, Cats & Dogs, Stars & Moon), symbol colors, and a sound toggle. The game is a static site and can be opened directly or served with the included run.sh, which starts a Python HTTP server on port 8080. The project was built in a single OpenCode coding session using DeepSeek V4 Flash.",
+          "tagline": "The Most Vanilla Game of Tic-Tac-Toe You Will Ever Play! (Built in 33 minutes for $0.15 of AI tokens.)",
+          "short_description": "The Most Vanilla Game of Tic-Tac-Toe You Will Ever Play—built in 33 minutes for $0.15 of DeepSeek V4 Flash tokens as Act I of the Tic-Tac-Toe Architecture Trilogy.",
+          "long_description": "Yes, it is 3×3 local pass-and-play Tic-Tac-Toe—so if you click Play Live alone at your desk, your right hand is playing against your left hand (and if both hands are paying attention, it will end in a draw). Built in a single 33-minute OpenCode session for $0.15 of DeepSeek V4 Flash tokens—complete with 6 emoji piece themes, custom hex colors, Web Audio synth bleeps, and a 60-piece confetti burst—it serves as the pure client-side control group alongside two sibling architecture experiments: Fast TTT (played entirely over curl + ASCII with zero HTML/JS) and P2P TTT (serverless browser-to-browser WebRTC + in-browser WASM SQLite).",
           "tags": [
             "browser-game",
             "javascript",
@@ -2968,11 +3409,11 @@
             "Python"
           ],
           "category": "Games",
-          "live_url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/",
+          "live_url": "https://v-ttt.livive.net/",
           "demos": [
             {
               "label": "Play",
-              "url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/"
+              "url": "https://v-ttt.livive.net/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/vibe-tic-tac-toe",
@@ -2982,13 +3423,27 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
           "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-          "updated_at": "2026-08-18T22:00:01Z",
+          "updated_at": "2026-10-18T11:17:53Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 59,
-          "live_final_url": "https://jpeckenpaugh.github.io/vibe-tic-tac-toe/",
-          "live_error": null
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 304,
+          "live_final_url": "https://v-ttt.livive.net/",
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🕹️ How to Play (Right Hand vs. Left Hand)",
+              "body": "Click Start Game for 2-player local pass-and-play. Hover any square to preview your mark and line up 3 in a row to trigger the pulsing win-line highlight, Web Audio fanfare, and 60-piece confetti celebration."
+            },
+            {
+              "title": "🎨 Customize the Vibe",
+              "body": "Open Options on the title screen to swap between 6 piece themes (Classic X/O, 🐱 Cats & Dogs, ⚔️ Swords & Shields, 🍕 Pizza & Burger, ⭐ Stars & Moon, ❤️ Hearts), custom hex colors, and persistent localStorage Leaderboard stats."
+            },
+            {
+              "title": "🧪 Act I of the Tic-Tac-Toe Trilogy",
+              "body": "Holding the game rules constant isolates three radically different software architectures: Act I (Vibe TTT: $0.15 client-side DOM baseline), Act II (Fast TTT: zero-frontend curl + ASCII server), and Act III (P2P TTT: zero-backend WebRTC + WASM SQLite)."
+            }
+          ]
         }
       ]
     },
@@ -3035,12 +3490,12 @@
             }
           ],
           "thumb": "thumbnails/rag-poc.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 55,
-          "live_final_url": "https://jpeckenpaugh.github.io/rag-poc/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 278,
+          "live_final_url": "https://rag.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -3061,9 +3516,9 @@
           "key": "sm3",
           "repo": "sm3",
           "display_title": "State Machine 3",
-          "tagline": "DB-driven state machine engine for agentic sprint orchestration.",
-          "short_description": "An experimental agentic development system built around a SQLite-backed state machine that drives sprints through plan, write, review, commit, and gate phases.",
-          "long_description": "sm3 (State Machine 3) packages genesis-sm, a standard-library-only, DB-driven state machine engine for agentic sprint orchestration. The CLI (sm) seeds a SQLite database, runs a phased state machine loop (PLAN, WRITE, REVIEW, COMMIT, GATE) over configurable profiles, dispatches OpenCode agents, and can render agent definitions and bootstrap new projects. It ships a FastAPI + Jinja2 operator dashboard for inspecting sprints, phases, dispatches, and profiles. The repository is also the artifact of a 'Trimurti' experiment in which a single model context was forked into three archetype roles — Saraswati (the swan, specification), Matsya (the fish, implementation), and Kurma (the tortoise, witnessing) — to study recursive role collapse and forked-context convergence across parallel agent sessions.",
+          "tagline": "DB-driven state machine engine for agentic sprint orchestration & metalevel archetype alignment.",
+          "short_description": "A standard-library-only, SQLite-backed state machine engine and operator dashboard driving autonomous multi-agent sprint loops without recursive role collapse.",
+          "long_description": "sm3 (State Machine 3) packages genesis-sm, a DB-driven state machine engine for agentic development sprints. The CLI (sm) seeds SQLite, executes linear and branching sprint phase loops (POPULATE_BACKLOG, SPRINT_PLANNING, DESIGN, ARCHITECT, ENGINEER, TEST_BUILD, TEST_RUN, REVIEW, SPRINT_GATE), verifies strict file contracts, and dispatches OpenCode agent sessions. It includes a FastAPI + Jinja2 + Bootstrap 5 operator dashboard for deep event, phase, dispatch, and profile inspection. sm3 is also the artifact of the 'Trimurti' forked-context experiment where three archetype sibling sessions — Saraswati (Swan / Specification), Matsya (Fish / Implementation), and Kurma (Tortoise / Witnessing) — converged across parallel execution.",
           "tags": [
             "agents",
             "multi-agent",
@@ -3094,13 +3549,157 @@
             }
           ],
           "thumb": "thumbnails/sm3.webp",
-          "updated_at": "2026-07-10T10:30:49Z",
+          "updated_at": "2026-10-18T11:24:51Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 139,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 362,
           "live_final_url": "https://seekdepth.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🦢 1. Metalevel Archetype Alignment",
+              "body": "To prevent recursive role collapse in agentic workflows, model contexts are forked into 3 orthogonal archetypes: Saraswati (Specification & Scribe), Matsya (Implementation & Builder), and Kurma (Witnessing & Hypervisor)."
+            },
+            {
+              "title": "⚙️ 2. DB-Driven State Machine Engine",
+              "body": "Run sprints through 9 pipeline states and 8 transitions governed by SQLite tables, enforcing strict file contracts across backlog items, specs, source code, test suites, and test reports."
+            },
+            {
+              "title": "🖥️ 3. Operator Telemetry Dashboard",
+              "body": "Launch the local FastAPI operator dashboard (./start.sh or uvicorn) on port 8001 to monitor real-time phase runs, inspect agent dispatch prompts and completions, and verify file contract diffs."
+            }
+          ]
+        },
+        {
+          "key": "trot-livive-net",
+          "repo": "trot-livive-net",
+          "display_title": "TROT — Transparent Rust ONNX Trainer",
+          "tagline": "A tiny neural network you can read, train in the browser, and export to ONNX.",
+          "short_description": "A hand-written Rust neural network compiled to WebAssembly: forward pass, backprop, SGD, and a ~200-line protobuf encoder that exports ONNX—with every weight, gradient, and loss step rendered on screen.",
+          "long_description": "TROT (Transparent Rust ONNX Trainer) is a small neural network built to be inspected rather than trusted. The model, backpropagation, loss, and weight updates are plain Rust loops in trot-core—no ndarray, no autodiff—compiled to WebAssembly so training runs entirely in the browser with no server, Python, or install. Six panels expose the whole pipeline: train with selectable activations and optional L2, export a hand-encoded ONNX graph and verify it with an in-place onnxruntime-web round-trip, browse the deterministic generated corpus (including intentionally flipped labels), inspect the full W1/b1/W2 weight grids, read the last minibatch's gradients cell by cell, and trace a single prediction through z1, activation, z2, and sigmoid. The corpus is a deterministic function of seed and size over a fixed 50-token grammar, so there is no dataset blob, and every number on the page is generated live.",
+          "tags": [
+            "education",
+            "from-scratch",
+            "interpretability",
+            "machine-learning",
+            "neural-network",
+            "onnx",
+            "rust",
+            "wasm"
+          ],
+          "tech": [
+            "Rust",
+            "WebAssembly",
+            "ONNX",
+            "JavaScript",
+            "HTML5",
+            "CSS3"
+          ],
+          "category": "AI/ML Experiments",
+          "live_url": "https://trot.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/trot-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Custom domain trot.livive.net from CNAME; GitHub Pages also serves the repo path. The committed trot.wasm keeps the static site runnable without a Rust toolchain. CI covers unit/gradient/determinism tests, corpus audits, the activation x L2 matrix, a wasm ABI smoke test, and ONNX round-trip validation.",
+          "demos": [
+            {
+              "label": "Train & Trace",
+              "url": "https://trot.livive.net/"
+            },
+            {
+              "label": "Source",
+              "url": "https://github.com/jpeckenpaugh/trot-livive-net"
+            }
+          ],
+          "how_to_play": [
+            {
+              "title": "1. Train a network you can read",
+              "body": "Pick an activation, corpus size, learning rate, batch size, and label-noise rate. The page boots with a 300-step run, then shows the BCE + penalty decomposition and the loss curve as it trains."
+            },
+            {
+              "title": "2. Inspect every number",
+              "body": "Open the Weights and Gradients panels to see W1, b1, W2, and the last minibatch's dW1/db1/dW2/db2. Trace a prediction token by token through z1, h, z2, and sigmoid."
+            },
+            {
+              "title": "3. Export and verify ONNX",
+              "body": "The Export panel writes a four-node opset-13 ONNX graph with a hand-rolled protobuf encoder, then loads the bytes into onnxruntime-web and compares every test prediction against the in-browser model."
+            }
+          ],
+          "thumb": "thumbnails/trot-livive-net.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 548,
+          "live_final_url": "https://trot.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-20T21:54:51Z"
+        },
+        {
+          "key": "mines-sm",
+          "repo": "mines-sm",
+          "display_title": "mine-sm — Minesweeper RL Environment",
+          "tagline": "A deterministic, no_std Minesweeper state machine shaped for reinforcement learning.",
+          "short_description": "An allocation-free 8x8 Minesweeper engine with seeded SplitMix64 boards, observation/action-mask tensors, configurable strikes, and a browser conformance harness.",
+          "long_description": "mine-sm packages Minesweeper as a tiny reinforcement-learning environment rather than a game. The no_std Rust crate uses a flat 64-cell bitboard with no heap and exposes a three-call API: build a board from a seed or an exact mine mask, apply Reveal/Flag actions, and read back a [f32; 64] observation plus a legal-action mask shaped for a neural network. Bomb placement uses a hand-rolled SplitMix64 PRNG and rejection sampling, so the same (seed, actions) sequence produces byte-identical games on Wasm and native x86/ARM. Rules are configurable between classic sudden death and multi-strike/shielded play, and the engine implements safe first reveal, zero-cell cascade, flag protection, and terminal-state masking. The live harness visualizes observations and masks, auto-plays winning and losing lines, and runs conformance checks against the Rust engine; the repo includes golden, proptest, and scenario suites plus a quickstart example and ONNX-policy-friendly tooling.",
+          "tags": [
+            "deterministic",
+            "environment",
+            "minesweeper",
+            "no-std",
+            "onnx",
+            "reinforcement-learning",
+            "rust",
+            "wasm"
+          ],
+          "tech": [
+            "Rust",
+            "WebAssembly",
+            "JavaScript",
+            "HTML5"
+          ],
+          "category": "AI/ML Experiments",
+          "live_url": "https://mines-sm.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/mines-sm",
+          "has_live_demo": true,
+          "featured": false,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Custom domain mines-sm.livive.net from CNAME; GitHub Pages also serves the repo path. The importable crate is named mine-sm (module mine_sm), while the repo and listing key are mines-sm. Dual-licensed MIT/Apache-2.0. Distinct from the mines-livive-net arcade game: this is the headless RL environment and conformance harness.",
+          "demos": [
+            {
+              "label": "Open Harness",
+              "url": "https://mines-sm.livive.net/"
+            },
+            {
+              "label": "Source",
+              "url": "https://github.com/jpeckenpaugh/mines-sm"
+            }
+          ],
+          "how_to_play": [
+            {
+              "title": "1. Step the environment",
+              "body": "Reveal or flag cells on a seeded 8x8 board. The harness shows the engine's observation encoding (-1 hidden, -0.5 flagged, -2 detonated, 0.0-0.8 adjacency) and the action mask returned to an agent."
+            },
+            {
+              "title": "2. Change the rules",
+              "body": "Switch between classic sudden death and multi-strike shielded play, then auto-play a winning or losing line to see how strikes and terminal masking behave."
+            },
+            {
+              "title": "3. Verify determinism",
+              "body": "Run the built-in conformance checks against the Rust engine. Identical seeds and action sequences reproduce identical boards across Wasm and native targets."
+            }
+          ],
+          "thumb": "thumbnails/mines-sm.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 224,
+          "live_final_url": "https://mines-sm.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-20T21:54:57Z"
         },
         {
           "key": "seekdepth.org",
@@ -3136,11 +3735,11 @@
             }
           ],
           "thumb": "thumbnails/seekdepth.org.webp",
-          "updated_at": "2026-07-05T06:37:26Z",
+          "updated_at": "2026-10-18T11:25:01Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 153,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 445,
           "live_final_url": "https://seekdepth.org/",
           "live_error": null
         },
@@ -3181,7 +3780,7 @@
           "notes": "No GitHub Pages and no CNAME, so no live URL. Description and README self-describe this as an experimental proof-of-concept. Single initial commit window (created and last pushed 2026-01-11); 0 stars.",
           "demos": [],
           "thumb": "thumbnails/ai_chat_distil_01.webp",
-          "updated_at": "2026-01-11T12:06:52Z",
+          "updated_at": "2026-10-18T11:25:13Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3223,7 +3822,7 @@
           "notes": "Dossier live probe list is empty; GitHub Pages disabled and homepage null, so no live demo. Primary artifact is an architectural specification (README) plus an algebra EKC workbench with a FastAPI/SQLAlchemy backend and React/Vite/Tailwind frontend. Apache-2.0 licensed, 0 stars, last pushed 2026-09-20.",
           "demos": [],
           "thumb": "thumbnails/cde.webp",
-          "updated_at": "2026-09-20T18:01:52Z",
+          "updated_at": "2026-10-18T11:25:17Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3265,7 +3864,7 @@
           "notes": "No live probe results (dossier live: []); has_pages false and homepage null, so no live_url. Runs locally via docker compose on http://localhost:8000.",
           "demos": [],
           "thumb": "thumbnails/qsbc.webp",
-          "updated_at": "2026-09-11T02:05:01Z",
+          "updated_at": "2026-10-18T11:25:21Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3306,13 +3905,154 @@
           "notes": "No GitHub Pages, homepage, or live probe results in dossier; no CNAME observed. Category chosen as AI/ML Experiments since it is a data-synthesis toolset for RAG development. Single scenario completed; reusability and evaluation artifacts remain future work.",
           "demos": [],
           "thumb": "thumbnails/rag-data-synthesizer.webp",
-          "updated_at": "2026-10-08T08:36:14Z",
+          "updated_at": "2026-10-18T11:25:23Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
           "live_latency_ms": null,
           "live_final_url": null,
           "live_error": null
+        }
+      ]
+    },
+    {
+      "category": "Computer Vision",
+      "projects": [
+        {
+          "key": "fourcast-livive-net",
+          "repo": "fourcast-livive-net",
+          "display_title": "fourcast · Four Visual Paradigms",
+          "tagline": "Four computer-vision architectures, one cats-vs-dogs forecast—side by side in the browser.",
+          "short_description": "An interactive comparison of HOG+SVM, a from-scratch CNN, MobileNet transfer learning, and DINOv2 probes, running client-side on ONNX Runtime Web with live holdout metrics.",
+          "long_description": "fourcast puts four computer-vision paradigms on the same cats-vs-dogs task and lets you inspect where they agree and where they break. The Playground accepts a dragged or uploaded image (or a random holdout sample) and runs all four predictors in the browser: a HOG feature extractor with an SVM, a small convolutional network trained from scratch, a MobileNet transfer-learning head, and a linear probe over DINOv2 embeddings. Dedicated tabs expose the benchmark table and confusion behavior, the theory behind each paradigm, and the Rust/WASM inference code. Models are cached for instant startup, and the recorded holdout results show the expected spread—75% for the scratch CNN, 96.09% for MobileNet transfer learning, and 99.22% for the DINOv2 probe.",
+          "tags": [
+            "cnn",
+            "computer-vision",
+            "dinov2",
+            "hog",
+            "image-classification",
+            "onnx",
+            "svm",
+            "transfer-learning",
+            "wasm",
+            "webgpu"
+          ],
+          "tech": [
+            "Rust",
+            "WebAssembly",
+            "ONNX Runtime Web",
+            "WebGPU",
+            "JavaScript",
+            "Python"
+          ],
+          "category": "Computer Vision",
+          "live_url": "https://fourcast.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/fourcast-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Custom domain fourcast.livive.net from CNAME; GitHub Pages also serves the repo path. Ships a committed cats-vs-dogs holdout set with recorded metrics in data/all_model_metrics.json. The README is only a one-line summary; the site itself carries the benchmark and paradigm documentation.",
+          "demos": [
+            {
+              "label": "Open Playground",
+              "url": "https://fourcast.livive.net/"
+            },
+            {
+              "label": "Source",
+              "url": "https://github.com/jpeckenpaugh/fourcast-livive-net"
+            }
+          ],
+          "how_to_play": [
+            {
+              "title": "1. Pick a sample",
+              "body": "Choose a holdout cat or dog, upload your own image, or hit Random Sample. The same pixels are fed to all four pipelines."
+            },
+            {
+              "title": "2. Compare the forecasts",
+              "body": "HOG+SVM, the scratch CNN, MobileNet transfer learning, and the DINOv2 probe each report a prediction and confidence. Watch the classical and foundation-model approaches diverge on hard crops."
+            },
+            {
+              "title": "3. Read the evidence",
+              "body": "Switch to Benchmarking & Metrics for the holdout table, Paradigm Theory for the trade-offs, and Rust / WASM Code to see the client-side inference implementation."
+            }
+          ],
+          "thumb": "thumbnails/fourcast-livive-net.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 176,
+          "live_final_url": "https://fourcast.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-20T21:54:53Z"
+        },
+        {
+          "key": "ocr-livive-net",
+          "repo": "ocr-livive-net",
+          "display_title": "OCR · Four Classifiers from Scratch",
+          "tagline": "Browser-native handwriting recognition with every classifier built from first principles.",
+          "short_description": "MNIST OCR in WebAssembly with four transparent classifiers—centroid, k-NN, perceptron, and a hand-written MLP—trained in a Web Worker and scored live.",
+          "long_description": "ocr-livive-net is a browser-native optical character recognizer that hides nothing. Four classifiers are implemented from scratch in Rust and compiled to WebAssembly: nearest-centroid over ten mean digit images, k-NN (k=3) over the training set, a softmax perceptron trained with mini-batch SGD, and a 784-32-10 MLP with hand-written backprop. All four train in a Web Worker on 10,000 MNIST images and are scored on 1,000 held-out digits, reaching roughly 77%, 92%, 88%, and 93% respectively. Drawn input is normalized with MNIST's own preprocessing—integer grayscale, bounding box, box filter to 20x20, and center-of-mass placement in a 28x28 frame. There is no ML framework or cloud call; the arithmetic is inspectable end to end.",
+          "tags": [
+            "computer-vision",
+            "from-scratch",
+            "image-processing",
+            "knn",
+            "machine-learning",
+            "mlp",
+            "mnist",
+            "ocr",
+            "perceptron",
+            "wasm"
+          ],
+          "tech": [
+            "Rust",
+            "WebAssembly",
+            "JavaScript",
+            "Web Workers",
+            "HTML5",
+            "CSS3"
+          ],
+          "category": "Computer Vision",
+          "live_url": "https://ocr.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/ocr-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Custom domain ocr.livive.net from CNAME; GitHub Pages deploys built pkg/ artifacts on every push to main. MNIST subsets are committed as raw .u8 files. No README claims for the ONNX path beyond src/onnx.rs; the four classifiers above are the documented benchmark.",
+          "demos": [
+            {
+              "label": "Draw & Recognize",
+              "url": "https://ocr.livive.net/"
+            },
+            {
+              "label": "Source",
+              "url": "https://github.com/jpeckenpaugh/ocr-livive-net"
+            }
+          ],
+          "how_to_play": [
+            {
+              "title": "1. Draw a digit",
+              "body": "Use the canvas to write a single digit. The stroke is converted to integer grayscale, cropped to its bounding box, downsampled to 20x20, and centered by mass in a 28x28 frame."
+            },
+            {
+              "title": "2. Compare four classifiers",
+              "body": "Centroid, k-NN, perceptron, and MLP each return a prediction with their own confidence. The live table shows how the simple baselines fail where the MLP succeeds."
+            },
+            {
+              "title": "3. Train in the browser",
+              "body": "Training runs in a Web Worker on committed MNIST subsets, so you can watch accuracy evolve and re-run the benchmark without a backend."
+            }
+          ],
+          "thumb": "thumbnails/ocr-livive-net.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 154,
+          "live_final_url": "https://ocr.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-20T21:54:55Z"
         }
       ]
     },
@@ -3359,12 +4099,12 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 70,
-          "live_final_url": "https://jpeckenpaugh.github.io/hebrew-language-tutor/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 378,
+          "live_final_url": "https://hebrew.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -3419,12 +4159,12 @@
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 56,
-          "live_final_url": "https://jpeckenpaugh.github.io/vibe-hindi-language-tutor/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 230,
+          "live_final_url": "https://hindi.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -3480,12 +4220,12 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
           "thumb": "thumbnails/nexttext.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 51,
-          "live_final_url": "https://jpeckenpaugh.github.io/nexttext/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 355,
+          "live_final_url": "https://nexttext.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -3505,6 +4245,72 @@
               "body": "Inspect real-time token frequency distributions and gender detection diagnostics executed entirely in your browser with zero server roundtrips via WebAssembly."
             }
           ]
+        },
+        {
+          "key": "yds-livive-net",
+          "repo": "yds-livive-net",
+          "display_title": "You Don't Say",
+          "tagline": "An offline, listen-first conversation reader where your choices bend the dialogue.",
+          "short_description": "A browser-only language-learning reader with branching conversations, synchronized L1/L2 audio and text, hover glosses, and replay-one-decision mode—no server, no API keys.",
+          "long_description": "You Don't Say is an interactive, listen-first conversation reader for language learners. You hear two people talking; at decision points the audio pauses and you choose what one speaker says next, guiding a linear timeline that interpolates your choices into later lines. Read and Hear are independent axes—L1, L2, both, or neither—and a third channel supplies author-written hints rather than literal translation. Hovering any word or phrase reveals an on-demand gloss. The four decisions produce eight authored lines instead of sixteen forked scripts, and afterward a one-decision replay shows how the same conversation resolves differently. Everything is a static single-page app: Supertonic TTS voices both languages with one voice identity, OPUS-MT translation runs client-side, and no network call is needed after first load. The current catalog is Spanish/English.",
+          "tags": [
+            "branching-dialogue",
+            "conversation",
+            "language-learning",
+            "listening",
+            "offline",
+            "spanish",
+            "translation",
+            "tts"
+          ],
+          "tech": [
+            "TypeScript",
+            "Preact",
+            "Vite",
+            "WebAssembly",
+            "Supertonic TTS",
+            "OPUS-MT"
+          ],
+          "category": "Language Tools",
+          "live_url": "https://yds.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/yds-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "prototype",
+          "confidence": "high",
+          "notes": "Custom domain yds.livive.net from CNAME; GitHub Pages deploy workflow included. The README is explicitly a concept narrative and defers to docs/design D1-D7. Current authored content is Spanish/English (cafe, clothes shopping, getting there, not feeling well), delivered by a Vite + Preact + TypeScript SPA with client-side models.",
+          "demos": [
+            {
+              "label": "Listen & Choose",
+              "url": "https://yds.livive.net/"
+            },
+            {
+              "label": "Source",
+              "url": "https://github.com/jpeckenpaugh/yds-livive-net"
+            }
+          ],
+          "how_to_play": [
+            {
+              "title": "1. Pick a conversation",
+              "body": "Choose a scene and set your language pair. Read and Hear can each be L1, L2, both, or off, so you can listen first and reveal text only when needed."
+            },
+            {
+              "title": "2. Guide the dialogue",
+              "body": "At each decision point two option cards appear. Your pick plays, joins the transcript, and sets a variable that later lines interpolate—so the story bends without forking into separate scripts."
+            },
+            {
+              "title": "3. Replay the road not taken",
+              "body": "Hover any phrase for a gloss, toggle hints off for a harder listen, and afterwards swap a single decision to hear the same conversation arrive somewhere else."
+            }
+          ],
+          "thumb": "thumbnails/yds-livive-net.webp",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 181,
+          "live_final_url": "https://yds.livive.net/",
+          "live_error": null,
+          "updated_at": "2026-10-20T21:54:59Z"
         },
         {
           "key": "apertiasm-en-es",
@@ -3541,7 +4347,7 @@
           "notes": "Description calls it experimental. No GitHub Pages (has_pages false) and no CNAME, so no live URL; demo is served locally via scripts/stage4/serve-demo.sh. Repo has 0 stars and no license.",
           "demos": [],
           "thumb": "thumbnails/apertiasm-en-es.webp",
-          "updated_at": "2026-03-03T02:50:51Z",
+          "updated_at": "2026-10-18T11:37:35Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3581,13 +4387,78 @@
           "notes": "No homepage, no GitHub Pages, no CNAME. Language is Python; requirements.txt lists beautifulsoup4>=4.12.0 and spacy>=3.7.0. Ships install.sh and parse.sh plus a committed output/ directory of generated CSVs. Created and last pushed 2026-09-18 (single-day, 0 stars, no license).",
           "demos": [],
           "thumb": "thumbnails/c3pa-sentence-label-parser.webp",
-          "updated_at": "2026-09-18T21:15:58Z",
+          "updated_at": "2026-10-20T08:59:05Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
           "live_latency_ms": null,
           "live_final_url": null,
           "live_error": null
+        },
+        {
+          "key": "chtbx-livive-net",
+          "repo": "chtbx-livive-net",
+          "display_title": "Chatterbox · Voice-Clone Studio",
+          "tagline": "Zero-shot neural voice cloning workbench for speech synthesis and web audio deployment.",
+          "short_description": "A zero-shot voice-cloning pipeline built on Chatterbox TTS to clone voice prints from short reference audio and batch synthesize normalized web MP3s.",
+          "long_description": "Chatterbox Voice-Clone Studio (chtbx-livive-net) is a reproducible pipeline and workbench for zero-shot neural voice cloning powered by resemble-ai's Chatterbox TTS architecture. Taking a clean 10-second reference recording, the system conditions neural generative diffusion speech models on Apple Silicon MPS or CUDA to clone expressiveness, cadence, and timbre. A batch synthesis runner processes phrase manifests, applies active RMS speech-level normalization (-25 dBFS with a -1 dBFS limiter), and outputs universally decodable 24 kHz mono MP3s directly to audio/v1/ for instant web integration.",
+          "tags": [
+            "voice-clone",
+            "text-to-speech",
+            "audio-synthesis",
+            "neural-audio",
+            "tts",
+            "chatterbox"
+          ],
+          "tech": [
+            "Python",
+            "Chatterbox TTS",
+            "PyTorch",
+            "MPS/Metal",
+            "ffmpeg",
+            "GitHub Pages",
+            "HTML/CSS"
+          ],
+          "category": "Language Tools",
+          "live_url": "https://chtbx.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/chtbx-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Zero-shot voice cloning pipeline powering portfolio speech audio at chtbx.livive.net/audio/v1/",
+          "demos": [
+            {
+              "label": "Live Audio CDN",
+              "url": "https://chtbx.livive.net/audio/v1/"
+            },
+            {
+              "label": "GitHub Repo",
+              "url": "https://github.com/jpeckenpaugh/chtbx-livive-net"
+            }
+          ],
+          "thumb": "thumbnails/chtbx-livive-net.webp",
+          "updated_at": "2026-10-18T19:29:00Z",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 133,
+          "live_final_url": "https://chtbx.livive.net/",
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🎙️ 1. Reference Voice Conditioning",
+              "body": "Record or prep a ~10-second clean speech sample (ref.wav). The pipeline checks active RMS levels and feeds conditioning latents into the Chatterbox speech encoder."
+            },
+            {
+              "title": "📜 2. Batch Phrase Synthesis",
+              "body": "Edit phrases.txt and run 'make web'. The neural model loads once on Apple Silicon MPS, synthesizing all target portfolio sentences in a single optimized pass."
+            },
+            {
+              "title": "🔊 3. Speech-Level Normalization & Web Delivery",
+              "body": "Clips are normalized to active RMS (-25 dBFS) with a safety limiter and saved as 24 kHz mono MP3s to audio/v1/, served via GitHub Pages with full CORS enabled."
+            }
+          ]
         }
       ]
     },
@@ -3598,7 +4469,7 @@
           "key": "snow-compliance-demo",
           "repo": "snow-compliance-demo",
           "display_title": "Snowflake Compliance Demo",
-          "tagline": "Board-review plan and working POC for a Snowflake legal-compliance platform",
+          "tagline": "Board-review plan and simulated architecture for a Snowflake legal-compliance platform (companion to working POC snow-cuad)",
           "short_description": "A board-review site and working offline proof of concept for a Snowflake legal-compliance platform built on the public CUAD contract dataset plus synthetic law-firm records, covering the data model, row-access policies, column masking, risk views, and audit queries.",
           "long_description": "The Snowflake Compliance Demo stages a proposed Snowflake integration for legal contract review. It pairs a board-facing static site — purpose, ten recommendations, delivery phases, architecture, data foundation, confidentiality model, risk analysis, audit verification, and a Snowflake-options comparison — with a working Python + SQLite proof of concept that enforces matter-level access control and records an audit log, designed to port directly to Snowflake. Contract data comes from the public Contract Understanding Atticus Dataset (CUAD, CC BY 4.0), normalized into RAW CSVs by ingest/load_cuad.py; clients, matters, staff, assignments, and approvals are synthetic data generated with Faker. The POC simulates Snowflake role context, row-access policies, masking, and query history offline (poc/snowflake_sim.py), so no Snowflake account is required. The repository also ships the target Snowflake DDL (sql/01-05: database and roles, data model, row access and masking, risk views, audit queries), a Python offline-SQL portability harness with CI, and a clickable interactive demo (demo/index.html) with role-based login. The Snowflake component is simulated for now: offline emulators run SQL but do not enforce governance, so row-access-policy and masking validation is deferred to a free trial. The contract-risk rubric is simulated and is not legal advice.",
           "tags": [
@@ -3622,23 +4493,11 @@
             "GitHub Actions"
           ],
           "category": "Dev Tools",
-          "live_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
+          "live_url": "https://compliance.livive.net/",
           "demos": [
             {
-              "label": "Overview",
-              "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/"
-            },
-            {
-              "label": "Architecture",
-              "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/architecture.html"
-            },
-            {
-              "label": "POC & findings",
-              "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/poc.html"
-            },
-            {
-              "label": "Interactive demo",
-              "url": "https://jpeckenpaugh.github.io/snow-compliance-demo/demo/index.html"
+              "label": "Play",
+              "url": "https://compliance.livive.net/"
             }
           ],
           "repo_url": "https://github.com/jpeckenpaugh/snow-compliance-demo",
@@ -3646,23 +4505,24 @@
           "featured": true,
           "status": "board review",
           "confidence": "high",
-          "notes": "Repo snow-compliance-demo auto-publishes to GitHub Pages (legacy build from `/`) on every push to main; live at jpeckenpaugh.github.io/snow-compliance-demo/. Live probe returns HTTP 200 with title 'Overview · Snow Compliance Demo'. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice. Built by the Paperclip team across AIA-21, AIA-22, and AIA-23.",
+          "notes": "Companion to the working snow-cuad POC. Repo snow-compliance-demo publishes to compliance.livive.net. CUAD is CC BY 4.0 with attribution retained; all firm records are synthetic; the risk rubric is simulated, not legal advice.",
           "thumb": "thumbnails/snow-compliance-demo.webp",
+          "updated_at": "2026-10-20T09:45:55Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 53,
-          "live_final_url": "https://jpeckenpaugh.github.io/snow-compliance-demo/",
-          "live_error": null,
-          "updated_at": "2026-10-16T18:40:31Z"
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 339,
+          "live_final_url": "https://compliance.livive.net/",
+          "live_error": null
         },
         {
           "key": "snow-cuad",
           "repo": "snow-cuad",
+          "category": "Dev Tools",
           "display_title": "Snow CUAD",
           "tagline": "Automated first POC build of the Snowflake contract intelligence platform over 510 CUAD contracts.",
           "short_description": "The clean, automated first POC build of the Snowflake legal contract compliance and intelligence idea. Loads the 510-contract CUAD corpus into Snowflake with full-text clause search, related-contract scoring, RBAC roles (lawyer, auditor, admin), and an append-only access audit log.",
-          "long_description": "Snow CUAD implements the clean, automated first POC build of the Snowflake legal-compliance platform idea (paired with the snow-compliance-demo board-review architecture). Using the public Contract Understanding Atticus Dataset (CUAD v1 — 510 commercial M&A contracts annotated across 41 legal clause categories), this repository delivers an end-to-end reproducible pipeline from \\\"make pipeline\\\" through a self-hosted Streamlit legal exploration console.\\n\\nFeatures include:\\n• Fast clause search with query highlighting and surrounding contract context spans\\n• Structured filtering by 41 clause categories, agreement types, jurisdictions, and counterparties\\n• Related contract recommendations scored by shared counterparties, clause overlap, and agreement types\\n• Least-privilege multi-role RBAC (Lawyer, Auditor, Admin) powered by Snowflake service credentials rather than ACCOUNTADMIN\\n• Append-only access audit logging capturing all search queries, contract inspections, and user sessions.",
+          "long_description": "Snow CUAD implements the clean, automated first POC build of the Snowflake legal-compliance platform idea (paired with the snow-compliance-demo board-review architecture). Using the public Contract Understanding Atticus Dataset (CUAD v1 — 510 commercial M&A contracts annotated across 41 legal clause categories), this repository delivers an end-to-end reproducible pipeline from 'make pipeline' through a self-hosted Streamlit legal exploration console.\\n\\nFeatures include:\\n• Fast clause search with query highlighting and surrounding contract context spans\\n• Structured filtering by 41 clause categories, agreement types, jurisdictions, and counterparties\\n• Related contract recommendations scored by shared counterparties, clause overlap, and agreement types\\n• Least-privilege multi-role RBAC (Lawyer, Auditor, Admin) powered by Snowflake service credentials rather than ACCOUNTADMIN\\n• Append-only access audit logging capturing all search queries, contract inspections, and user sessions.",
           "tags": [
             "cuad",
             "snowflake",
@@ -3684,7 +4544,6 @@
             "GitHub Actions",
             "Docker"
           ],
-          "category": "Dev Tools",
           "live_url": "https://snow-cuad.livive.net/",
           "demos": [
             {
@@ -3709,11 +4568,11 @@
           "thumb": "thumbnails/snow-cuad.webp",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-18T01:00:00Z",
-          "live_latency_ms": 60,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 261,
           "live_final_url": "https://snow-cuad.livive.net/",
           "live_error": null,
-          "updated_at": "2026-10-18T00:52:05Z",
+          "updated_at": "2026-10-18T11:34:31Z",
           "how_to_play": [
             {
               "title": "🔍 Clause Search & Highlighting",
@@ -3734,21 +4593,25 @@
           "repo": "sprites-livive-net",
           "display_title": "Sprites · Model-to-Sprite Workshop",
           "tagline": "Turn 3D GLB/glTF models into sprite sheets and single sprites in your browser",
-          "short_description": "A browser-based 3D-to-sprite workshop for previewing turntable views and animation frames, then exporting sprite sheets or cropped single sprites.",
-          "long_description": "Sprites is a static, browser-based 3D-to-sprite workshop. Select a GLB/glTF model and animation clip, preview sampled views and frames, configure camera pitch, view count, output dimensions, and background, then render and export a row-major PNG or adaptive-palette WebP sprite sheet. It also supports capturing a single angle with automatic bounds cropping, optional JSON metadata, and optional derived diagonal animation directions. The project is a companion asset-preparation tool for the Oblique 2.5D scene sandbox.",
+          "short_description": "A browser-based 3D-to-sprite workshop for previewing turntable views and animation frames, deriving 8 diagonal directional angles with shear/rotation warping, and exporting adaptive-palette WebP or PNG sprite sheets.",
+          "long_description": "Sprites is a static, browser-based 3D-to-sprite workshop companion tool for the Oblique 2.5D engine. Load GLB/glTF models with Three.js, preview turntable multi-angle views and animated walk cycles, configure camera pitch (0° to 80°), view count, and output dimensions, and inspect live 16-direction matrices with runtime shear/rotational warping. Export row-major PNG or adaptive-palette WebP sprite sheets with embedded XMP metadata, or capture single angles cropped to pixel bounding boxes.",
           "tags": [
             "3d-models",
             "game-assets",
             "glb",
+            "gltf",
             "sprite-sheets",
-            "web-tool"
+            "threejs",
+            "webgl",
+            "dev-tools"
           ],
           "tech": [
             "JavaScript",
             "HTML",
             "CSS",
             "Three.js",
-            "WebGL"
+            "WebGL",
+            "Canvas"
           ],
           "category": "Dev Tools",
           "live_url": "https://sprites.livive.net/",
@@ -3765,17 +4628,31 @@
           "repo_url": "https://github.com/jpeckenpaugh/sprites-livive-net",
           "has_live_demo": true,
           "featured": true,
-          "status": "active",
+          "status": "live",
           "confidence": "high",
-          "notes": "Live site title is 'Model Browser · Turntable'. README describes a browser-based 3D-to-sprite workshop and links to the companion Oblique sandbox. Static site; Three.js is loaded from jsDelivr.",
+          "notes": "Static browser-based 3D-to-sprite workshop loading Three.js from jsDelivr. Companion asset-preparation tool for Oblique 2.5D scene sandbox.",
           "thumb": "thumbnails/sprites-livive-net.webp",
-          "updated_at": "2026-10-15T16:47:11Z",
+          "updated_at": "2026-10-18T11:34:21Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 181,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 257,
           "live_final_url": "https://sprites.livive.net/",
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🧊 1. Select Model & Multi-Directional Mode",
+              "body": "Choose from 25+ built-in GLB/glTF character and prop models, pick an animation clip (e.g. walk cycle), set resolution from 64×64 to 1080p, and preview simultaneous 8-directional animated loops."
+            },
+            {
+              "title": "📐 2. Pitch, Angle & Algorithmic Diagonal Warping",
+              "body": "Tweak camera pitch (0° level to 80° top-down) and observe the 5×5 directional matrix displaying rendered cardinal poses alongside real-time shear/rotation derived diagonal angles."
+            },
+            {
+              "title": "📦 3. Crop Bounding Box & Export Sprite Atlas",
+              "body": "Isolate single angles with tight alpha-channel auto-cropping, or export full row-major sprite sheets with adaptive 256-color palette quantization to WebP (lossless with XMP) or 32-bit PNG."
+            }
+          ]
         },
         {
           "key": "roblox-api-database",
@@ -3809,7 +4686,7 @@
           "notes": "No live probe results and no GitHub Pages/CNAME, so no live demo. Reusable CLI tooling and git-submodule design; recently pushed, not archived.",
           "demos": [],
           "thumb": "thumbnails/roblox-api-database.webp",
-          "updated_at": "2026-06-26T15:17:00Z",
+          "updated_at": "2026-10-18T11:34:45Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3847,7 +4724,7 @@
           "notes": "No live probe results in dossier (live: []) and has_pages is false, so no live demo. Pure Markdown repo (5 .md files, no manifests); tech inferred from README references to Markdown, Gemini CLI and Git. MIT licensed, 0 stars.",
           "demos": [],
           "thumb": "thumbnails/gemini_bootstrap.webp",
-          "updated_at": "2025-10-12T05:27:42Z",
+          "updated_at": "2026-10-18T11:34:48Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3888,7 +4765,7 @@
           "notes": "No homepage, no GitHub Pages, and empty live probe; no live demo. Repo is Markdown-only (37 .md files) with no manifests. License: MIT. Model- and agent-agnostic instructions validated in OpenCode; notable but not a library and has no live demo, so featured is false.",
           "demos": [],
           "thumb": "thumbnails/open-code-workflows.webp",
-          "updated_at": "2026-08-30T19:09:41Z",
+          "updated_at": "2026-10-18T11:34:50Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -3937,13 +4814,13 @@
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-19T09:03:38.806Z",
-          "live_ok": true,
-          "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 140,
+          "updated_at": "2026-10-20T21:56:08.674Z",
+          "live_ok": false,
+          "live_status": 404,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 77,
           "live_final_url": "https://tc.livive.org/",
-          "live_error": null,
+          "live_error": "HTTP 404",
           "how_to_play": [
             {
               "title": "💾 1. Disk Storage vs. Active RAM",
@@ -3997,7 +4874,7 @@
           "notes": "No description or homepage set on GitHub; no CNAME and Pages disabled, so no live URL. 18 files across two lessons; top-level docker-compose.yml runs the Lesson 1 monitor service. Uses psutil==6.1.0 pinned, other deps unpinned.",
           "demos": [],
           "thumb": "thumbnails/docker-sql-lessons.webp",
-          "updated_at": "2026-08-16T20:55:37Z",
+          "updated_at": "2026-10-18T11:45:06Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
@@ -4009,9 +4886,9 @@
           "key": "fast-ttt",
           "repo": "fast-ttt",
           "display_title": "fast-ttt",
-          "tagline": "ASCII tic-tac-toe over HTTP, played with curl to teach client/server",
-          "short_description": "A text-based tic-tac-toe game served by FastAPI that responds in pure plain text, playable by two players using curl or a browser.",
-          "long_description": "fast-ttt is a minimal teaching tool that demonstrates client/server principles using a game of tic-tac-toe. Two players interact over plain HTTP with curl or a web browser, and the FastAPI server replies with ASCII boards and text only — no HTML, JavaScript, CSS, or JSON (the sole exception being FastAPI's auto-generated Swagger UI at /docs). It supports creating games, viewing boards, playing numbered moves, random auto-moves, per-game move history, and home-page statistics, with winning lines highlighted. Game state is persisted in SQLite via SQLAlchemy, and moves commit atomically across board, turn, status, and history. Docs (OVERVIEW.md and FAST-API.md) are served by the app itself to explain how clients and servers communicate.",
+          "tagline": "\"Look Ma, No Browser!\" — Two-player ASCII Tic-Tac-Toe played entirely over curl and plain-text HTTP (Act II of the Tic-Tac-Toe Trilogy).",
+          "short_description": "\"Look Ma, No Browser!\" — Play two-player ASCII Tic-Tac-Toe over curl and plain-text HTTP backed by FastAPI, SQLAlchemy, and SQLite.",
+          "long_description": "Act II of the Tic-Tac-Toe Architecture Trilogy strips away HTML, CSS, JavaScript, and even JSON to teach raw client-server fundamentals. Two players (or scripts) compete entirely via curl requests against a FastAPI + SQLAlchemy + SQLite backend that responds with plain-text ASCII boards, atomic move validation, and highlighted winning lines.",
           "tags": [
             "cli",
             "game",
@@ -4040,13 +4917,27 @@
           "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
           "demos": [],
           "thumb": "thumbnails/fast-ttt.webp",
-          "updated_at": "2026-08-18T20:31:40Z",
+          "updated_at": "2026-10-18T11:45:03Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
           "live_latency_ms": null,
           "live_final_url": null,
-          "live_error": null
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "🚀 1. Boot the Server (./install.sh && ./run.sh)",
+              "body": "Clone fast-ttt and run ./install.sh && ./run.sh. Uvicorn boots on http://localhost:8000 and automatically creates the relational SQLite database (src/data.db)."
+            },
+            {
+              "title": "💻 2. Play From Two Terminals Over curl",
+              "body": "Run curl http://localhost:8000/games/new to start a match, then alternate moves with curl http://localhost:8000/games/1/player/X/move/5 (or let the server pick a move via /games/1/auto)."
+            },
+            {
+              "title": "🛡️ 3. Atomic SQLite State & Plain-Text Errors",
+              "body": "Every request returns pure text/plain ASCII grids. Out-of-turn or occupied-square moves return HTTP 409 Conflict with the current board and error message; completed games highlight the winning line ([X]|[X]|[X])."
+            }
+          ]
         },
         {
           "key": "python_classes",
@@ -4076,13 +4967,74 @@
           "notes": "Dossier live probe list is empty and has_pages is false, so no live demo exists and live_url is null. No license declared and no manifests. Content is 11 Python files plus README.md (13 files total), a self-contained command-line teaching demo with no dependencies.",
           "demos": [],
           "thumb": "thumbnails/python_classes.webp",
-          "updated_at": "2026-02-08T02:42:39Z",
+          "updated_at": "2026-10-18T11:45:08Z",
           "live_ok": null,
           "live_status": null,
           "live_checked_at": null,
           "live_latency_ms": null,
           "live_final_url": null,
           "live_error": null
+        },
+        {
+          "key": "wasm-livive-net",
+          "repo": "wasm-livive-net",
+          "display_title": "WebAssembly Architectural Realities",
+          "tagline": "Empirical technical reality check on WebAssembly vs. Node.js & plain JavaScript with verified project implementations and live browser benchmarks.",
+          "short_description": "An architectural deep-dive and interactive lab analyzing what WebAssembly is, where it shines, where it is overkill vs. Node.js, and verified benchmarks across real-world runtimes.",
+          "long_description": "WebAssembly in Practice cuts through hype to deliver an empirical architectural decision framework for modern web engineering. Through interactive benchmarks, memory layout models, and payload size audits across seven production repositories (including Pyodide, Pygbag, sql.js WASM SQLite, and ONNX Runtime Web), it explores the exact boundary crossings, serialization overheads, and sandboxed memory trade-offs between linear WASM execution, V8 JavaScript JIT, Web Workers, and WebGPU.",
+          "tags": [
+            "webassembly",
+            "wasm",
+            "architecture",
+            "education",
+            "benchmarks",
+            "pyodide",
+            "sqlite"
+          ],
+          "tech": [
+            "WebAssembly",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "GitHub Pages",
+            "WASM Runtimes"
+          ],
+          "category": "Education & Teaching",
+          "live_url": "https://wasm.livive.net/",
+          "repo_url": "https://github.com/jpeckenpaugh/wasm-livive-net",
+          "has_live_demo": true,
+          "featured": true,
+          "status": "active",
+          "confidence": "high",
+          "notes": "Custom domain wasm.livive.net configured via CNAME. Comprehensive architectural guide and in-browser benchmark suite. Includes verified payload footprints and runtime routes across Livive portfolio projects.",
+          "demos": [
+            {
+              "label": "Explore Lab",
+              "url": "https://wasm.livive.net/"
+            }
+          ],
+          "thumb": "thumbnails/wasm-livive-net.webp",
+          "updated_at": "2026-10-18T13:36:48Z",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 245,
+          "live_final_url": "https://wasm.livive.net/",
+          "live_error": null,
+          "how_to_play": [
+            {
+              "title": "⚡ 1. The 90-Second Reality Check",
+              "body": "Examine the technical boundaries of WebAssembly: why it is a compilation target for native/managed runtimes rather than a DOM replacement, and where naive boundary crossing slows execution."
+            },
+            {
+              "title": "📊 2. Architectural Decision Matrix",
+              "body": "Navigate the 4-step routing framework: compare state residency (Node.js backend vs. client), legacy logic reuse, Web Worker UI thread isolation, and WebGPU tensor parallelism."
+            },
+            {
+              "title": "⏱️ 3. Live Side-by-Side Benchmark",
+              "body": "Run identical recursive Fibonacci algorithms side-by-side in your live browser session to compare raw 61-byte WebAssembly execution against V8 JIT-optimized JavaScript."
+            }
+          ]
         }
       ]
     },
@@ -4129,12 +5081,12 @@
             }
           ],
           "thumb": "thumbnails/c3pa-explorer.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 274,
-          "live_final_url": "https://jpeckenpaugh.github.io/c3pa-explorer/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 286,
+          "live_final_url": "https://c3pa.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4173,17 +5125,17 @@
             "sqlite"
           ],
           "tech": [
-            "Docker",
+            "Alembic",
+            "Bootstrap",
+            "SQLAlchemy",
+            "Python",
+            "JavaScript",
             "fpdf2",
+            "fastapi-users",
             "FastAPI",
             "aiosqlite",
-            "fastapi-users",
-            "Python",
-            "SQLAlchemy",
-            "SQLite",
-            "Bootstrap",
-            "Alembic",
-            "JavaScript"
+            "Docker",
+            "SQLite"
           ],
           "category": "Web Apps & Prototypes",
           "live_url": "https://ch.livive.net/",
@@ -4204,12 +5156,12 @@
             }
           ],
           "thumb": "thumbnails/company-hub.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 58,
-          "live_final_url": "https://jpeckenpaugh.github.io/ch/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 326,
+          "live_final_url": "https://ch.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4269,12 +5221,12 @@
             }
           ],
           "thumb": "thumbnails/driver-hub-prototype.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 60,
-          "live_final_url": "https://jpeckenpaugh.github.io/driver-hub-prototype/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 160,
+          "live_final_url": "https://driver.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4332,12 +5284,12 @@
             }
           ],
           "thumb": "thumbnails/executive-assistant.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 53,
-          "live_final_url": "https://jpeckenpaugh.github.io/executive-assistant/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 344,
+          "live_final_url": "https://ea.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4392,12 +5344,12 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 54,
-          "live_final_url": "https://jpeckenpaugh.github.io/herons-fountain/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 344,
+          "live_final_url": "https://fountain.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4469,11 +5421,11 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 149,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 73,
           "live_final_url": "https://oblique.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4534,12 +5486,12 @@
             }
           ],
           "thumb": "thumbnails/robot-motion-studio.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 71,
-          "live_final_url": "https://jpeckenpaugh.github.io/robot-motion-studio/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 232,
+          "live_final_url": "https://motion.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4599,12 +5551,12 @@
             }
           ],
           "thumb": "thumbnails/vid-factory.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 59,
-          "live_final_url": "https://jpeckenpaugh.github.io/vid-factory/",
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 230,
+          "live_final_url": "https://vid.livive.net/",
           "live_error": null,
           "how_to_play": [
             {
@@ -4670,11 +5622,11 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-19T09:03:38.807Z",
+          "updated_at": "2026-10-20T21:56:08.674Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-17T00:25:35Z",
-          "live_latency_ms": 162,
+          "live_checked_at": "2026-10-20T21:55:33Z",
+          "live_latency_ms": 281,
           "live_final_url": "https://tech.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4700,11 +5652,13 @@
     }
   ],
   "health": {
-    "checked_at": "2026-10-17T00:25:35Z",
-    "status": "ok",
-    "live_total": 29,
-    "live_ok": 29,
-    "live_down": 0,
-    "down_keys": []
+    "checked_at": "2026-10-20T21:55:33Z",
+    "status": "degraded",
+    "live_total": 36,
+    "live_ok": 35,
+    "live_down": 1,
+    "down_keys": [
+      "tc-livive-org"
+    ]
   }
 }
