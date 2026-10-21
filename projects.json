@@ -49,11 +49,11 @@
         }
       ],
       "thumb": "thumbnails/aom.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 267,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 366,
       "live_final_url": "https://aom.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -114,11 +114,11 @@
         }
       ],
       "thumb": "thumbnails/chk-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 338,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 285,
       "live_final_url": "https://chk.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -176,11 +176,11 @@
       "confidence": "high",
       "notes": "Custom domain euchre.livive.net from CNAME; GitHub Pages serves the Pyodide browser sandbox at https://euchre.livive.net/ (HTTP 200). The bundled html/vendor/pyodide/package.json belongs to the vendored Pyodide runtime, not this project. No license declared.",
       "thumb": "thumbnails/EuchreGame.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 270,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 225,
       "live_final_url": "https://euchre.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -235,11 +235,11 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/game-pending/ (HTTP 200); previously repo-only. Described as a gaming prototype designed to be extended via AI/ML tooling. Also runs locally via python3 -m http.server 8000 -d html or docker-compose.",
       "thumb": "thumbnails/game-pending.webp",
-      "updated_at": "2026-10-20T21:56:08.673Z",
+      "updated_at": "2026-10-21T05:26:16.616Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 288,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 144,
       "live_final_url": "https://gp.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -308,11 +308,11 @@
       "confidence": "high",
       "notes": "Four-repo lineage of one game. lokarta (Python, created 2026-01-26) is the original local terminal/BBS-style ASCII RPG proof of concept, no GitHub Pages, no live demo. lokarta-v2 (TypeScript browser edition, created 2026-09-08) splits a Vite frontend from a FastAPI+SQLite backend and has a live GitHub Pages demo. lokarta-v3 (JavaScript, created 2026-09-27) drops the backend for a fully client-side edition using Web Workers/IndexedDB/Web Audio, adding vocations and a tower ascent. lokarta-v4 (JavaScript, created 2026-10-06, pushed 2026-10-11) is the primary repo: the largest and most complete (528 files, ~16.9 MB, most recent commits), with an overworld, quest chain, NPCs, and expanded sprite/data catalogs. All of v2/v3/v4 have Pages enabled and probed HTTP 200; v4's probe redirected to the custom domain https://lk.livive.net/, used as the best working live URL. Repos have no license and 0 stars.",
       "thumb": "thumbnails/lokarta.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 291,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 186,
       "live_final_url": "https://lk.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -373,11 +373,11 @@
         }
       ],
       "thumb": "thumbnails/rl-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 190,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 355,
       "live_final_url": "https://lunar.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -435,11 +435,11 @@
       "confidence": "high",
       "notes": "Repo mines-livive-net uses the GitHub Pages legacy build from main (`/`) with CNAME mines.livive.net. Live probe returns HTTP 200, title 'mines.livive.net — RL Minesweeper arcade cabinet'. The v2 manifest (version 2) ships nine ONNX checkpoints documented in docs/checkpoints.md and the in-app MODELS tab. Built by the Paperclip team across AIA-10 through AIA-19; deterministic boards support a `?seed=` query string.",
       "thumb": "thumbnails/mines-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 388,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 193,
       "live_final_url": "https://mines.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -497,11 +497,11 @@
         }
       ],
       "thumb": "thumbnails/p2p-ttt.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 183,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 199,
       "live_final_url": "https://p2p-ttt.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -561,11 +561,11 @@
         }
       ],
       "thumb": "thumbnails/threat-sweep.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 186,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 244,
       "live_final_url": "https://t-sweep.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -618,11 +618,11 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/vibe-tic-tac-toe/ (HTTP 200); previously repo-only. run.sh still launches a local Python HTTP server. README reports the project was built in one OpenCode session with DeepSeek V4 Flash.",
       "thumb": "thumbnails/vibe-tic-tac-toe.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.616Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 304,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 184,
       "live_final_url": "https://v-ttt.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -680,11 +680,11 @@
         }
       ],
       "thumb": "thumbnails/rag-poc.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 278,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 170,
       "live_final_url": "https://rag.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -739,11 +739,11 @@
         }
       ],
       "thumb": "thumbnails/sm3.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 362,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 195,
       "live_final_url": "https://seekdepth.net/",
       "live_error": null,
       "how_to_play": [
@@ -819,13 +819,13 @@
         }
       ],
       "thumb": "thumbnails/trot-livive-net.webp",
+      "updated_at": "2026-10-20T21:54:51Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 548,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 192,
       "live_final_url": "https://trot.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-20T21:54:51Z"
+      "live_error": null
     },
     {
       "key": "mines-sm",
@@ -883,13 +883,13 @@
         }
       ],
       "thumb": "thumbnails/mines-sm.webp",
+      "updated_at": "2026-10-20T21:54:57Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 224,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 221,
       "live_final_url": "https://mines-sm.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-20T21:54:57Z"
+      "live_error": null
     },
     {
       "key": "seekdepth.org",
@@ -928,8 +928,8 @@
       "updated_at": "2026-10-18T11:25:01Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 445,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 296,
       "live_final_url": "https://seekdepth.org/",
       "live_error": null
     },
@@ -1163,13 +1163,13 @@
         }
       ],
       "thumb": "thumbnails/fourcast-livive-net.webp",
+      "updated_at": "2026-10-20T21:54:53Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 176,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 233,
       "live_final_url": "https://fourcast.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-20T21:54:53Z"
+      "live_error": null
     },
     {
       "key": "ocr-livive-net",
@@ -1231,13 +1231,13 @@
         }
       ],
       "thumb": "thumbnails/ocr-livive-net.webp",
+      "updated_at": "2026-10-20T21:54:55Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 154,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 301,
       "live_final_url": "https://ocr.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-20T21:54:55Z"
+      "live_error": null
     },
     {
       "key": "hebrew-language-tutor",
@@ -1279,11 +1279,11 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
       "thumb": "thumbnails/hebrew-language-tutor.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 378,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 183,
       "live_final_url": "https://hebrew.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -1339,11 +1339,11 @@
         }
       ],
       "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 230,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 325,
       "live_final_url": "https://hindi.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -1400,11 +1400,11 @@
       "confidence": "high",
       "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
       "thumb": "thumbnails/nexttext.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 355,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 197,
       "live_final_url": "https://nexttext.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -1484,13 +1484,13 @@
         }
       ],
       "thumb": "thumbnails/yds-livive-net.webp",
+      "updated_at": "2026-10-20T21:54:59Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 181,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 314,
       "live_final_url": "https://yds.livive.net/",
-      "live_error": null,
-      "updated_at": "2026-10-20T21:54:59Z"
+      "live_error": null
     },
     {
       "key": "apertiasm-en-es",
@@ -1620,8 +1620,8 @@
       "updated_at": "2026-10-20T09:45:55Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 339,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 453,
       "live_final_url": "https://compliance.livive.net/",
       "live_error": null
     },
@@ -1678,7 +1678,7 @@
       "thumb": "thumbnails/snow-cuad.webp",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:56:08.674Z",
+      "live_checked_at": "2026-10-21T05:26:16.617Z",
       "live_latency_ms": 60,
       "live_final_url": "https://snow-cuad.livive.net/",
       "live_error": null,
@@ -1745,7 +1745,7 @@
       "updated_at": "2026-10-18T02:30:00Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:56:08.674Z",
+      "live_checked_at": "2026-10-21T05:26:16.617Z",
       "live_latency_ms": 180,
       "live_final_url": "https://sprites.livive.net/",
       "live_error": null,
@@ -1905,27 +1905,27 @@
         "GitHub Pages"
       ],
       "category": "Education & Teaching",
-      "live_url": "https://tc.livive.org/",
+      "live_url": "https://tc.livive.net/",
       "repo_url": "https://github.com/jpeckenpaugh/tc-livive-org",
       "has_live_demo": true,
       "featured": true,
       "status": "active",
       "confidence": "high",
-      "notes": "CNAME file points to tc.livive.org, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). No README; evidence drawn from index.html title and the three spec markdown files (concept_specification.md, reframed.md, spec_rev_2.md). Zero external dependencies per specs.",
+      "notes": "CNAME file points to tc.livive.net, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). The repo now includes a README covering the four-module curriculum and the embedded TROT ONNX artifact. Zero external dependencies per specs.",
       "demos": [
         {
           "label": "Launch Lab",
-          "url": "https://tc.livive.org/"
+          "url": "https://tc.livive.net/"
         }
       ],
       "thumb": "thumbnails/tc-livive-org.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
-      "live_ok": false,
-      "live_status": 404,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 77,
-      "live_final_url": "https://tc.livive.org/",
-      "live_error": "HTTP 404",
+      "updated_at": "2026-10-21T05:26:16.617Z",
+      "live_ok": true,
+      "live_status": 200,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 83,
+      "live_final_url": "https://tc.livive.net/",
+      "live_error": null,
       "how_to_play": [
         {
           "title": "💾 1. Disk Storage vs. Active RAM",
@@ -2022,7 +2022,7 @@
       "notes": "No GitHub Pages and no CNAME, so live_url is null. Positioned by the README as a teaching tool for client/server concepts rather than a standalone game, hence Education & Teaching. Local-only server at 0.0.0.0:8000.",
       "demos": [],
       "thumb": "thumbnails/fast-ttt.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": null,
       "live_status": null,
       "live_checked_at": null,
@@ -2120,11 +2120,11 @@
         }
       ],
       "thumb": "thumbnails/c3pa-explorer.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 286,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 220,
       "live_final_url": "https://c3pa.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2164,17 +2164,17 @@
         "sqlite"
       ],
       "tech": [
-        "Alembic",
-        "Bootstrap",
-        "SQLAlchemy",
-        "Python",
-        "JavaScript",
         "fpdf2",
-        "fastapi-users",
-        "FastAPI",
+        "SQLAlchemy",
         "aiosqlite",
+        "Alembic",
         "Docker",
-        "SQLite"
+        "SQLite",
+        "Python",
+        "fastapi-users",
+        "JavaScript",
+        "Bootstrap",
+        "FastAPI"
       ],
       "category": "Web Apps & Prototypes",
       "live_url": "https://ch.livive.net/",
@@ -2195,11 +2195,11 @@
         }
       ],
       "thumb": "thumbnails/company-hub.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 326,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 353,
       "live_final_url": "https://ch.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2260,11 +2260,11 @@
         }
       ],
       "thumb": "thumbnails/driver-hub-prototype.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 160,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 261,
       "live_final_url": "https://driver.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2323,11 +2323,11 @@
         }
       ],
       "thumb": "thumbnails/executive-assistant.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 344,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 183,
       "live_final_url": "https://ea.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2383,11 +2383,11 @@
         }
       ],
       "thumb": "thumbnails/herons-fountain.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 344,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 187,
       "live_final_url": "https://fountain.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2460,11 +2460,11 @@
       "confidence": "high",
       "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
       "thumb": "thumbnails/oblique-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 73,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 81,
       "live_final_url": "https://oblique.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2525,11 +2525,11 @@
         }
       ],
       "thumb": "thumbnails/robot-motion-studio.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 232,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 194,
       "live_final_url": "https://motion.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2590,11 +2590,11 @@
         }
       ],
       "thumb": "thumbnails/vid-factory.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 230,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 528,
       "live_final_url": "https://vid.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2661,11 +2661,11 @@
         }
       ],
       "thumb": "thumbnails/tech-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 281,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 254,
       "live_final_url": "https://tech.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2726,11 +2726,11 @@
         }
       ],
       "thumb": "thumbnails/wasm-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 245,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 282,
       "live_final_url": "https://wasm.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2779,11 +2779,11 @@
       "featured": true,
       "status": "active",
       "confidence": "high",
-      "notes": "Zero-shot voice cloning pipeline powering portfolio speech audio at chtbx.livive.net/audio/v1/",
+      "notes": "Zero-shot voice cloning pipeline powering portfolio speech audio at chtbx.livive.net/audio/v1/. The v1 directory now has a browsable index page so the CDN URL resolves directly.",
       "demos": [
         {
           "label": "Live Audio CDN",
-          "url": "https://chtbx.livive.net/audio/v1/"
+          "url": "https://chtbx.livive.net/audio/v1/index.html"
         },
         {
           "label": "GitHub Repo",
@@ -2791,11 +2791,11 @@
         }
       ],
       "thumb": "thumbnails/chtbx-livive-net.webp",
-      "updated_at": "2026-10-20T21:56:08.674Z",
+      "updated_at": "2026-10-21T05:26:16.617Z",
       "live_ok": true,
       "live_status": 200,
-      "live_checked_at": "2026-10-20T21:55:33Z",
-      "live_latency_ms": 133,
+      "live_checked_at": "2026-10-21T05:26:13Z",
+      "live_latency_ms": 73,
       "live_final_url": "https://chtbx.livive.net/",
       "live_error": null,
       "how_to_play": [
@@ -2854,11 +2854,11 @@
             }
           ],
           "thumb": "thumbnails/aom.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 267,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 366,
           "live_final_url": "https://aom.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -2922,8 +2922,8 @@
           "updated_at": "2026-10-18T11:17:41Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 338,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 285,
           "live_final_url": "https://chk.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -2984,8 +2984,8 @@
           "updated_at": "2026-10-18T11:17:43Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 270,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 225,
           "live_final_url": "https://euchre.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3043,8 +3043,8 @@
           "updated_at": "2026-10-18T11:17:44Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 288,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 144,
           "live_final_url": "https://gp.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3116,8 +3116,8 @@
           "updated_at": "2026-10-18T11:17:46Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 291,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 186,
           "live_final_url": "https://lk.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3181,8 +3181,8 @@
           "updated_at": "2026-10-18T11:17:47Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 190,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 355,
           "live_final_url": "https://lunar.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3243,8 +3243,8 @@
           "updated_at": "2026-10-18T11:17:48Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 388,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 193,
           "live_final_url": "https://mines.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3305,8 +3305,8 @@
           "updated_at": "2026-10-18T11:17:50Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 183,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 199,
           "live_final_url": "https://p2p-ttt.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3369,8 +3369,8 @@
           "updated_at": "2026-10-18T11:17:51Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 186,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 244,
           "live_final_url": "https://t-sweep.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3426,8 +3426,8 @@
           "updated_at": "2026-10-18T11:17:53Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 304,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 184,
           "live_final_url": "https://v-ttt.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3490,11 +3490,11 @@
             }
           ],
           "thumb": "thumbnails/rag-poc.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 278,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 170,
           "live_final_url": "https://rag.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -3552,8 +3552,8 @@
           "updated_at": "2026-10-18T11:24:51Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 362,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 195,
           "live_final_url": "https://seekdepth.net/",
           "live_error": null,
           "how_to_play": [
@@ -3629,13 +3629,13 @@
             }
           ],
           "thumb": "thumbnails/trot-livive-net.webp",
+          "updated_at": "2026-10-20T21:54:51Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 548,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 192,
           "live_final_url": "https://trot.livive.net/",
-          "live_error": null,
-          "updated_at": "2026-10-20T21:54:51Z"
+          "live_error": null
         },
         {
           "key": "mines-sm",
@@ -3693,13 +3693,13 @@
             }
           ],
           "thumb": "thumbnails/mines-sm.webp",
+          "updated_at": "2026-10-20T21:54:57Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 224,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 221,
           "live_final_url": "https://mines-sm.livive.net/",
-          "live_error": null,
-          "updated_at": "2026-10-20T21:54:57Z"
+          "live_error": null
         },
         {
           "key": "seekdepth.org",
@@ -3738,8 +3738,8 @@
           "updated_at": "2026-10-18T11:25:01Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 445,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 296,
           "live_final_url": "https://seekdepth.org/",
           "live_error": null
         },
@@ -3978,13 +3978,13 @@
             }
           ],
           "thumb": "thumbnails/fourcast-livive-net.webp",
+          "updated_at": "2026-10-20T21:54:53Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 176,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 233,
           "live_final_url": "https://fourcast.livive.net/",
-          "live_error": null,
-          "updated_at": "2026-10-20T21:54:53Z"
+          "live_error": null
         },
         {
           "key": "ocr-livive-net",
@@ -4046,13 +4046,13 @@
             }
           ],
           "thumb": "thumbnails/ocr-livive-net.webp",
+          "updated_at": "2026-10-20T21:54:55Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 154,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 301,
           "live_final_url": "https://ocr.livive.net/",
-          "live_error": null,
-          "updated_at": "2026-10-20T21:54:55Z"
+          "live_error": null
         }
       ]
     },
@@ -4099,11 +4099,11 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/hebrew-language-tutor/ (HTTP 200); previously repo-only. GitHub Pages is static, so the live demo serves the static SPA proof-of-concept (hardcoded vocab) rather than the full FastAPI + SQLite client/server app. Repo frames itself as two experiments; 0 stars. Frontend verified by static review rather than browser automation.",
           "thumb": "thumbnails/hebrew-language-tutor.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 378,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 183,
           "live_final_url": "https://hebrew.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4159,11 +4159,11 @@
             }
           ],
           "thumb": "thumbnails/vibe-hindi-language-tutor.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 230,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 325,
           "live_final_url": "https://hindi.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4220,11 +4220,11 @@
           "confidence": "high",
           "notes": "Published to GitHub Pages at https://jpeckenpaugh.github.io/nexttext/ (HTTP 200); previously repo-only. Also a reusable pip-installable library (pyproject name=nexttext, v0.1.0) with MIT license.",
           "thumb": "thumbnails/nexttext.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 355,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 197,
           "live_final_url": "https://nexttext.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4304,13 +4304,13 @@
             }
           ],
           "thumb": "thumbnails/yds-livive-net.webp",
+          "updated_at": "2026-10-20T21:54:59Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 181,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 314,
           "live_final_url": "https://yds.livive.net/",
-          "live_error": null,
-          "updated_at": "2026-10-20T21:54:59Z"
+          "live_error": null
         },
         {
           "key": "apertiasm-en-es",
@@ -4426,11 +4426,11 @@
           "featured": true,
           "status": "active",
           "confidence": "high",
-          "notes": "Zero-shot voice cloning pipeline powering portfolio speech audio at chtbx.livive.net/audio/v1/",
+          "notes": "Zero-shot voice cloning pipeline powering portfolio speech audio at chtbx.livive.net/audio/v1/. The v1 directory now has a browsable index page so the CDN URL resolves directly.",
           "demos": [
             {
               "label": "Live Audio CDN",
-              "url": "https://chtbx.livive.net/audio/v1/"
+              "url": "https://chtbx.livive.net/audio/v1/index.html"
             },
             {
               "label": "GitHub Repo",
@@ -4438,11 +4438,11 @@
             }
           ],
           "thumb": "thumbnails/chtbx-livive-net.webp",
-          "updated_at": "2026-10-18T19:29:00Z",
+          "updated_at": "2026-10-21T05:24:03Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 133,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 73,
           "live_final_url": "https://chtbx.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4510,8 +4510,8 @@
           "updated_at": "2026-10-20T09:45:55Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 339,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 453,
           "live_final_url": "https://compliance.livive.net/",
           "live_error": null
         },
@@ -4568,8 +4568,8 @@
           "thumb": "thumbnails/snow-cuad.webp",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 261,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 348,
           "live_final_url": "https://snow-cuad.livive.net/",
           "live_error": null,
           "updated_at": "2026-10-18T11:34:31Z",
@@ -4635,8 +4635,8 @@
           "updated_at": "2026-10-18T11:34:21Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 257,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 406,
           "live_final_url": "https://sprites.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -4800,27 +4800,27 @@
             "GitHub Pages"
           ],
           "category": "Education & Teaching",
-          "live_url": "https://tc.livive.org/",
+          "live_url": "https://tc.livive.net/",
           "repo_url": "https://github.com/jpeckenpaugh/tc-livive-org",
           "has_live_demo": true,
           "featured": true,
           "status": "active",
           "confidence": "high",
-          "notes": "CNAME file points to tc.livive.org, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). No README; evidence drawn from index.html title and the three spec markdown files (concept_specification.md, reframed.md, spec_rev_2.md). Zero external dependencies per specs.",
+          "notes": "CNAME file points to tc.livive.net, so the custom https domain is preferred over the jpeckenpaugh.github.io/tc-livive-org/ Pages URL (live probe returned 200). The repo now includes a README covering the four-module curriculum and the embedded TROT ONNX artifact. Zero external dependencies per specs.",
           "demos": [
             {
               "label": "Launch Lab",
-              "url": "https://tc.livive.org/"
+              "url": "https://tc.livive.net/"
             }
           ],
           "thumb": "thumbnails/tc-livive-org.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
-          "live_ok": false,
-          "live_status": 404,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 77,
-          "live_final_url": "https://tc.livive.org/",
-          "live_error": "HTTP 404",
+          "updated_at": "2026-10-21T05:26:16.617Z",
+          "live_ok": true,
+          "live_status": 200,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 83,
+          "live_final_url": "https://tc.livive.net/",
+          "live_error": null,
           "how_to_play": [
             {
               "title": "💾 1. Disk Storage vs. Active RAM",
@@ -5017,8 +5017,8 @@
           "updated_at": "2026-10-18T13:36:48Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 245,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 282,
           "live_final_url": "https://wasm.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5081,11 +5081,11 @@
             }
           ],
           "thumb": "thumbnails/c3pa-explorer.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 286,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 220,
           "live_final_url": "https://c3pa.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5125,17 +5125,17 @@
             "sqlite"
           ],
           "tech": [
-            "Alembic",
-            "Bootstrap",
-            "SQLAlchemy",
-            "Python",
-            "JavaScript",
             "fpdf2",
-            "fastapi-users",
-            "FastAPI",
+            "SQLAlchemy",
             "aiosqlite",
+            "Alembic",
             "Docker",
-            "SQLite"
+            "SQLite",
+            "Python",
+            "fastapi-users",
+            "JavaScript",
+            "Bootstrap",
+            "FastAPI"
           ],
           "category": "Web Apps & Prototypes",
           "live_url": "https://ch.livive.net/",
@@ -5156,11 +5156,11 @@
             }
           ],
           "thumb": "thumbnails/company-hub.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 326,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 353,
           "live_final_url": "https://ch.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5221,11 +5221,11 @@
             }
           ],
           "thumb": "thumbnails/driver-hub-prototype.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 160,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 261,
           "live_final_url": "https://driver.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5284,11 +5284,11 @@
             }
           ],
           "thumb": "thumbnails/executive-assistant.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 344,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 183,
           "live_final_url": "https://ea.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5344,11 +5344,11 @@
             }
           ],
           "thumb": "thumbnails/herons-fountain.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 344,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 187,
           "live_final_url": "https://fountain.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5421,11 +5421,11 @@
           "confidence": "high",
           "notes": "Repository README describes a browser-based 2.5D game-world workbench with four featured live pages: the model sandbox, the Playground scene builder (playground.html), Terrain Layers, and Beach Camp. Static HTML, CSS, and vanilla JavaScript; GitHub Pages deploys the repository root. The related Sprites model-to-sprite workshop is hosted at sprites.livive.net.",
           "thumb": "thumbnails/oblique-livive-net.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 73,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 81,
           "live_final_url": "https://oblique.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5486,11 +5486,11 @@
             }
           ],
           "thumb": "thumbnails/robot-motion-studio.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 232,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 194,
           "live_final_url": "https://motion.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5551,11 +5551,11 @@
             }
           ],
           "thumb": "thumbnails/vid-factory.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 230,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 528,
           "live_final_url": "https://vid.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5622,11 +5622,11 @@
             }
           ],
           "thumb": "thumbnails/tech-livive-net.webp",
-          "updated_at": "2026-10-20T21:56:08.674Z",
+          "updated_at": "2026-10-21T05:26:16.617Z",
           "live_ok": true,
           "live_status": 200,
-          "live_checked_at": "2026-10-20T21:55:33Z",
-          "live_latency_ms": 281,
+          "live_checked_at": "2026-10-21T05:26:13Z",
+          "live_latency_ms": 254,
           "live_final_url": "https://tech.livive.net/",
           "live_error": null,
           "how_to_play": [
@@ -5652,13 +5652,11 @@
     }
   ],
   "health": {
-    "checked_at": "2026-10-20T21:55:33Z",
-    "status": "degraded",
+    "checked_at": "2026-10-21T05:26:13Z",
+    "status": "ok",
     "live_total": 36,
-    "live_ok": 35,
-    "live_down": 1,
-    "down_keys": [
-      "tc-livive-org"
-    ]
+    "live_ok": 36,
+    "live_down": 0,
+    "down_keys": []
   }
 }
